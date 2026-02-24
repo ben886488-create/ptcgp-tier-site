@@ -32,8 +32,8 @@ async function loadJson(path){ return (await fetch(path)).json(); }
 function pct(x){ return (x*100).toFixed(1) + "%"; }
 
 (async () => {
-  const tier = await loadJson("../data/tier.json");
-  const players = await loadJson("../data/players.json");
+  const tier = await loadJson("/ptcgp-tier-site/data/tier.json");
+  const players = await loadJson("/ptcgp-tier-site/data/players.json");
 
   const tierBody = document.querySelector("#tier tbody");
   tier.slice(0, 50).forEach(row => {
