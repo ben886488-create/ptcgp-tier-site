@@ -1,3 +1,4 @@
+
 import json, os, datetime, math, time
 from urllib.request import urlopen, Request
 from urllib.error import HTTPError, URLError
@@ -139,7 +140,7 @@ def tier_label(score: float) -> str:
 
 def main():
     tournaments = fetch_recent_tournaments()
-    write_json("data/tournaments.json", tournaments)
+    write_json("web/src/data/tournaments.json", tournaments)
 
     # --- 全部牌組出場（用來算使用率>=1%）---
     deck_total_counts = {}  # deck -> total appearances in standings
@@ -161,9 +162,9 @@ def main():
         details, standings, pairings = load_tournament_full(tid)
 
         # 存 raw（方便你除錯）
-        write_json(f"data/raw/{tid}/details.json", details)
-        write_json(f"data/raw/{tid}/standings.json", standings)
-        write_json(f"data/raw/{tid}/pairings.json", pairings)
+        write_json(f"web/src/data/raw/{tid}/details.json", details)
+        write_json(f"web/src/data/raw/{tid}/standings.json", standings)
+        write_json(f"web/src/data/raw/{tid}/pairings.json", pairings)
 
         # 建 player->deck 對照（勝率矩陣用）
         p2deck = {}
@@ -301,9 +302,9 @@ def main():
     ]
 
     # 輸出
-    write_json("data/tier.json", tier_rows)
-    write_json("data/players.json", players)
-    write_json("data/matchups.json", matchup_out)
+    write_json("web/src/data/tier.json", tier_rows)
+    write_json("web/src/data/players.json", players)
+    write_json("web/src/data/matchups.json", matchup_out)
 
     # 輸出一些全域資訊（可用來顯示「本期統計了幾場、多少Top32樣本」）
     meta = {
@@ -318,7 +319,7 @@ def main():
         "weights": {"data1": W1, "data2": W2, "data3": W3},
         "tier_thresholds": {"S": 0.9, "A": 0.7, "B": 0.5, "C": 0.3, "D": 0.1},
     }
-    write_json("data/meta.json", meta)
+    write_json("web/src/data/meta.json", meta)
 
 if __name__ == "__main__":
     main()

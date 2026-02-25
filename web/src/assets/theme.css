@@ -1,0 +1,37 @@
+:root{
+  --accent: #00afef;
+  --accent-hover: #0096cf;
+
+  /* 深色科技感（我之前推薦的 A 套） */
+  --bg: #071521;
+  --surface: #0b2235;
+  --text: #eaf6ff;
+  --muted: #9fb3c8;
+  --border: #18364d;
+}
+
+html, body{
+  height: 100%;
+}
+
+body{
+  margin: 0;
+  background: radial-gradient(900px 400px at 20% 0%, rgba(0,175,239,.18), transparent 55%), var(--bg);
+  color: var(--text);
+  font-family: var(--font-zh);
+}
+
+.card{
+  background: rgba(11,34,53,.88);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
+  box-shadow: 0 14px 40px rgba(0,0,0,.25);
+}
+
+a.link, a{
+  color: var(--accent);
+}
+a:hover{
+  color: var(--accent-hover);
+}
