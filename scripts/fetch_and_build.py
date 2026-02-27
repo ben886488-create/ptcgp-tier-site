@@ -1,4 +1,4 @@
-
+import shutil
 import json, os, datetime, math, time
 from urllib.request import urlopen, Request
 from urllib.error import HTTPError, URLError
@@ -139,6 +139,10 @@ def tier_label(score: float) -> str:
     return "E"
 
 def main():
+    
+    # ✅ 清掉舊 raw，避免歷史 PTCG/其他遊戲混入前端
+    shutil.rmtree("web/src/data/raw", ignore_errors=True)
+
     tournaments = fetch_recent_tournaments()
     write_json("web/src/data/tournaments.json", tournaments)
 
@@ -161,10 +165,16 @@ def main():
         tid = t["id"]
         details, standings, pairings = load_tournament_full(tid)
 
+        # ✅ 只保留 Pocket
+        game = str(details.get("game", "")).upper()
+        if game != "POCKET":
+            print(f"[skip] tid={tid} details.game={details.get('game')}")
+        continue
+
         # 存 raw（方便你除錯）
         write_json(f"web/src/data/raw/{tid}/details.json", details)
         write_json(f"web/src/data/raw/{tid}/standings.json", standings)
-        write_json(f"web/src/data/raw/{tid}/pairings.json", pairings)
+        write_json(f"web/src/data/raw/{tid}/pairings.json", pairings)     
 
         # 建 player->deck 對照（勝率矩陣用）
         p2deck = {}

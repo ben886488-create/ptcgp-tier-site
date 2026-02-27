@@ -69,9 +69,9 @@ function switchLangTo(next: 'zh' | 'en') {
 const dict = {
   zh: {
     tierList: '牌組排名',
-    tournaments: '比賽牌組',
+    tournaments: '線上比賽',
     topDecks: '最強牌組',
-    topCards: '最強卡片',
+    topCards: '泛用卡片',
     playerRanking: '玩家排名',
     countryRanking: '國家排名',
   },
@@ -79,7 +79,7 @@ const dict = {
     tierList: 'Tier List',
     tournaments: 'Tournaments',
     topDecks: 'Top Decks',
-    topCards: 'Top Cards',
+    topCards: 'Cards Usage',
     playerRanking: 'Player Ranking',
     countryRanking: 'Country Ranking',
   },
@@ -96,8 +96,12 @@ function label(key: keyof typeof dict.zh) {
 .container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 20px; flex: 1; }
 
 .topbar {
-  position: sticky; top: 0; z-index: 50;
-  display: flex; align-items: center; justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 1000; 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   gap: 12px;
   padding: 10px 24px;
   background: rgba(2, 6, 23, 0.75);
@@ -105,15 +109,27 @@ function label(key: keyof typeof dict.zh) {
   border-bottom: 1px solid rgba(255,255,255,0.08);
 }
 
-.topbar__left { min-width: 260px; }
+.topbar__left { min-width: 220px; }
+.topbar__nav  { flex: 1; min-width: 0; }
 .brand { display:flex; gap:12px; align-items:center; text-decoration: none; color: inherit; }
 
 .dot{ width:12px; height:12px; border-radius: 999px; background: var(--accent); box-shadow: 0 0 18px rgba(0,175,239,.55); }
 .logo{ font-family: var(--font-en); letter-spacing:.04em; color: #fff; font-weight: 700; }
 .sub{ color: rgba(226,232,240,.75); font-size: 12px; margin-top: 2px; }
 
-.topbar__nav { display:flex; flex-wrap: wrap; gap: 100px; justify-content: center; }
-.navlink { color: rgba(226,232,240,.75); font-size: 20px; text-decoration: none; }
+.topbar__nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+}
+
+.navlink {
+  color: rgba(226,232,240,.75);
+  font-size: 18px;
+  text-decoration: none;
+  white-space: nowrap;
+}
 .navlink:hover { color: #fff; }
 .navlink.is-active { color: #fff; font-weight: 700; }
 
@@ -125,5 +141,26 @@ function label(key: keyof typeof dict.zh) {
 }
 .lang.is-active { background: rgba(255,255,255,0.10); color: #fff; }
 
+
 .footer{ color: rgba(226,232,240,.65); font-size: 12px; padding: 18px 20px; border-top: 1px solid rgba(255,255,255,0.08); }
+
+/* 中螢幕：字再小一點 + gap 再小一點 */
+@media (max-width: 1100px) {
+  .topbar { padding: 10px 16px; }
+  .topbar__left { min-width: 180px; }
+  .topbar__nav { gap: 12px; }
+  .navlink { font-size: 16px; }
+}
+
+/* 小螢幕：topbar 改成上下兩排（最穩） */
+@media (max-width: 760px) {
+  .topbar {
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  .topbar__left { width: 100%; min-width: 0; }
+  .topbar__nav  { width: 100%; justify-content: flex-start; }
+  .topbar__right { margin-left: auto; }
+}
+
 </style>

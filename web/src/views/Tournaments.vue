@@ -12,62 +12,109 @@
     <!-- Filters -->
     <div class="filters">
       <div class="f">
-        <label>Players（自填）</label>
+        <label>{{ isZh ? "玩家數" : "Players " }}</label>
         <input
           v-model.number="filters.minPlayers"
           type="number"
           inputmode="numeric"
           min="0"
-          placeholder="例如 32"
+          :placeholder="isZh ? '例如 32' : 'e.g： 32'"
         />
-        <div class="hint">最少人數（>=）</div>
+        <div class="hint">{{ isZh ? "多於或等於（>=）" : "More than or equal to (>=)" }}</div>
       </div>
 
       <div class="f">
-        <label>Time</label>
+        <label>{{ isZh ? "日期" : "Time" }}</label>
         <select v-model="filters.time">
-          <option value="past7">過去一週 / Past 7 days</option>
-          <option value="past4w">過去一月 / Past 4 weeks</option>
-          <optgroup label="月份 / Month">
+          <option value="past7">{{ isZh ? "過去一週" : "Past 7 days" }}</option>
+          <option value="past4w">{{ isZh ? "過去一月" : "Past 4 weeks" }}</option>
+          <optgroup :label="isZh ? '月份' : 'Month'">
             <option v-for="m in monthOptions" :key="m.value" :value="m.value">
               {{ m.label }}
             </option>
           </optgroup>
         </select>
-        <div class="hint">以 UTC 日期計算</div>
+        <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div>
       </div>
 
       <div class="f">
-        <label>Set</label>
+        <label>{{ isZh ? "版本" : "Set" }}</label>
         <select v-model="filters.set">
-          <option value="">全部 / All</option>
-          <option v-for="s in setOptions" :key="s" :value="s">{{ s }}</option>
+          <option value="">{{ isZh ? "全部" : "All" }}</option>
+<option v-for="s in setOptions" :key="s" :value="s">
+  {{ versionLabel(s) }}
+</option>
         </select>
-        <div class="hint">需要 details.json 有 set 欄位</div>
+        <div class="hint">{{ isZh ? " " : " " }}</div>
       </div>
 
       <div class="f">
-        <label>Swiss</label>
+        <label>{{ isZh ? "瑞士輪" : "SWISS" }}</label>
         <select v-model="filters.swiss">
-          <option value="">全部 / All</option>
+          <option value="">{{ isZh ? "全部" : "All" }}</option>
           <option value="BO1">BO1</option>
           <option value="BO3">BO3</option>
           <option value="Other">Other</option>
         </select>
-        <div class="hint">從 details 推斷 bestOf / bo</div>
+        <div class="hint">{{ isZh ? " " : " " }}</div>
       </div>
 
       <div class="f">
-        <label>Format</label>
+        <label>{{ isZh ? "賽制" : "Format" }}</label>
         <select v-model="filters.format">
-          <option value="">全部 / All</option>
-          <option value="Standard">標準 / Standard</option>
-          <option value="NoEX">沒有EX / NoEX</option>
-          <option value="Special">特殊 / Special</option>
+          <option value="">{{ isZh ? "全部" : "All" }}</option>
+          <option value="Standard">{{ isZh ? "標準" : "Standard" }}</option>
+          <option value="NoEX">{{ isZh ? "沒有EX" : "NoEX" }}</option>
+          <option value="Special">{{ isZh ? "特殊" : "Special" }}</option>
         </select>
-        <div class="hint">需要 details.json 有 format 欄位</div>
+        <div class="hint">{{ isZh ? " " : " " }}</div>
       </div>
     </div>
+
+    <!-- Pager -->
+<div class="pager">
+  <div class="pager__left">
+    <div class="pager__label">{{ isZh ? "每頁顯示" : "Per page" }}</div>
+
+    <div class="pager__sizes" role="group" :aria-label="isZh ? '每頁筆數' : 'Rows per page'">
+      <button
+
+        v-for="n in PAGE_SIZES"
+        :key="n"
+        type="button"
+        :class="['pagerBtn', pageSize === n ? 'is-active' : '']"
+        :aria-pressed="pageSize === n"
+        @click="setPageSize(n)"
+      >
+        {{ n }}
+
+      </button>
+    </div>
+
+    <div class="pager__summary mono muted">
+      <template v-if="total > 0">
+        {{ isZh ? `顯示第 ${rangeStart}–${rangeEnd} 筆 / 共 ${total} 筆` : `Showing ${rangeStart}–${rangeEnd} of ${total}` }}
+      </template>
+      <template v-else>
+        {{ isZh ? "共 0 筆" : "0 results" }}
+      </template>
+    </div>
+  </div>
+
+  <div class="pager__right">
+    <button class="pagerNav" type="button" @click="prevPage" :disabled="page <= 1">
+      {{ isZh ? "上一頁" : "Prev" }}
+    </button>
+
+    <div class="pager__page mono">
+      {{ isZh ? `第 ${page} / ${pageCount} 頁` : `Page ${page} / ${pageCount}` }}
+    </div>
+
+    <button class="pagerNav" type="button" @click="nextPage" :disabled="page >= pageCount">
+      {{ isZh ? "下一頁" : "Next" }}
+    </button>
+  </div>
+</div>
 
     <!-- Table -->
     <div class="tableWrap">
@@ -75,34 +122,32 @@
         <thead>
           <tr>
             <th class="date">
-              {{ isZh ? "日期" : "Date" }}<br />
-              <span class="muted">{{ isZh ? "Date" : "日期" }}</span>
+              {{ isZh ? "日期" : "Date" }}
             </th>
 
             <th>
-              {{ isZh ? "賽事" : "Name" }}<br />
-              <span class="muted">{{ isZh ? "Name" : "賽事" }}</span>
+              {{ isZh ? "賽事" : "Name" }}
             </th>
 
             <th class="num">
-              {{ isZh ? "人數" : "Players" }}<br />
-              <span class="muted">{{ isZh ? "Players" : "人數" }}</span>
+              {{ isZh ? "人數" : "Players" }}
             </th>
 
             <th class="top4">
-              Top 4 Decks<br />
-              <span class="muted">{{ isZh ? "前四牌組（每副2圖）" : "Top 4 decks (2 icons each)" }}</span>
+              {{ isZh ? "前四名牌組" : "Top 4 Decks" }}<br />
+              <span class="muted">
+                {{ isZh ? " " : " " }}
+              </span>
             </th>
 
             <th class="link">
-              {{ isZh ? "連接" : "Link" }}<br />
-              <span class="muted">{{ isZh ? "Link" : "連接" }}</span>
+              {{ isZh ? "排位" : "Standings" }}
             </th>
           </tr>
         </thead>
 
         <tbody>
-          <tr v-for="t in filtered" :key="t.id">
+          <tr v-for="t in paged" :key="t.id">
             <td class="mono muted">
               {{ t.dateStr }}
             </td>
@@ -111,9 +156,38 @@
               <div class="nameCell">
                 <div class="nameMain">{{ t.name }}</div>
                 <div class="nameMeta muted">
-                  <span v-if="t.set" class="pill">{{ t.set }}</span>
-                  <span v-if="t.format" class="pill">{{ t.format }}</span>
-                  <span v-if="t.swiss" class="pill">{{ t.swiss }}</span>
+                  <button
+                    v-if="t.set"
+                    type="button"
+                    :class="['pill', 'pill--btn', filters.set === t.set ? 'pill--active' : '']"
+                    :aria-pressed="filters.set === t.set"
+                    @click="toggleSet(t.set)"
+                    :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'"
+                  >
+                    {{ versionLabel(t.set) }}
+                  </button>
+
+                  <button
+                    v-if="t.format"
+                    type="button"
+                    :class="['pill', 'pill--btn', filters.format === t.format ? 'pill--active' : '']"
+                    :aria-pressed="filters.format === t.format"
+                    @click="toggleFormat(t.format)"
+                    :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'"
+                  >
+                    {{ formatLabelForUi(t.format) }}
+                  </button>
+
+                  <button
+                    v-if="t.swiss"
+                    type="button"
+                    :class="['pill', 'pill--btn', filters.swiss === t.swiss ? 'pill--active' : '']"
+                    :aria-pressed="filters.swiss === t.swiss"
+                    @click="toggleSwiss(t.swiss)"
+                    :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'"
+                  >
+                    {{ t.swiss }}
+                  </button>
                 </div>
               </div>
             </td>
@@ -198,7 +272,79 @@
 </template>
 
 <script setup lang="ts">
-import { computed, reactive, ref, onMounted, onBeforeUnmount } from "vue";
+import { useRoute } from "vue-router";
+import { computed, reactive, ref, watch } from "vue";
+
+
+function toggleSet(set?: string) {
+  if (!set) return;
+  filters.set = filters.set === set ? "" : set;
+}
+
+function toggleSwiss(s?: SwissLabel) {
+  if (!s) return;
+  filters.swiss = filters.swiss === s ? "" : s;
+}
+
+function toggleFormat(f?: "Standard" | "NoEX" | "Special" | string) {
+  // 你的 filters.format 只接受這三種；其它值就忽略
+  if (f !== "Standard" && f !== "NoEX" && f !== "Special") return;
+  filters.format = filters.format === f ? "" : f;
+}
+
+type FormatLabel = "Standard" | "NoEX" | "Special";
+
+/**
+ * 規則：
+ * - null / undefined / "STANDARD" => Standard
+ * - "NOEX" => NoEX
+ * - "CUSTOM" => Special
+ * - 其他看不懂的 => undefined（不顯示、不參與 filter）
+ */
+function formatFromDetails(details: any): FormatLabel | undefined {
+  const raw = details?.format;
+
+  if (raw == null) return "Standard";
+
+  const s = String(raw).trim().toUpperCase();
+
+  if (s === "" || s === "STANDARD") return "Standard";
+  if (s === "NOEX") return "NoEX";
+  if (s === "CUSTOM") return "Special";
+
+  return undefined;
+}
+
+function formatLabelForUi(f?: FormatLabel | string) {
+  if (!f) return "—";
+  if (f === "NoEX") return "NoEX"; // 你說 NOEX 不分中英文
+
+  if (isZh.value) {
+    if (f === "Standard") return "標準";
+    if (f === "Special") return "特殊";
+  } else {
+    if (f === "Standard") return "Standard";
+    if (f === "Special") return "Special";
+  }
+  return String(f);
+}
+
+function swissLabelFromDetails(details: any): SwissLabel {
+  const phases = Array.isArray(details?.phases) ? details.phases : [];
+
+  // Phase 1：優先找 phase===1；找不到就退回用第一個
+  const p1 = phases.find((p: any) => p?.phase === 1) ?? phases[0];
+
+  const p1Type = String(p1?.type ?? "").toUpperCase();
+  const p1Mode = String(p1?.mode ?? "").toUpperCase();
+
+  // 你的規則：Other 只看 Phase 1
+  if (p1Type !== "SWISS") return "Other";
+  if (p1Mode === "BO1") return "BO1";
+  if (p1Mode === "BO3") return "BO3";
+  return "Other";
+}
+
 
 // 讀取 src/assets/deck-disks 內所有 png
 const diskFiles = import.meta.glob('../assets/deck-disks/*.png', {
@@ -273,31 +419,11 @@ type TournamentRow = {
   standingsUrl: string;
 };
 
-// -------- language detect (no vue-router dependency) --------
-function detectLangFromLocation(): "zh" | "en" {
-  const p = (typeof window !== "undefined" ? window.location.pathname : "") || "";
-  const h = (typeof window !== "undefined" ? window.location.hash : "") || "";
-  // support history mode: /en/..., /zh/...
-  if (p.startsWith("/en/")) return "en";
-  if (p.startsWith("/zh/")) return "zh";
-  // support hash mode: #/en/...
-  if (h.startsWith("#/en/")) return "en";
-  if (h.startsWith("#/zh/")) return "zh";
-  return "zh";
-}
+const route = useRoute();
 
-const lang = ref<"zh" | "en">(detectLangFromLocation());
-function refreshLang() {
-  lang.value = detectLangFromLocation();
-}
-
-onMounted(() => {
-  window.addEventListener("popstate", refreshLang);
-  window.addEventListener("hashchange", refreshLang);
-});
-onBeforeUnmount(() => {
-  window.removeEventListener("popstate", refreshLang);
-  window.removeEventListener("hashchange", refreshLang);
+const lang = computed<"zh" | "en">(() => {
+  const seg = String(route.path).split("/")[1];
+  return seg === "en" ? "en" : "zh";
 });
 
 const isZh = computed(() => lang.value === "zh");
@@ -310,7 +436,7 @@ const ui = computed(() => {
       standingsTitle: "查看 standings",
       emptyText: "沒有符合條件的賽事。請調整 filters，或確認 raw 資料是否存在於 ",
       footText:
-        "tips: 若 icon 沒出現，請確認 standings 裡的 deckIconKeys / deckIconKeyMain&Sub（或 deckIconKey 可切成兩段）能對到 assets/deck-icons 檔名。",
+        " ",
       top4AriaLabel: "前四名牌組（每副2圖）",
     };
   }
@@ -331,13 +457,62 @@ function deckAlt(rank: number, slot: number) {
   return `Top ${rank} deck icon ${slot}`;
 }
 
-const setOptions = [
-  "B2a","B2","B1",
-  "A4b","A4a","A4",
-  "A3b","A3a","A3",
-  "A2b","A2a","A2",
-  "A1a","A1",
-] as const;
+type GameVersionCode =
+  | "A1" | "A1a" | "A2" | "A2a" | "A2b"
+  | "A3" | "A3a" | "A3b" | "A4" | "A4a" | "A4b"
+  | "B1" | "B1a" | "B2" | "B2a";
+
+type GameVersion = {
+  code: GameVersionCode;
+  nameZh: string;
+  nameEn: string;
+  releaseUtcIso: string; // ISO string in UTC
+  releaseMs: number;     // Date.parse(releaseUtcIso)
+};
+
+const GAME_VERSIONS = [
+  { code: "A1",  nameZh: "最強的基因",   nameEn: "Genetic Apex",           releaseUtcIso: "2024-10-30T01:00:00Z", releaseMs: Date.parse("2024-10-30T01:00:00Z") },
+  { code: "A1a", nameZh: "幻遊島",       nameEn: "Mythical Island",        releaseUtcIso: "2024-12-17T06:00:00Z", releaseMs: Date.parse("2024-12-17T06:00:00Z") },
+  { code: "A2",  nameZh: "時空激鬥",     nameEn: "Space-Time Smackdown",   releaseUtcIso: "2025-01-30T06:00:00Z", releaseMs: Date.parse("2025-01-30T06:00:00Z") },
+  { code: "A2a", nameZh: "超克之光",     nameEn: "Triumphant Light",       releaseUtcIso: "2025-02-28T06:00:00Z", releaseMs: Date.parse("2025-02-28T06:00:00Z") },
+  { code: "A2b", nameZh: "嗨放異彩",     nameEn: "Shining Revelry",        releaseUtcIso: "2025-03-27T06:00:00Z", releaseMs: Date.parse("2025-03-27T06:00:00Z") },
+  { code: "A3",  nameZh: "雙天之守護者", nameEn: "Celestial Guardians",    releaseUtcIso: "2025-04-30T06:00:00Z", releaseMs: Date.parse("2025-04-30T06:00:00Z") },
+  { code: "A3a", nameZh: "異次元危機",   nameEn: "Extradimensional Crisis",releaseUtcIso: "2025-05-29T06:00:00Z", releaseMs: Date.parse("2025-05-29T06:00:00Z") },
+  { code: "A3b", nameZh: "伊布花園",     nameEn: "Eevee Grove",            releaseUtcIso: "2025-06-26T06:00:00Z", releaseMs: Date.parse("2025-06-26T06:00:00Z") },
+  { code: "A4",  nameZh: "天與海的指引", nameEn: "Wisdom of Sea and Sky",  releaseUtcIso: "2025-07-30T06:00:00Z", releaseMs: Date.parse("2025-07-30T06:00:00Z") },
+  { code: "A4a", nameZh: "未知水域",     nameEn: "Secluded Springs",       releaseUtcIso: "2025-08-28T06:00:00Z", releaseMs: Date.parse("2025-08-28T06:00:00Z") },
+  { code: "A4b", nameZh: "高級擴充包ex", nameEn: "Deluxe Pack: ex",        releaseUtcIso: "2025-09-30T06:00:00Z", releaseMs: Date.parse("2025-09-30T06:00:00Z") },
+  { code: "B1",  nameZh: "超級崛起",     nameEn: "Mega Rising",            releaseUtcIso: "2025-10-30T06:00:00Z", releaseMs: Date.parse("2025-10-30T06:00:00Z") },
+  { code: "B1a", nameZh: "紅蓮烈焰",     nameEn: "Crimson Blaze",          releaseUtcIso: "2025-12-17T06:00:00Z", releaseMs: Date.parse("2025-12-17T06:00:00Z") },
+  { code: "B2",  nameZh: "幻夢遊行",     nameEn: "Fantastical Parade",     releaseUtcIso: "2026-01-29T01:00:00Z", releaseMs: Date.parse("2026-01-29T01:00:00Z") },
+  { code: "B2a", nameZh: "帕底亞驚奇",   nameEn: "Paldean Wonders",        releaseUtcIso: "2026-02-26T01:00:00Z", releaseMs: Date.parse("2026-02-26T01:00:00Z") },
+].sort((a, b) => a.releaseMs - b.releaseMs) as GameVersion[];
+
+const VERSION_BY_CODE: Record<string, GameVersion> = Object.fromEntries(
+  GAME_VERSIONS.map((v) => [v.code, v])
+);
+
+function inferVersionByStartMs(startMs?: number): GameVersion | undefined {
+  if (!startMs) return undefined;
+  let cur: GameVersion | undefined;
+  for (const v of GAME_VERSIONS) {
+    if (startMs >= v.releaseMs) cur = v;
+    else break;
+  }
+  return cur;
+}
+
+function versionLabel(code?: string) {
+  if (!code) return "—";
+  const v = VERSION_BY_CODE[code];
+  if (!v) return code;
+  return isZh.value ? `${v.code} - ${v.nameZh}` : `${v.code} - ${v.nameEn}`;
+}
+
+// 給 filter 下拉用（新到舊）
+
+
+const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
 
 const filters = reactive({
   minPlayers: undefined as number | undefined,
@@ -465,16 +640,15 @@ function parseTwoFromDeckName(deckName?: string): (string | undefined)[] {
   if (!deckName) return [undefined, undefined];
 
   // e.g. "Suicune ex Greninja ex"
-  // 嘗試用 " ex " 作為切分（同時容忍大小寫與多空白）
   const s = String(deckName).trim();
 
-  // 找出每個 " ex" 的結束位置，抓前兩個
+  // 找出每個 "ex" 的結束位置（最多取前兩個）
   const re = /\bex\b/gi;
   const hits: number[] = [];
   let m: RegExpExecArray | null;
   while ((m = re.exec(s)) && hits.length < 2) hits.push(m.index + m[0].length);
 
-  if (hits.length < 2) return [s, undefined];
+  if (hits.length < 2) return [s || undefined, undefined];
 
   const firstEnd = hits[0];
   const secondEnd = hits[1];
@@ -482,14 +656,8 @@ function parseTwoFromDeckName(deckName?: string): (string | undefined)[] {
   // 第一段：從頭到第一個 ex（含 ex）
   const part1 = s.slice(0, firstEnd).trim();
 
-  // 第二段：從第一段之後到第二個 ex（含 ex）
-  const rest = s.slice(firstEnd).trimStart();
-  const idxSecondExInRest = rest.toLowerCase().indexOf("ex");
-  // 這裡不太可能找不到，但保險
-  if (idxSecondExInRest < 0) return [part1, rest.trim() || undefined];
-
-  // 取到 rest 中第二個 ex 的結尾
-  const part2 = rest.slice(0, idxSecondExInRest + 2).trim();
+  // 第二段：從第一個 ex 後面到第二個 ex（含 ex）
+  const part2 = s.slice(firstEnd, secondEnd).trim();
 
   return [part1 || undefined, part2 || undefined];
 }
@@ -632,15 +800,17 @@ const tournaments = computed<TournamentRow[]>(() => {
       details?.attendance ??
       undefined;
 
-    const format =
-      details?.format ??
-      details?.mode ??
-      details?.tournamentFormat ??
-      undefined;
+    const format = formatFromDetails(details);
 
-    const set = details?.set ?? details?.release ?? details?.cardSet ?? undefined;
 
-    const swiss = normalizeSwiss(details);
+
+    
+const g = String(details?.game ?? "").toUpperCase();
+  if (g && g !== "POCKET") continue;
+    
+    const set = inferVersionByStartMs(dateMs)?.code;
+
+    const swiss = swissLabelFromDetails(details);
 
     rows.push({
       id,
@@ -725,6 +895,7 @@ const filtered = computed(() => {
       if ((t.swiss ?? "Other") !== filters.swiss) return false;
     }
 
+
     if (filters.format) {
       if (!t.format) return false;
       if (t.format !== filters.format) return false;
@@ -733,6 +904,57 @@ const filtered = computed(() => {
     return true;
   });
 });
+
+// ---------- pagination ----------
+const PAGE_SIZES = [10, 20, 50] as const;
+type PageSize = typeof PAGE_SIZES[number];
+
+const pageSize = ref<PageSize>(20);
+
+const page = ref(1);
+
+const total = computed(() => filtered.value.length);
+
+const pageCount = computed(() => {
+  const n = Math.ceil(total.value / pageSize.value);
+  return Math.max(1, n);
+});
+
+const pageStartIndex = computed(() => (page.value - 1) * pageSize.value);
+
+const paged = computed(() => {
+  const start = pageStartIndex.value;
+  return filtered.value.slice(start, start + pageSize.value);
+});
+
+const rangeStart = computed(() => (total.value === 0 ? 0 : pageStartIndex.value + 1));
+const rangeEnd = computed(() => Math.min(total.value, pageStartIndex.value + pageSize.value));
+
+function setPageSize(n: PageSize) {
+  pageSize.value = n;
+}
+
+function prevPage() {
+  page.value = Math.max(1, page.value - 1);
+}
+function nextPage() {
+  page.value = Math.min(pageCount.value, page.value + 1);
+}
+
+// filters 或 pageSize 改變時，回到第 1 頁
+watch(
+  () => ({ ...filters, pageSize: pageSize.value }),
+  () => {
+    page.value = 1;
+  },
+  { deep: true }
+);
+
+// 如果套了 filter 後總頁數變少，確保 page 不超出
+watch([total, pageSize], () => {
+  if (page.value > pageCount.value) page.value = pageCount.value;
+});
+
 </script>
 
 <style scoped>
@@ -807,6 +1029,31 @@ a:hover { text-decoration: underline; }
   background: rgba(2,6,23,0.25);
 }
 
+.pill--btn {
+  cursor: pointer;
+  appearance: none;
+  border: 1px solid rgba(255,255,255,0.10);
+  background: rgba(2,6,23,0.25);
+  color: rgba(226,232,240,0.90);
+}
+
+.pill--btn:hover {
+  border-color: rgba(255,255,255,0.22);
+  background: rgba(2,6,23,0.35);
+}
+
+.pill--active {
+  border-color: rgba(147,197,253,0.55);
+  background: rgba(30,41,59,0.35);
+  color: rgba(255,255,255,0.95);
+}
+
+/* button 預設會有 focus ring，你可以保留或自訂 */
+.pill--btn:focus-visible {
+  outline: 2px solid rgba(147,197,253,0.55);
+  outline-offset: 2px;
+}
+
 /* Top 4 decks: 4 columns, each cell has 2 icons + medal */
 .topDecksGrid {
   display: grid;
@@ -847,7 +1094,7 @@ a:hover { text-decoration: underline; }
 
   display: block;
   filter: drop-shadow(0 1px 2px rgba(0,0,0,0.55));
-  z-index: 999
+  z-index: 2;
 }
 
 .deckIconFallback {
@@ -867,6 +1114,7 @@ a:hover { text-decoration: underline; }
   opacity: 0.95;
   display: block;
   filter: drop-shadow(0 1px 2px rgba(0,0,0,0.6));
+  z-index:1;
 }
 
 /* medal discs */
@@ -911,4 +1159,90 @@ a:hover { text-decoration: underline; }
 }
 
 .foot { margin-top: 10px; font-size: 12px; }
+
+.pager{
+  margin: 10px 0 12px;
+  padding: 10px 12px;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  background: rgba(15,23,42,0.35);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.pager__left{
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.pager__label{
+  font-size: 12px;
+  font-weight: 900;
+  color: rgba(226,232,240,0.85);
+}
+
+.pager__sizes{
+  display: inline-flex;
+  gap: 8px;
+}
+
+.pagerBtn{
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(2,6,23,0.25);
+  color: rgba(226,232,240,0.85);
+  cursor: pointer;
+  font-weight: 800;
+  font-size: 12px;
+}
+
+.pagerBtn:hover{
+  border-color: rgba(255,255,255,0.22);
+  background: rgba(2,6,23,0.35);
+}
+
+.pagerBtn.is-active{
+  border-color: rgba(147,197,253,0.55);
+  background: rgba(30,41,59,0.35);
+  color: rgba(255,255,255,0.95);
+}
+
+.pager__summary{
+  font-size: 12px;
+}
+
+.pager__right{
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.pagerNav{
+  padding: 6px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.14);
+  background: rgba(2,6,23,0.25);
+  color: rgba(226,232,240,0.9);
+  cursor: pointer;
+  font-weight: 900;
+  font-size: 12px;
+}
+
+.pagerNav:disabled{
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pager__page{
+  color: rgba(226,232,240,0.9);
+  font-size: 12px;
+}
+
 </style>
