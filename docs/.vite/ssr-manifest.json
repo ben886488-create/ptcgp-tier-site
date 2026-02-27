@@ -32965,6 +32965,7 @@
   ],
   "src/assets/fonts.css": [],
   "src/assets/theme.css": [],
+<<<<<<< HEAD
   "src/data/matchups.json": [
     "/assets/data-BPsEm-7c.js"
   ],
@@ -50188,9 +50189,21 @@
   "src/lib/data.ts": [
     "/assets/data-BPsEm-7c.js"
   ],
+=======
+  "src/data/matchups.json": [],
+  "src/data/meta.json": [],
+  "src/data/players.json": [],
+  "src/data/tier.json": [],
+  "src/data/tournaments.json": [],
+  "src/layouts/Layout.vue": [],
+  "src/layouts/Layout.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/layouts/Layout.vue?vue&type=style&index=0&scoped=ad0b8509&lang.css": [],
+  "src/lib/data.ts": [],
+>>>>>>> 1be3c57c133672d0c8cbf9bc4ee59f3c3b11dcdf
   "src/main.ts": [],
   "src/responsive.css": [],
   "src/routes.ts": [],
+<<<<<<< HEAD
   "src/views/CountryRanking.vue": [
     "/assets/CountryRanking-Gyfdt5QM.js"
   ],
@@ -50785,4 +50798,19 @@
     "/assets/zeraora-CuIV4zLx.png",
     "/assets/zoroark-PVd2qcYb.png"
   ]
+=======
+  "src/views/CountryRanking.vue": [],
+  "src/views/Home.vue": [],
+  "src/views/Home.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/views/Home.vue?vue&type=style&index=0&scoped=8f338837&lang.css": [],
+  "src/views/PlayerRanking.vue": [],
+  "src/views/PlayerRanking.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/views/PlayerRanking.vue?vue&type=style&index=0&scoped=e5d87913&lang.css": [],
+  "src/views/TierList.vue": [],
+  "src/views/TierList.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/views/TierList.vue?vue&type=style&index=0&scoped=da08d26b&lang.css": [],
+  "src/views/TopCards.vue": [],
+  "src/views/TopDecks.vue": [],
+  "src/views/Tournaments.vue": []
+>>>>>>> 1be3c57c133672d0c8cbf9bc4ee59f3c3b11dcdf
 }
