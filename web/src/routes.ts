@@ -48,6 +48,13 @@ function makeLangRoutes(lang: (typeof langs)[number]): RouteRecordRaw {
         component: () => import('./views/CountryRanking.vue'),
         meta: { nav: true, key: 'countryRanking' },
       },
+
+      {
+        path: "/:lang(zh|en)/tournaments/:id",
+        name: "tournament-report",
+        component: () => import("./views/TournamentReport.vue"),
+      }
+
     ],
   }
 }

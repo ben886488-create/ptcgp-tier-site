@@ -1214,6 +1214,13 @@ a:hover { text-decoration: underline; }
   color: rgba(255,255,255,0.95);
 }
 
+.nameLink {
+  color: rgba(255, 255, 255, 0.92);
+}
+.nameLink:hover {
+  text-decoration: underline;
+}
+
 .pager__summary{
   font-size: 12px;
 }
