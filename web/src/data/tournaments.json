@@ -1,6 +1,51 @@
 [
   {
     "game": "PTCG",
+    "name": "Torneo Relámpago ⚡ #27 PTCG Live",
+    "date": "2026-03-25T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69a8c2dd6a05f00a8c4a4582",
+    "players": 32,
+    "organizerId": 2512
+  },
+  {
+    "game": "POCKET",
+    "name": "BRICKCITY₊⊹⁀➴TRINITY BAN FORMAT",
+    "date": "2026-03-25T01:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "69c2a284d478313a15a31e43",
+    "players": 38,
+    "organizerId": 2593
+  },
+  {
+    "game": "PTCG",
+    "name": "LAST PRIZE SERIES – Win a Pokepad Playset",
+    "date": "2026-03-24T23:35:00.000Z",
+    "format": "STANDARD",
+    "id": "69bea1bc36f5b5c303dbab28",
+    "players": 226,
+    "organizerId": 2227
+  },
+  {
+    "game": "POCKET",
+    "name": "The Breakfast Club Weekly #4-$10 + FA",
+    "date": "2026-03-24T19:30:00.000Z",
+    "format": null,
+    "id": "69c0f0aa36f5b5c303dbbfc8",
+    "players": 121,
+    "organizerId": 2461
+  },
+  {
+    "game": "OP",
+    "name": "ChinoizeCup #35 Tuesday",
+    "date": "2026-03-24T19:00:00.000Z",
+    "format": null,
+    "id": "69a5960e1e69d12000d8130d",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
     "name": "CHALLENGE OF DOOM! LAST OF THIS META!",
     "date": "2026-03-24T03:35:00.000Z",
     "format": "STANDARD",
@@ -54,13 +99,13 @@
     "organizerId": 1393
   },
   {
-    "game": "PTCG",
-    "name": "Pumpkaweekly",
-    "date": "2026-03-23T19:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69c09bc5d478313a15a31348",
-    "players": 104,
-    "organizerId": 36
+    "game": "POCKET",
+    "name": "The Breakfast Club Weekly Standard #3-$5+ FA",
+    "date": "2026-03-23T20:30:00.000Z",
+    "format": null,
+    "id": "69c0ef63d478313a15a31408",
+    "players": 74,
+    "organizerId": 2461
   },
   {
     "game": "OP",
@@ -70,6 +115,24 @@
     "id": "69a5959637ec291d6c2e74f5",
     "players": 64,
     "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
+    "name": "Pumpkaweekly",
+    "date": "2026-03-23T19:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69c09bc5d478313a15a31348",
+    "players": 104,
+    "organizerId": 36
+  },
+  {
+    "game": "PTCG",
+    "name": "🏆Moujii's Dojo🏆 (Late Registration Available!)",
+    "date": "2026-03-23T16:10:00.000Z",
+    "format": "STANDARD",
+    "id": "69b97a769f81767f3e803f06",
+    "players": 145,
+    "organizerId": 35
   },
   {
     "game": "POCKET",
@@ -243,15 +306,6 @@
     "organizerId": 2315
   },
   {
-    "game": "DCG",
-    "name": "LIGA PHOENIX 2026 - (PHOENIX REBORN) CABA 11°",
-    "date": "2026-03-21T16:00:00.000Z",
-    "format": null,
-    "id": "69bd6d87d478313a15a2f5bb",
-    "players": 33,
-    "organizerId": 281
-  },
-  {
     "game": "POCKET",
     "name": "PMPT #24 - PALDEAN PINNACLE!!! | $100 USD",
     "date": "2026-03-21T16:00:00.000Z",
@@ -261,6 +315,15 @@
     "organizerId": 13
   },
   {
+    "game": "DCG",
+    "name": "LIGA PHOENIX 2026 - (PHOENIX REBORN) CABA 11°",
+    "date": "2026-03-21T16:00:00.000Z",
+    "format": null,
+    "id": "69bd6d87d478313a15a2f5bb",
+    "players": 33,
+    "organizerId": 281
+  },
+  {
     "game": "VGC",
     "name": "VGCA Open Book Tour #43 (REG I)",
     "date": "2026-03-21T16:00:00.000Z",
@@ -268,6 +331,15 @@
     "id": "69bc18be36f5b5c303db9a3f",
     "players": 43,
     "organizerId": 1527
+  },
+  {
+    "game": "POCKET",
+    "name": "$250 USD + 2* FA | 巫獅盃 LeoWizard Pocket League #6",
+    "date": "2026-03-21T13:00:00.000Z",
+    "format": null,
+    "id": "69b536629f81767f3e80207b",
+    "players": 241,
+    "organizerId": 2546
   },
   {
     "game": "PTCG",
@@ -369,6 +441,15 @@
     "organizerId": 445
   },
   {
+    "game": "POCKET",
+    "name": "Dark League Pop Up",
+    "date": "2026-03-19T23:00:00.000Z",
+    "format": null,
+    "id": "69bc502cd478313a15a2ef5a",
+    "players": 47,
+    "organizerId": 2045
+  },
+  {
     "game": "VGC",
     "name": "Talon's FIGHT CLUB #76 Reg I ($5 to 1st)",
     "date": "2026-03-19T23:00:00.000Z",
@@ -385,15 +466,6 @@
     "id": "69b7752fccdfe3b78e57526f",
     "players": 57,
     "organizerId": 1727
-  },
-  {
-    "game": "POCKET",
-    "name": "Dark League Pop Up",
-    "date": "2026-03-19T23:00:00.000Z",
-    "format": null,
-    "id": "69bc502cd478313a15a2ef5a",
-    "players": 47,
-    "organizerId": 2045
   },
   {
     "game": "PTCG",
@@ -504,15 +576,6 @@
     "organizerId": 2391
   },
   {
-    "game": "PTCG",
-    "name": "Torneo Relámpago ⚡ #25 PTCG Live",
-    "date": "2026-03-18T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69a8c2076a05f00a8c4a4580",
-    "players": 32,
-    "organizerId": 2512
-  },
-  {
     "game": "POCKET",
     "name": "Lagoon Serenity Format (OAK & Cyrus FA Prize)",
     "date": "2026-03-18T02:00:00.000Z",
@@ -520,6 +583,15 @@
     "id": "69b4530dccdfe3b78e5737e2",
     "players": 69,
     "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Relámpago ⚡ #25 PTCG Live",
+    "date": "2026-03-18T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69a8c2076a05f00a8c4a4580",
+    "players": 32,
+    "organizerId": 2512
   },
   {
     "game": "PTCG",
@@ -594,6 +666,15 @@
     "organizerId": 2152
   },
   {
+    "game": "POCKET",
+    "name": "🐦‍🔥 GALAR DUEL GYM • Edição 5 • Prize $300 BRL",
+    "date": "2026-03-17T00:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "69b2d311f39e6e7096a01ffe",
+    "players": 39,
+    "organizerId": 2442
+  },
+  {
     "game": "PTCG",
     "name": "Monday Mick T2TCG 30 codes",
     "date": "2026-03-17T00:00:00.000Z",
@@ -630,15 +711,6 @@
     "organizerId": 2045
   },
   {
-    "game": "PTCG",
-    "name": "Pumpkaweekly",
-    "date": "2026-03-16T19:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69b716b89f81767f3e8030fd",
-    "players": 111,
-    "organizerId": 36
-  },
-  {
     "game": "POCKET",
     "name": "Gym Challenge #5 - Ice-type Only (FA Guzma)",
     "date": "2026-03-16T19:00:00.000Z",
@@ -646,6 +718,15 @@
     "id": "698faa69545d43631df0279b",
     "players": 39,
     "organizerId": 2542
+  },
+  {
+    "game": "PTCG",
+    "name": "Pumpkaweekly",
+    "date": "2026-03-16T19:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69b716b89f81767f3e8030fd",
+    "players": 111,
+    "organizerId": 36
   },
   {
     "game": "OP",
@@ -783,6 +864,15 @@
     "organizerId": 2461
   },
   {
+    "game": "VGC",
+    "name": "Road To Querétaro",
+    "date": "2026-03-15T02:00:00.000Z",
+    "format": "SVI",
+    "id": "69b0ad6b6a05f00a8c4a9a10",
+    "players": 33,
+    "organizerId": 848
+  },
+  {
     "game": "PTCG",
     "name": "Torneo Relámpago ⚡ Cusca 3v3 Pro Series",
     "date": "2026-03-15T02:00:00.000Z",
@@ -799,15 +889,6 @@
     "id": "69b58ba09f81767f3e80230a",
     "players": 44,
     "organizerId": 2429
-  },
-  {
-    "game": "VGC",
-    "name": "Road To Querétaro",
-    "date": "2026-03-15T02:00:00.000Z",
-    "format": "SVI",
-    "id": "69b0ad6b6a05f00a8c4a9a10",
-    "players": 33,
-    "organizerId": 848
   },
   {
     "game": "PTCG",
@@ -846,15 +927,6 @@
     "organizerId": 222
   },
   {
-    "game": "PTCG",
-    "name": "🦇Nachtwache Tournament #11 100 Codes Prizing🦇",
-    "date": "2026-03-14T17:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69b2cb24f39e6e7096a01fd8",
-    "players": 93,
-    "organizerId": 2501
-  },
-  {
     "game": "DCG",
     "name": "EVOLUTION CUP 2026 1000 1°",
     "date": "2026-03-14T17:00:00.000Z",
@@ -862,6 +934,15 @@
     "id": "69b4c8759f81767f3e801fc3",
     "players": 36,
     "organizerId": 281
+  },
+  {
+    "game": "PTCG",
+    "name": "🦇Nachtwache Tournament #11 100 Codes Prizing🦇",
+    "date": "2026-03-14T17:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69b2cb24f39e6e7096a01fd8",
+    "players": 93,
+    "organizerId": 2501
   },
   {
     "game": "POCKET",
@@ -892,21 +973,21 @@
   },
   {
     "game": "PTCG",
-    "name": "Vault Weekly Runs #7 🏆| 100 CODES | JOIN :)",
-    "date": "2026-03-13T20:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69b41d079f81767f3e8019c2",
-    "players": 36,
-    "organizerId": 2226
-  },
-  {
-    "game": "PTCG",
     "name": "ASRcristiano # 142 - Road to Seville !",
     "date": "2026-03-13T20:00:00.000Z",
     "format": "STANDARD",
     "id": "69ad5e43f39e6e70969ff145",
     "players": 151,
     "organizerId": 1778
+  },
+  {
+    "game": "PTCG",
+    "name": "Vault Weekly Runs #7 🏆| 100 CODES | JOIN :)",
+    "date": "2026-03-13T20:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69b41d079f81767f3e8019c2",
+    "players": 36,
+    "organizerId": 2226
   },
   {
     "game": "POCKET",
@@ -1072,21 +1153,21 @@
   },
   {
     "game": "PTCG",
-    "name": "ASRcristiano # 140 - Road to Seville !",
-    "date": "2026-03-11T20:15:00.000Z",
-    "format": "STANDARD",
-    "id": "69ad5da26a05f00a8c4a7a41",
-    "players": 159,
-    "organizerId": 1778
-  },
-  {
-    "game": "PTCG",
     "name": "BUSTARD #5 Prize Packs series 8 for Top8",
     "date": "2026-03-11T20:15:00.000Z",
     "format": "STANDARD",
     "id": "69ab0f306a05f00a8c4a593e",
     "players": 54,
     "organizerId": 1783
+  },
+  {
+    "game": "PTCG",
+    "name": "ASRcristiano # 140 - Road to Seville !",
+    "date": "2026-03-11T20:15:00.000Z",
+    "format": "STANDARD",
+    "id": "69ad5da26a05f00a8c4a7a41",
+    "players": 159,
+    "organizerId": 1778
   },
   {
     "game": "OP",
@@ -1098,15 +1179,6 @@
     "organizerId": 2339
   },
   {
-    "game": "POCKET",
-    "name": "🐸FrogEX JaggerGrimm's Cup #2 • 50 USD Prize🐸",
-    "date": "2026-03-11T18:00:00.000Z",
-    "format": null,
-    "id": "69a9842f6a05f00a8c4a4ad7",
-    "players": 201,
-    "organizerId": 1938
-  },
-  {
     "game": "VGC",
     "name": "Alpensee Tour (Reg F) #48 - Pokopia 1st place!!",
     "date": "2026-03-11T18:00:00.000Z",
@@ -1114,6 +1186,15 @@
     "id": "69892388988cfc979bd0b85f",
     "players": 128,
     "organizerId": 2323
+  },
+  {
+    "game": "POCKET",
+    "name": "🐸FrogEX JaggerGrimm's Cup #2 • 50 USD Prize🐸",
+    "date": "2026-03-11T18:00:00.000Z",
+    "format": null,
+    "id": "69a9842f6a05f00a8c4a4ad7",
+    "players": 201,
+    "organizerId": 1938
   },
   {
     "game": "POCKET",
@@ -1141,113 +1222,5 @@
     "id": "69b099516a05f00a8c4a993f",
     "players": 57,
     "organizerId": 445
-  },
-  {
-    "game": "PTCG",
-    "name": "Torneo Gratuito 10 Marzo",
-    "date": "2026-03-10T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69ae0156f39e6e70969ff744",
-    "players": 49,
-    "organizerId": 2306
-  },
-  {
-    "game": "PTCG",
-    "name": "Last Prize Season 2 Post PR SPE",
-    "date": "2026-03-10T22:05:00.000Z",
-    "format": "STANDARD",
-    "id": "69a9eb746a05f00a8c4a4f5e",
-    "players": 137,
-    "organizerId": 2227
-  },
-  {
-    "game": "POCKET",
-    "name": "Icetea hometown pocket 50$ (prize×2 look desc)",
-    "date": "2026-03-10T22:00:00.000Z",
-    "format": null,
-    "id": "69a772936a05f00a8c4a38fa",
-    "players": 224,
-    "organizerId": 2499
-  },
-  {
-    "game": "OP",
-    "name": "ChinoizeCup #29 Tuesday",
-    "date": "2026-03-10T19:00:00.000Z",
-    "format": null,
-    "id": "69a593f8a0282967a7310212",
-    "players": 63,
-    "organizerId": 2339
-  },
-  {
-    "game": "VGC",
-    "name": "TARTAN TAKEDOWN #24 - [REG F]",
-    "date": "2026-03-10T18:30:00.000Z",
-    "format": "SVF",
-    "id": "69ac2f4c6a05f00a8c4a669d",
-    "players": 42,
-    "organizerId": 2398
-  },
-  {
-    "game": "POCKET",
-    "name": "Umbreon99's Tuesday Showdown #4 ($10 USD) + Oak",
-    "date": "2026-03-10T17:00:00.000Z",
-    "format": null,
-    "id": "69a05e373ef65252b057688f",
-    "players": 273,
-    "organizerId": 2451
-  },
-  {
-    "game": "PTCG",
-    "name": "Drop Dice Liga Online #001 - Season 2025/26",
-    "date": "2026-03-10T17:00:00.000Z",
-    "format": "STANDARD",
-    "id": "695a85284500833d87022c4c",
-    "players": 36,
-    "organizerId": 2496
-  },
-  {
-    "game": "POCKET",
-    "name": "ʚ the final uwu tournament (#12) ɞ ┃ 50 USD",
-    "date": "2026-03-10T11:00:00.000Z",
-    "format": null,
-    "id": "69a847b2f39e6e70969fba27",
-    "players": 179,
-    "organizerId": 1975
-  },
-  {
-    "game": "POCKET",
-    "name": "🎴Nuggie's POG Tournament #3🎴 FA CYRUS for 1st",
-    "date": "2026-03-10T09:05:00.000Z",
-    "format": null,
-    "id": "69aac8456a05f00a8c4a56fa",
-    "players": 123,
-    "organizerId": 1913
-  },
-  {
-    "game": "PTCG",
-    "name": "CHALLENGE OF DOOM! SLEEP or PLAY?",
-    "date": "2026-03-10T03:35:00.000Z",
-    "format": "STANDARD",
-    "id": "69a5e581818e5fde7d817928",
-    "players": 128,
-    "organizerId": 349
-  },
-  {
-    "game": "PTCG",
-    "name": "🏛💫 Card Temple Weekly Battles #48",
-    "date": "2026-03-10T02:05:00.000Z",
-    "format": "STANDARD",
-    "id": "69aeff24f39e6e70969fff1e",
-    "players": 61,
-    "organizerId": 2152
-  },
-  {
-    "game": "POCKET",
-    "name": "The Breakfast Club Late Night #4-$5",
-    "date": "2026-03-10T02:00:00.000Z",
-    "format": null,
-    "id": "69af3f85f39e6e7096a0034c",
-    "players": 127,
-    "organizerId": 2461
   }
 ]
