@@ -1,12 +1,183 @@
 [
   {
     "game": "PTCG",
+    "name": "Defenders Arena #11🏆|POST ROTATION|50+ CODES",
+    "date": "2026-04-12T00:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69d3c3170e548b5c2fbe4825",
+    "players": 41,
+    "organizerId": 2226
+  },
+  {
+    "game": "PTCG",
+    "name": "Rare Candy Club Showdown #17 (50 CODES)",
+    "date": "2026-04-12T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69d3d12a0e548b5c2fbe48b8",
+    "players": 56,
+    "organizerId": 2518
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Aniversario Sidedeck Sábado 11 Abril",
+    "date": "2026-04-12T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69da91dd78b359b789d5f2aa",
+    "players": 39,
+    "organizerId": 2306
+  },
+  {
+    "game": "POCKET",
+    "name": "The Road To Victory |🥇$20 USD🥈⭐️⭐️🥉⭐️",
+    "date": "2026-04-12T00:00:00.000Z",
+    "format": null,
+    "id": "69da6bee48d465883f70f9e0",
+    "players": 80,
+    "organizerId": 2524
+  },
+  {
+    "game": "GUNDAM",
+    "name": "MSA Steel Requiem .2 Royal Battle (100+ pilots)",
+    "date": "2026-04-11T23:50:00.000Z",
+    "format": null,
+    "id": "69ce86dbd478313a15a39b9b",
+    "players": 72,
+    "organizerId": 2527
+  },
+  {
+    "game": "PTCG",
+    "name": "Redacted Heroes 2nd Chance #4 (50 Codes)",
+    "date": "2026-04-11T23:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69d7ddb6c734cfa1af2b60a9",
+    "players": 80,
+    "organizerId": 222
+  },
+  {
+    "game": "POCKET",
+    "name": "Power⚡League #01 | Prizes: RR Cards",
+    "date": "2026-04-11T22:00:00.000Z",
+    "format": null,
+    "id": "69d6ceddc734cfa1af2b52ef",
+    "players": 120,
+    "organizerId": 2630
+  },
+  {
+    "game": "VGC",
+    "name": "🏅CHAMPIONS🏅$50 USD | Guti x Trainers TCG",
+    "date": "2026-04-11T19:15:00.000Z",
+    "format": "M-A",
+    "id": "69d93d9e48d465883f70e661",
+    "players": 72,
+    "organizerId": 1990
+  },
+  {
+    "game": "PTCG",
+    "name": "🦇Nachtwache Post Rotation #14 200 Codes Prizing🦇",
+    "date": "2026-04-11T16:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69d79d4fc734cfa1af2b5c86",
+    "players": 132,
+    "organizerId": 2501
+  },
+  {
+    "game": "VGC",
+    "name": "POKEMON CHAMPAGNE- LO CAMBIA TODO N°1",
+    "date": "2026-04-11T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69d7032eb9ec970afa60648b",
+    "players": 40,
+    "organizerId": 895
+  },
+  {
+    "game": "VGC",
+    "name": "VGCA Battle Hall #24 (CHAMPIONS)",
+    "date": "2026-04-11T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69d65d2bc734cfa1af2b4dd7",
+    "players": 36,
+    "organizerId": 1527
+  },
+  {
+    "game": "VGC",
+    "name": "Wolfey Patreon Tournament - Pokémon Champions #1",
+    "date": "2026-04-11T14:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "69d57782800d329be2e751dc",
+    "players": 56,
+    "organizerId": 662
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Cup #1 (180+ CODES)",
+    "date": "2026-04-11T12:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69d7aabcb9ec970afa6068ba",
+    "players": 61,
+    "organizerId": 2623
+  },
+  {
+    "game": "VGC",
+    "name": "Pokémon Champions Reg M-A | CGCL Weekly #1",
+    "date": "2026-04-11T10:00:00.000Z",
+    "format": "M-A",
+    "id": "69c5237536f5b5c303dbdd10",
+    "players": 34,
+    "organizerId": 2232
+  },
+  {
+    "game": "POCKET",
+    "name": "Meta Breaker - The Return | 10$ + FA Cards",
+    "date": "2026-04-11T09:30:00.000Z",
+    "format": null,
+    "id": "69d9f86a78b359b789d5e663",
+    "players": 59,
+    "organizerId": 2544
+  },
+  {
+    "game": "POCKET",
+    "name": "Umbreon99 & Storm's Late Nite #13 ($5 USD) + ✨",
+    "date": "2026-04-11T03:30:00.000Z",
+    "format": null,
+    "id": "69d8f4c348d465883f70df74",
+    "players": 120,
+    "organizerId": 2461
+  },
+  {
+    "game": "PTCG",
+    "name": "TOURNAMENT OF DOOM! BASIC ENERGY CARDS!",
+    "date": "2026-04-11T02:35:00.000Z",
+    "format": "STANDARD",
+    "id": "69cab5e036f5b5c303dc275b",
+    "players": 390,
+    "organizerId": 349
+  },
+  {
+    "game": "POCKET",
+    "name": "MARSHADOW 🏆 $20 USD Runner up  ⭐️ ⭐️ MEGA SHINE",
+    "date": "2026-04-11T01:00:00.000Z",
+    "format": null,
+    "id": "69d90b7978b359b789d5d566",
+    "players": 80,
+    "organizerId": 2524
+  },
+  {
+    "game": "PTCG",
     "name": "T2TCG NEW FORMAT FUN 100 CODES",
     "date": "2026-04-11T00:30:00.000Z",
     "format": "STANDARD",
     "id": "69d90c3478b359b789d5d56e",
     "players": 58,
     "organizerId": 445
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Champions Challenge #1",
+    "date": "2026-04-11T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69c8294d36f5b5c303dc036e",
+    "players": 203,
+    "organizerId": 2607
   },
   {
     "game": "PTCG",
@@ -16,6 +187,15 @@
     "id": "69d94bf048d465883f70e801",
     "players": 32,
     "organizerId": 90
+  },
+  {
+    "game": "VGC",
+    "name": "Ratorneo #1 Apertura Champions 2026 | Reg MA | BO3",
+    "date": "2026-04-10T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69c31dcf36f5b5c303dbce84",
+    "players": 32,
+    "organizerId": 2475
   },
   {
     "game": "POCKET",
@@ -45,15 +225,6 @@
     "organizerId": 2603
   },
   {
-    "game": "VGC",
-    "name": "Unova Champions League / POKÉMON CHAMPIONS / 30€",
-    "date": "2026-04-10T17:00:00.000Z",
-    "format": "M-A",
-    "id": "69d537610e548b5c2fbe5b3f",
-    "players": 100,
-    "organizerId": 956
-  },
-  {
     "game": "POCKET",
     "name": "Umbreon99's Friday Clash #5 ($20 USD) + ✨",
     "date": "2026-04-10T17:00:00.000Z",
@@ -61,6 +232,15 @@
     "id": "69c19fdfd478313a15a31880",
     "players": 265,
     "organizerId": 2461
+  },
+  {
+    "game": "VGC",
+    "name": "Unova Champions League / POKÉMON CHAMPIONS / 30€",
+    "date": "2026-04-10T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69d537610e548b5c2fbe5b3f",
+    "players": 100,
+    "organizerId": 956
   },
   {
     "game": "PTCG",
@@ -79,6 +259,24 @@
     "id": "69d4d5660e548b5c2fbe56a8",
     "players": 68,
     "organizerId": 362
+  },
+  {
+    "game": "POCKET",
+    "name": "✨️50$ BEC'S CHAMPIONS: 1-4 PRIZES ✨️",
+    "date": "2026-04-10T13:00:00.000Z",
+    "format": null,
+    "id": "69d79c86c734cfa1af2b5c83",
+    "players": 158,
+    "organizerId": 2011
+  },
+  {
+    "game": "POCKET",
+    "name": "Yosh Tournament #1 ( Rp500.000 + FA CARD )",
+    "date": "2026-04-10T12:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "69d3c700800d329be2e73b0d",
+    "players": 173,
+    "organizerId": 1933
   },
   {
     "game": "PTCG",
@@ -109,21 +307,21 @@
   },
   {
     "game": "PTCG",
-    "name": "Torneo Aniversario Sidedeck 9 Abril",
-    "date": "2026-04-10T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69d7f616b9ec970afa606f08",
-    "players": 41,
-    "organizerId": 2306
-  },
-  {
-    "game": "PTCG",
     "name": "Le Tournois Du DresseurPokeCharbie #106",
     "date": "2026-04-10T00:00:00.000Z",
     "format": "STANDARD",
     "id": "69cf2028d478313a15a3a3f6",
     "players": 87,
     "organizerId": 1689
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Aniversario Sidedeck 9 Abril",
+    "date": "2026-04-10T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69d7f616b9ec970afa606f08",
+    "players": 41,
+    "organizerId": 2306
   },
   {
     "game": "PTCG",
@@ -405,6 +603,15 @@
     "organizerId": 2152
   },
   {
+    "game": "PTCG",
+    "name": "🏆 Hit Cup #1 • TCG Live | Prize - Prod. Selados",
+    "date": "2026-04-07T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69d143ac0e548b5c2fbe2f15",
+    "players": 32,
+    "organizerId": 2442
+  },
+  {
     "game": "DCG",
     "name": "Eagle’s Nest Season 8 LCQ EX11 Triple-Box",
     "date": "2026-04-06T23:30:00.000Z",
@@ -567,15 +774,6 @@
     "organizerId": 2461
   },
   {
-    "game": "VGC",
-    "name": "FINAL Scarlet & Violet Wide League SNR #83 (REG I)",
-    "date": "2026-04-05T02:00:00.000Z",
-    "format": "SVI",
-    "id": "69caf22436f5b5c303dc2cce",
-    "players": 97,
-    "organizerId": 637
-  },
-  {
     "game": "POCKET",
     "name": "Lagoon Serenity Format (OAK & Copycat FA Prize)",
     "date": "2026-04-05T02:00:00.000Z",
@@ -583,6 +781,15 @@
     "id": "69d159a90e548b5c2fbe322a",
     "players": 65,
     "organizerId": 2429
+  },
+  {
+    "game": "VGC",
+    "name": "FINAL Scarlet & Violet Wide League SNR #83 (REG I)",
+    "date": "2026-04-05T02:00:00.000Z",
+    "format": "SVI",
+    "id": "69caf22436f5b5c303dc2cce",
+    "players": 97,
+    "organizerId": 637
   },
   {
     "game": "PTCG",
@@ -927,15 +1134,6 @@
     "organizerId": 2564
   },
   {
-    "game": "VGC",
-    "name": "Alpensee Tour (Reg I) #51",
-    "date": "2026-04-01T17:00:00.000Z",
-    "format": "SVI",
-    "id": "69c1426d36f5b5c303dbc057",
-    "players": 70,
-    "organizerId": 2323
-  },
-  {
     "game": "POCKET",
     "name": "🐸FrogEX JaggerGrimm's Cup #5 • 50 USD Prize🐸",
     "date": "2026-04-01T17:00:00.000Z",
@@ -943,6 +1141,15 @@
     "id": "69bc5b2ad478313a15a2f014",
     "players": 359,
     "organizerId": 1938
+  },
+  {
+    "game": "VGC",
+    "name": "Alpensee Tour (Reg I) #51",
+    "date": "2026-04-01T17:00:00.000Z",
+    "format": "SVI",
+    "id": "69c1426d36f5b5c303dbc057",
+    "players": 70,
+    "organizerId": 2323
   },
   {
     "game": "POCKET",
@@ -1044,15 +1251,6 @@
     "organizerId": 2152
   },
   {
-    "game": "PTCG",
-    "name": "Sunny's Weekly #250 Is Live Ready for Launch Yet?",
-    "date": "2026-03-30T22:05:00.000Z",
-    "format": "STANDARD",
-    "id": "69c189fdd478313a15a31742",
-    "players": 179,
-    "organizerId": 145
-  },
-  {
     "game": "POCKET",
     "name": "Dark League Pop Up 5$usd",
     "date": "2026-03-30T22:05:00.000Z",
@@ -1060,6 +1258,15 @@
     "id": "69cad50f36f5b5c303dc2b79",
     "players": 80,
     "organizerId": 2045
+  },
+  {
+    "game": "PTCG",
+    "name": "Sunny's Weekly #250 Is Live Ready for Launch Yet?",
+    "date": "2026-03-30T22:05:00.000Z",
+    "format": "STANDARD",
+    "id": "69c189fdd478313a15a31742",
+    "players": 179,
+    "organizerId": 145
   },
   {
     "game": "POCKET",
@@ -1152,15 +1359,6 @@
     "organizerId": 2563
   },
   {
-    "game": "PTCG",
-    "name": "Ascended Nexus! #8 (100 Codes)",
-    "date": "2026-03-29T22:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69a8e5a7f39e6e70969fc17c",
-    "players": 162,
-    "organizerId": 1371
-  },
-  {
     "game": "POCKET",
     "name": "ZGG #8 MEGA SHINING FA Cards + FA OAK!",
     "date": "2026-03-29T22:00:00.000Z",
@@ -1168,6 +1366,15 @@
     "id": "69c05da836f5b5c303dbbc58",
     "players": 164,
     "organizerId": 2551
+  },
+  {
+    "game": "PTCG",
+    "name": "Ascended Nexus! #8 (100 Codes)",
+    "date": "2026-03-29T22:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69a8e5a7f39e6e70969fc17c",
+    "players": 162,
+    "organizerId": 1371
   },
   {
     "game": "POCKET",
@@ -1197,15 +1404,6 @@
     "organizerId": 2501
   },
   {
-    "game": "POCKET",
-    "name": "Power⚡League & Siahz Collab |Prize: Pokopia or $50",
-    "date": "2026-03-29T15:00:00.000Z",
-    "format": null,
-    "id": "69c2a347d478313a15a31e46",
-    "players": 171,
-    "organizerId": 2429
-  },
-  {
     "game": "VGC",
     "name": "VGCA Champions Prerelease (CUSTOM FORMAT)",
     "date": "2026-03-29T15:00:00.000Z",
@@ -1213,6 +1411,15 @@
     "id": "69bef06bd478313a15a3039a",
     "players": 46,
     "organizerId": 1527
+  },
+  {
+    "game": "POCKET",
+    "name": "Power⚡League & Siahz Collab |Prize: Pokopia or $50",
+    "date": "2026-03-29T15:00:00.000Z",
+    "format": null,
+    "id": "69c2a347d478313a15a31e46",
+    "players": 171,
+    "organizerId": 2429
   },
   {
     "game": "VGC",
@@ -1285,95 +1492,5 @@
     "id": "69c834bcd478313a15a357cf",
     "players": 96,
     "organizerId": 2045
-  },
-  {
-    "game": "PTCG",
-    "name": "Redacted Heroes 2nd Chance #3 (100 Codes)",
-    "date": "2026-03-28T23:30:00.000Z",
-    "format": "STANDARD",
-    "id": "69a76fe2f39e6e70969fb518",
-    "players": 50,
-    "organizerId": 222
-  },
-  {
-    "game": "PTCG",
-    "name": "Redacted Heroes #9 (200 Codes)",
-    "date": "2026-03-28T22:05:00.000Z",
-    "format": "STANDARD",
-    "id": "69a76e5f6a05f00a8c4a38ac",
-    "players": 124,
-    "organizerId": 222
-  },
-  {
-    "game": "POCKET",
-    "name": "Power⚡League #05 Mega Shine!! |Prize: RR,FA Cards",
-    "date": "2026-03-28T22:00:00.000Z",
-    "format": null,
-    "id": "69c4adab36f5b5c303dbdb8a",
-    "players": 126,
-    "organizerId": 2429
-  },
-  {
-    "game": "POCKET",
-    "name": "PMPT #25 - MEGA SHINE!!! | $200 USD",
-    "date": "2026-03-28T16:00:00.000Z",
-    "format": null,
-    "id": "69c15b0f36f5b5c303dbc0be",
-    "players": 643,
-    "organizerId": 13
-  },
-  {
-    "game": "VGC",
-    "name": "The Storm Cup ($500 PRIZE POOL)",
-    "date": "2026-03-28T15:15:00.000Z",
-    "format": "SVF",
-    "id": "69c00954d478313a15a30a0f",
-    "players": 36,
-    "organizerId": 829
-  },
-  {
-    "game": "PTCG",
-    "name": "CHAMPIONSHIPS OF DOOM! VIII",
-    "date": "2026-03-28T15:00:00.000Z",
-    "format": "STANDARD",
-    "id": "691e3039b11d3f5498bc26a0",
-    "players": 341,
-    "organizerId": 349
-  },
-  {
-    "game": "VGC",
-    "name": "GG´s Seafoam Island/Earth Badge Special",
-    "date": "2026-03-28T15:00:00.000Z",
-    "format": "SVI",
-    "id": "697fb0a5bd2fb45595558e86",
-    "players": 49,
-    "organizerId": 1732
-  },
-  {
-    "game": "DCG",
-    "name": "PHOENIX OPEN 18° 2026",
-    "date": "2026-03-28T13:30:00.000Z",
-    "format": null,
-    "id": "69a5fa1f818e5fde7d817a5c",
-    "players": 76,
-    "organizerId": 281
-  },
-  {
-    "game": "POCKET",
-    "name": "🎴Nuggie's POG Tournament #4 FA | OAK & B2B CARD🎴",
-    "date": "2026-03-28T09:00:00.000Z",
-    "format": null,
-    "id": "69c4c30b36f5b5c303dbdbd4",
-    "players": 102,
-    "organizerId": 1913
-  },
-  {
-    "game": "POCKET",
-    "name": "Umbreon99 & Storm's Late Night ($5 USD) + FA",
-    "date": "2026-03-28T03:30:00.000Z",
-    "format": null,
-    "id": "69c7180636f5b5c303dbf4c8",
-    "players": 99,
-    "organizerId": 2461
   }
 ]
