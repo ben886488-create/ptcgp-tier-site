@@ -1,5 +1,113 @@
 [
   {
+    "game": "POCKET",
+    "name": "Lagoon Serenity Format (5 USD)",
+    "date": "2026-04-25T02:00:00.000Z",
+    "format": null,
+    "id": "69ebba9d54195646133390c9",
+    "players": 58,
+    "organizerId": 2429
+  },
+  {
+    "game": "VGC",
+    "name": "Friday Fight Night #52 Reg M-A Bo3",
+    "date": "2026-04-24T22:40:00.000Z",
+    "format": "M-A",
+    "id": "69e2f71d78b359b789d652c2",
+    "players": 42,
+    "organizerId": 1107
+  },
+  {
+    "game": "PTCG",
+    "name": "Peladão da Baixada #168 • Star Rising",
+    "date": "2026-04-24T22:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69a2415ea0282967a730e02a",
+    "players": 33,
+    "organizerId": 72
+  },
+  {
+    "game": "PTCG",
+    "name": "Vault Weekly Runs #13🏆|PRAGUE REGIONAL|50+ CODES",
+    "date": "2026-04-24T21:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69eb73b548d465883f71bb82",
+    "players": 65,
+    "organizerId": 2226
+  },
+  {
+    "game": "PTCG",
+    "name": "🏆Ling TV ARENA🏆- TOP 3 PRICE",
+    "date": "2026-04-24T18:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69e11c3878b359b789d6383c",
+    "players": 32,
+    "organizerId": 2592
+  },
+  {
+    "game": "POCKET",
+    "name": "Umbreon99's Friday Clash #7 ($10 USD)",
+    "date": "2026-04-24T17:15:00.000Z",
+    "format": null,
+    "id": "69dae54548d465883f710ce0",
+    "players": 133,
+    "organizerId": 2461
+  },
+  {
+    "game": "VGC",
+    "name": "CHAMPIONS REG. M-A |👑CROWN FIGHT Bo3 TOUR #66👑",
+    "date": "2026-04-24T16:25:00.000Z",
+    "format": "M-A",
+    "id": "69c31fd3d478313a15a321be",
+    "players": 94,
+    "organizerId": 1723
+  },
+  {
+    "game": "PTCG",
+    "name": "Turtwig Den Revival Series Challenge 31",
+    "date": "2026-04-24T16:05:00.000Z",
+    "format": "STANDARD",
+    "id": "697252b19c739a2ff7bf557f",
+    "players": 92,
+    "organizerId": 196
+  },
+  {
+    "game": "VGC",
+    "name": "Pokémon Champions Reg M-A | CGCL Weekly #2",
+    "date": "2026-04-24T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69dfe7f648d465883f7143c8",
+    "players": 46,
+    "organizerId": 2232
+  },
+  {
+    "game": "POCKET",
+    "name": "🥊 20$ BEC'S KING OF THE HILL - FA PRIZE",
+    "date": "2026-04-24T13:05:00.000Z",
+    "format": null,
+    "id": "69e77e7348d465883f719b8f",
+    "players": 91,
+    "organizerId": 2011
+  },
+  {
+    "game": "PTCG",
+    "name": "Oceania Open! | Season 2 - Week 4",
+    "date": "2026-04-24T09:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69c77f8236f5b5c303dbf7dd",
+    "players": 61,
+    "organizerId": 1659
+  },
+  {
+    "game": "POCKET",
+    "name": "Lagoon Serenity Format Pop Up (5 USD)",
+    "date": "2026-04-24T02:00:00.000Z",
+    "format": null,
+    "id": "69ea8ab848d465883f71b204",
+    "players": 59,
+    "organizerId": 2429
+  },
+  {
     "game": "PTCG",
     "name": "WERE SO BACK T2TCG 100 CODES",
     "date": "2026-04-24T01:45:00.000Z",
@@ -16,6 +124,15 @@
     "id": "69e4efa178b359b789d67000",
     "players": 35,
     "organizerId": 2306
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #3 - REG M-A",
+    "date": "2026-04-23T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69e913d378b359b789d697af",
+    "players": 36,
+    "organizerId": 1582
   },
   {
     "game": "VGC",
@@ -36,13 +153,13 @@
     "organizerId": 1727
   },
   {
-    "game": "VGC",
-    "name": "Intimidators Champions Challenge #3 - REG M-A",
-    "date": "2026-04-23T23:00:00.000Z",
-    "format": "M-A",
-    "id": "69e913d378b359b789d697af",
-    "players": 36,
-    "organizerId": 1582
+    "game": "POCKET",
+    "name": "Icetea hometown blitz 20$+ Top 4 FA cards ⚡",
+    "date": "2026-04-23T21:30:00.000Z",
+    "format": null,
+    "id": "69ea07ba78b359b789d69e6c",
+    "players": 104,
+    "organizerId": 2499
   },
   {
     "game": "VGC",
@@ -61,6 +178,15 @@
     "id": "69e204ad78b359b789d64327",
     "players": 259,
     "organizerId": 35
+  },
+  {
+    "game": "POCKET",
+    "name": "👑🐲ZGG|King Solomon’s Heavy Slam $5🪨🦍",
+    "date": "2026-04-23T15:05:00.000Z",
+    "format": null,
+    "id": "69e8cfc778b359b789d6950f",
+    "players": 105,
+    "organizerId": 2551
   },
   {
     "game": "VGC",
@@ -199,15 +325,6 @@
   },
   {
     "game": "PTCG",
-    "name": "Torneo Gratuito Sidedeck Online 21 Abril",
-    "date": "2026-04-22T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69e4ef0d48d465883f717ffc",
-    "players": 98,
-    "organizerId": 2306
-  },
-  {
-    "game": "PTCG",
     "name": "Dragapult Party - LastPrize Series (100 Codes)",
     "date": "2026-04-21T23:35:00.000Z",
     "format": "STANDARD",
@@ -271,21 +388,21 @@
   },
   {
     "game": "PTCG",
-    "name": "⚔️ MONDAYFUNDAY SHOWDOWN ⚔️",
-    "date": "2026-04-21T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69e54e3248d465883f7185c3",
-    "players": 99,
-    "organizerId": 2596
-  },
-  {
-    "game": "PTCG",
     "name": "🏛💫 Card Temple Weekly Battles #55",
     "date": "2026-04-21T02:00:00.000Z",
     "format": "STANDARD",
     "id": "69e65a6b48d465883f718f13",
     "players": 58,
     "organizerId": 2152
+  },
+  {
+    "game": "PTCG",
+    "name": "⚔️ MONDAYFUNDAY SHOWDOWN ⚔️",
+    "date": "2026-04-21T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69e54e3248d465883f7185c3",
+    "players": 99,
+    "organizerId": 2596
   },
   {
     "game": "VGC",
@@ -684,15 +801,6 @@
     "organizerId": 2628
   },
   {
-    "game": "PTCG",
-    "name": "Trimestral Cardshall",
-    "date": "2026-04-18T12:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69e2249f78b359b789d643f9",
-    "players": 39,
-    "organizerId": 438
-  },
-  {
     "game": "VGC",
     "name": "Coupe Critique Champions VGC #1 - 100€ de cp",
     "date": "2026-04-18T12:00:00.000Z",
@@ -700,6 +808,15 @@
     "id": "69dd619478b359b789d617b1",
     "players": 128,
     "organizerId": 2621
+  },
+  {
+    "game": "PTCG",
+    "name": "Trimestral Cardshall",
+    "date": "2026-04-18T12:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69e2249f78b359b789d643f9",
+    "players": 39,
+    "organizerId": 438
   },
   {
     "game": "PTCG",
@@ -873,13 +990,13 @@
     "organizerId": 2512
   },
   {
-    "game": "POCKET",
-    "name": "BRICKCITY THURSDAY₊⊹⁀➴prize: FA OAK",
+    "game": "PTCG",
+    "name": "Torneo Clasificatorio Jueves 16 Abril",
     "date": "2026-04-17T00:00:00.000Z",
-    "format": null,
-    "id": "69e0ef5548d465883f714abc",
-    "players": 42,
-    "organizerId": 2593
+    "format": "STANDARD",
+    "id": "69e128b648d465883f714f1b",
+    "players": 36,
+    "organizerId": 2306
   },
   {
     "game": "PTCG",
@@ -891,13 +1008,13 @@
     "organizerId": 1689
   },
   {
-    "game": "PTCG",
-    "name": "Torneo Clasificatorio Jueves 16 Abril",
+    "game": "POCKET",
+    "name": "BRICKCITY THURSDAY₊⊹⁀➴prize: FA OAK",
     "date": "2026-04-17T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69e128b648d465883f714f1b",
-    "players": 36,
-    "organizerId": 2306
+    "format": null,
+    "id": "69e0ef5548d465883f714abc",
+    "players": 42,
+    "organizerId": 2593
   },
   {
     "game": "PTCG",
@@ -918,15 +1035,6 @@
     "organizerId": 1077
   },
   {
-    "game": "VGC",
-    "name": "🏅CHAMPIONS ARENA🏅$96 USD | Guti x Trainers TCG",
-    "date": "2026-04-16T19:00:00.000Z",
-    "format": "M-A",
-    "id": "69db300848d465883f7113a1",
-    "players": 171,
-    "organizerId": 1990
-  },
-  {
     "game": "PTCG",
     "name": "ASRcristiano # 153 - Road to Prague Regional",
     "date": "2026-04-16T19:00:00.000Z",
@@ -934,6 +1042,15 @@
     "id": "69df46e178b359b789d628a0",
     "players": 143,
     "organizerId": 1778
+  },
+  {
+    "game": "VGC",
+    "name": "🏅CHAMPIONS ARENA🏅$96 USD | Guti x Trainers TCG",
+    "date": "2026-04-16T19:00:00.000Z",
+    "format": "M-A",
+    "id": "69db300848d465883f7113a1",
+    "players": 171,
+    "organizerId": 1990
   },
   {
     "game": "POCKET",
@@ -1089,15 +1206,6 @@
     "organizerId": 2429
   },
   {
-    "game": "VGC",
-    "name": "HeroicTitan’s VGC Battle Arena",
-    "date": "2026-04-15T01:00:00.000Z",
-    "format": "M-A",
-    "id": "69ddc3a848d465883f713282",
-    "players": 85,
-    "organizerId": 2397
-  },
-  {
     "game": "PTCG",
     "name": "Celebrate getting into wave 1 NAIC registration",
     "date": "2026-04-15T01:00:00.000Z",
@@ -1105,6 +1213,15 @@
     "id": "69de691248d465883f7135a1",
     "players": 49,
     "organizerId": 162
+  },
+  {
+    "game": "VGC",
+    "name": "HeroicTitan’s VGC Battle Arena",
+    "date": "2026-04-15T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69ddc3a848d465883f713282",
+    "players": 85,
+    "organizerId": 2397
   },
   {
     "game": "PTCG",
@@ -1476,13 +1593,13 @@
     "organizerId": 2226
   },
   {
-    "game": "PTCG",
-    "name": "Torneo Aniversario Sidedeck Sábado 11 Abril",
+    "game": "POCKET",
+    "name": "The Road To Victory |🥇$20 USD🥈⭐️⭐️🥉⭐️",
     "date": "2026-04-12T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69da91dd78b359b789d5f2aa",
-    "players": 39,
-    "organizerId": 2306
+    "format": null,
+    "id": "69da6bee48d465883f70f9e0",
+    "players": 80,
+    "organizerId": 2524
   },
   {
     "game": "PTCG",
@@ -1494,13 +1611,13 @@
     "organizerId": 2518
   },
   {
-    "game": "POCKET",
-    "name": "The Road To Victory |🥇$20 USD🥈⭐️⭐️🥉⭐️",
+    "game": "PTCG",
+    "name": "Torneo Aniversario Sidedeck Sábado 11 Abril",
     "date": "2026-04-12T00:00:00.000Z",
-    "format": null,
-    "id": "69da6bee48d465883f70f9e0",
-    "players": 80,
-    "organizerId": 2524
+    "format": "STANDARD",
+    "id": "69da91dd78b359b789d5f2aa",
+    "players": 39,
+    "organizerId": 2306
   },
   {
     "game": "GUNDAM",
@@ -1585,12 +1702,12 @@
   },
   {
     "game": "VGC",
-    "name": "VGCA Battle Hall #24 (CHAMPIONS)",
+    "name": "Wolfey Patreon Tournament - Pokémon Champions #1",
     "date": "2026-04-11T14:00:00.000Z",
-    "format": "M-A",
-    "id": "69d65d2bc734cfa1af2b4dd7",
-    "players": 36,
-    "organizerId": 1527
+    "format": "CUSTOM",
+    "id": "69d57782800d329be2e751dc",
+    "players": 56,
+    "organizerId": 662
   },
   {
     "game": "VGC",
@@ -1603,12 +1720,12 @@
   },
   {
     "game": "VGC",
-    "name": "Wolfey Patreon Tournament - Pokémon Champions #1",
+    "name": "VGCA Battle Hall #24 (CHAMPIONS)",
     "date": "2026-04-11T14:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "69d57782800d329be2e751dc",
-    "players": 56,
-    "organizerId": 662
+    "format": "M-A",
+    "id": "69d65d2bc734cfa1af2b4dd7",
+    "players": 36,
+    "organizerId": 1527
   },
   {
     "game": "VGC",
@@ -1690,149 +1807,5 @@
     "id": "69c8294d36f5b5c303dc036e",
     "players": 203,
     "organizerId": 2607
-  },
-  {
-    "game": "PTCG",
-    "name": "JustInBasil Online League - 10 April 2026",
-    "date": "2026-04-10T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69d94bf048d465883f70e801",
-    "players": 32,
-    "organizerId": 90
-  },
-  {
-    "game": "VGC",
-    "name": "Ratorneo #1 Apertura Champions 2026 | Reg MA | BO3",
-    "date": "2026-04-10T22:30:00.000Z",
-    "format": "M-A",
-    "id": "69c31dcf36f5b5c303dbce84",
-    "players": 32,
-    "organizerId": 2475
-  },
-  {
-    "game": "POCKET",
-    "name": "Frappscalibur's \"Sur-prize!\" Pop Up",
-    "date": "2026-04-10T20:35:00.000Z",
-    "format": null,
-    "id": "69d950c578b359b789d5dbd2",
-    "players": 40,
-    "organizerId": 2451
-  },
-  {
-    "game": "PTCG",
-    "name": "ASRcristiano # 151 - Road to Prague Regional",
-    "date": "2026-04-10T19:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69d65cddb9ec970afa605913",
-    "players": 108,
-    "organizerId": 1778
-  },
-  {
-    "game": "PTCG",
-    "name": "⚡ Surge's TCG Vault Winner Takes All - TCG Live #2",
-    "date": "2026-04-10T17:55:00.000Z",
-    "format": "STANDARD",
-    "id": "69ce082cd478313a15a397de",
-    "players": 71,
-    "organizerId": 2603
-  },
-  {
-    "game": "POCKET",
-    "name": "Umbreon99's Friday Clash #5 ($20 USD) + ✨",
-    "date": "2026-04-10T17:00:00.000Z",
-    "format": null,
-    "id": "69c19fdfd478313a15a31880",
-    "players": 265,
-    "organizerId": 2461
-  },
-  {
-    "game": "VGC",
-    "name": "Unova Champions League / POKÉMON CHAMPIONS / 30€",
-    "date": "2026-04-10T17:00:00.000Z",
-    "format": "M-A",
-    "id": "69d537610e548b5c2fbe5b3f",
-    "players": 100,
-    "organizerId": 956
-  },
-  {
-    "game": "PTCG",
-    "name": "Turtwig Den Revival Series Challenge 29",
-    "date": "2026-04-10T16:05:00.000Z",
-    "format": "STANDARD",
-    "id": "6972524ab1294bfab7203633",
-    "players": 41,
-    "organizerId": 196
-  },
-  {
-    "game": "PTCG",
-    "name": "Pokemon TCG TOPDECK LEAGUE Online Reborn #2",
-    "date": "2026-04-10T15:30:00.000Z",
-    "format": "STANDARD",
-    "id": "69d4d5660e548b5c2fbe56a8",
-    "players": 68,
-    "organizerId": 362
-  },
-  {
-    "game": "POCKET",
-    "name": "✨️50$ BEC'S CHAMPIONS: 1-4 PRIZES ✨️",
-    "date": "2026-04-10T13:00:00.000Z",
-    "format": null,
-    "id": "69d79c86c734cfa1af2b5c83",
-    "players": 158,
-    "organizerId": 2011
-  },
-  {
-    "game": "POCKET",
-    "name": "Yosh Tournament #1 ( Rp500.000 + FA CARD )",
-    "date": "2026-04-10T12:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "69d3c700800d329be2e73b0d",
-    "players": 173,
-    "organizerId": 1933
-  },
-  {
-    "game": "PTCG",
-    "name": "Oceania Open! | Season 2 - Week 2",
-    "date": "2026-04-10T09:30:00.000Z",
-    "format": "STANDARD",
-    "id": "69c77f4cd478313a15a34d8e",
-    "players": 75,
-    "organizerId": 1659
-  },
-  {
-    "game": "POCKET",
-    "name": "♨️Sauna X Ev4de POG Tournament #4|Top 4 FA Pool!",
-    "date": "2026-04-10T03:00:00.000Z",
-    "format": null,
-    "id": "69d38a840e548b5c2fbe46ba",
-    "players": 111,
-    "organizerId": 2535
-  },
-  {
-    "game": "VGC",
-    "name": "Talon's FIGHT CLUB #79 POKEMON CHAMPIONS",
-    "date": "2026-04-10T01:15:00.000Z",
-    "format": "M-A",
-    "id": "69c84a6036f5b5c303dc05f6",
-    "players": 122,
-    "organizerId": 1077
-  },
-  {
-    "game": "PTCG",
-    "name": "Le Tournois Du DresseurPokeCharbie #106",
-    "date": "2026-04-10T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69cf2028d478313a15a3a3f6",
-    "players": 87,
-    "organizerId": 1689
-  },
-  {
-    "game": "PTCG",
-    "name": "Torneo Aniversario Sidedeck 9 Abril",
-    "date": "2026-04-10T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69d7f616b9ec970afa606f08",
-    "players": 41,
-    "organizerId": 2306
   }
 ]
