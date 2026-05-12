@@ -1,6 +1,87 @@
 [
   {
     "game": "PTCG",
+    "name": "🏛💫 Card Temple Weekly Battles #58",
+    "date": "2026-05-12T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a01d5f2dfbdf089cbbd7da0",
+    "players": 114,
+    "organizerId": 2152
+  },
+  {
+    "game": "POCKET",
+    "name": "BRICKCITYᯓ★DARKTINA (PRIZE FA COPYCAT)",
+    "date": "2026-05-12T00:05:00.000Z",
+    "format": null,
+    "id": "6a021c2313f957d6d4b45d8b",
+    "players": 66,
+    "organizerId": 2593
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #8 - REG M-A",
+    "date": "2026-05-11T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69febd5d13f957d6d4b43339",
+    "players": 32,
+    "organizerId": 1582
+  },
+  {
+    "game": "PTCG",
+    "name": "Sunny's Weekly #256 Ciphermaniac’s 256-Bit Gaming!",
+    "date": "2026-05-11T22:05:00.000Z",
+    "format": "STANDARD",
+    "id": "69f911d8e23aab068aadafe5",
+    "players": 171,
+    "organizerId": 145
+  },
+  {
+    "game": "OP",
+    "name": "ChinoizeCup #55 Monday",
+    "date": "2026-05-11T18:00:00.000Z",
+    "format": null,
+    "id": "69fc51d9e23aab068aadd0a1",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
+    "name": "Pumpkaweekly",
+    "date": "2026-05-11T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a00e0c0dfbdf089cbbd7654",
+    "players": 125,
+    "organizerId": 36
+  },
+  {
+    "game": "PTCG",
+    "name": "🏆Moujii's Dojo🏆 (Late Registration Available!)",
+    "date": "2026-05-11T16:10:00.000Z",
+    "format": "STANDARD",
+    "id": "69fa0db04f71d664893ed8b4",
+    "players": 182,
+    "organizerId": 35
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC Regional #2 | $25 PRIZE | FREE ENTRY",
+    "date": "2026-05-11T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69f4579be23aab068aad6b4a",
+    "players": 109,
+    "organizerId": 2623
+  },
+  {
+    "game": "POCKET",
+    "name": "The Breakfast Club Pop Up-$5+ FA",
+    "date": "2026-05-11T01:30:00.000Z",
+    "format": null,
+    "id": "6a010ddc13f957d6d4b4560d",
+    "players": 125,
+    "organizerId": 2461
+  },
+  {
+    "game": "PTCG",
     "name": "Rare Candy Club Showdown #22 (50 CODES)",
     "date": "2026-05-11T00:00:00.000Z",
     "format": "STANDARD",
@@ -54,6 +135,15 @@
     "organizerId": 2045
   },
   {
+    "game": "PTCG",
+    "name": "POST ROTATION Circuito TCG #3 | Z2 Gaming",
+    "date": "2026-05-10T15:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69d548ba800d329be2e74ed7",
+    "players": 33,
+    "organizerId": 2585
+  },
+  {
     "game": "POCKET",
     "name": "Highlight’s🔥Blazing Inferno🔥#18 | Oak + FAs $",
     "date": "2026-05-10T15:00:00.000Z",
@@ -63,13 +153,13 @@
     "organizerId": 2362
   },
   {
-    "game": "PTCG",
-    "name": "POST ROTATION Circuito TCG #3 | Z2 Gaming",
-    "date": "2026-05-10T15:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69d548ba800d329be2e74ed7",
-    "players": 33,
-    "organizerId": 2585
+    "game": "VGC",
+    "name": "VGC Trainer School; champions M/A #4",
+    "date": "2026-05-10T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69ed70b80dbc80f3c21e9536",
+    "players": 36,
+    "organizerId": 672
   },
   {
     "game": "POCKET",
@@ -81,15 +171,6 @@
     "organizerId": 2045
   },
   {
-    "game": "PTCG",
-    "name": "Tournoi amical LEAGUE canto N56°",
-    "date": "2026-05-10T12:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69fa3dbae23aab068aadbb58",
-    "players": 49,
-    "organizerId": 1049
-  },
-  {
     "game": "POCKET",
     "name": "BMS CUP#1",
     "date": "2026-05-10T12:00:00.000Z",
@@ -97,6 +178,15 @@
     "id": "69fd83802b59cd9b66b26b9b",
     "players": 61,
     "organizerId": 2166
+  },
+  {
+    "game": "PTCG",
+    "name": "Tournoi amical LEAGUE canto N56°",
+    "date": "2026-05-10T12:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69fa3dbae23aab068aadbb58",
+    "players": 49,
+    "organizerId": 1049
   },
   {
     "game": "PTCG",
@@ -126,15 +216,6 @@
     "organizerId": 2461
   },
   {
-    "game": "POCKET",
-    "name": "Pocket Lagoon No EX (OAK FA or 5 USD)",
-    "date": "2026-05-10T02:00:00.000Z",
-    "format": null,
-    "id": "69ff644913f957d6d4b43ea7",
-    "players": 83,
-    "organizerId": 2429
-  },
-  {
     "game": "VGC",
     "name": "The Wide League Saturday Night Rumble #85",
     "date": "2026-05-10T02:00:00.000Z",
@@ -142,6 +223,15 @@
     "id": "69fce08b4f71d664893ef783",
     "players": 35,
     "organizerId": 637
+  },
+  {
+    "game": "POCKET",
+    "name": "Pocket Lagoon No EX (OAK FA or 5 USD)",
+    "date": "2026-05-10T02:00:00.000Z",
+    "format": null,
+    "id": "69ff644913f957d6d4b43ea7",
+    "players": 83,
+    "organizerId": 2429
   },
   {
     "game": "PTCG",
@@ -513,15 +603,6 @@
     "organizerId": 2461
   },
   {
-    "game": "PTCG",
-    "name": "Esquizofrenia ZONE #2 Weekly Battle",
-    "date": "2026-05-07T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69f0b8824f71d664893e64fb",
-    "players": 32,
-    "organizerId": 1875
-  },
-  {
     "game": "POCKET",
     "name": "Lagoon Serenity Format (FA Choice Prize)",
     "date": "2026-05-07T02:00:00.000Z",
@@ -529,6 +610,15 @@
     "id": "69fa38384f71d664893eda79",
     "players": 81,
     "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "Esquizofrenia ZONE #2 Weekly Battle",
+    "date": "2026-05-07T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69f0b8824f71d664893e64fb",
+    "players": 32,
+    "organizerId": 1875
   },
   {
     "game": "POCKET",
@@ -639,15 +729,6 @@
     "organizerId": 2461
   },
   {
-    "game": "PTCG",
-    "name": "Torneo Relámpago ⚡ #39 PTCG Live",
-    "date": "2026-05-06T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69dbdae478b359b789d60749",
-    "players": 32,
-    "organizerId": 2512
-  },
-  {
     "game": "POCKET",
     "name": "Pocket Lagoon No EX (FA Choice Prize)",
     "date": "2026-05-06T02:00:00.000Z",
@@ -655,6 +736,15 @@
     "id": "69f7e0c54f71d664893ebed9",
     "players": 100,
     "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Relámpago ⚡ #39 PTCG Live",
+    "date": "2026-05-06T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69dbdae478b359b789d60749",
+    "players": 32,
+    "organizerId": 2512
   },
   {
     "game": "VGC",
@@ -846,15 +936,6 @@
     "organizerId": 36
   },
   {
-    "game": "OP",
-    "name": "ChinoizeCup #52 Monday",
-    "date": "2026-05-04T18:00:00.000Z",
-    "format": null,
-    "id": "69f308a3e23aab068aad5c40",
-    "players": 63,
-    "organizerId": 2339
-  },
-  {
     "game": "POCKET",
     "name": "Exclusive Format #5 - Legendary Rumble (FA CopyC)",
     "date": "2026-05-04T18:00:00.000Z",
@@ -862,6 +943,15 @@
     "id": "69b7fe679f81767f3e80362a",
     "players": 46,
     "organizerId": 2542
+  },
+  {
+    "game": "OP",
+    "name": "ChinoizeCup #52 Monday",
+    "date": "2026-05-04T18:00:00.000Z",
+    "format": null,
+    "id": "69f308a3e23aab068aad5c40",
+    "players": 63,
+    "organizerId": 2339
   },
   {
     "game": "POCKET",
@@ -900,15 +990,6 @@
     "organizerId": 1651
   },
   {
-    "game": "PTCG",
-    "name": "Rare Candy Club Showdown #21 (50 CODES)",
-    "date": "2026-05-04T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69f0ea064f71d664893e6657",
-    "players": 129,
-    "organizerId": 2518
-  },
-  {
     "game": "VGC",
     "name": "Extreme Speed Pokémon Champions #4",
     "date": "2026-05-04T00:00:00.000Z",
@@ -916,6 +997,15 @@
     "id": "69f3dd0de23aab068aad66d6",
     "players": 32,
     "organizerId": 848
+  },
+  {
+    "game": "PTCG",
+    "name": "Rare Candy Club Showdown #21 (50 CODES)",
+    "date": "2026-05-04T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69f0ea064f71d664893e6657",
+    "players": 129,
+    "organizerId": 2518
   },
   {
     "game": "POCKET",
@@ -961,6 +1051,15 @@
     "id": "69f4bd75e23aab068aad7131",
     "players": 149,
     "organizerId": 2610
+  },
+  {
+    "game": "VGC",
+    "name": "Delites Champions Cup #2 (Reg M-A)",
+    "date": "2026-05-03T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69ef88704f71d664893e5728",
+    "players": 35,
+    "organizerId": 900
   },
   {
     "game": "VGC",
@@ -1018,21 +1117,21 @@
   },
   {
     "game": "PTCG",
-    "name": "Torneo Sábado 2 Mayo",
-    "date": "2026-05-03T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69f43c6e4f71d664893e8a71",
-    "players": 32,
-    "organizerId": 2306
-  },
-  {
-    "game": "PTCG",
     "name": "Defenders Arena #13🏆|L.A REGIONAL PREP|50+ CODES",
     "date": "2026-05-03T00:00:00.000Z",
     "format": "STANDARD",
     "id": "69eb7d0078b359b789d6ad34",
     "players": 79,
     "organizerId": 2226
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Sábado 2 Mayo",
+    "date": "2026-05-03T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69f43c6e4f71d664893e8a71",
+    "players": 32,
+    "organizerId": 2306
   },
   {
     "game": "PTCG",
@@ -1080,13 +1179,13 @@
     "organizerId": 2663
   },
   {
-    "game": "VGC",
-    "name": "ChampionMads Singles Battle Arena #1 - $50 USD",
+    "game": "DCG",
+    "name": "LIGA PHOENIX 2026 - (PHOENIX REBORN) CABA 16°",
     "date": "2026-05-02T16:00:00.000Z",
-    "format": "M-A",
-    "id": "69efd51b4f71d664893e5db9",
-    "players": 39,
-    "organizerId": 13
+    "format": null,
+    "id": "69f3a59e4f71d664893e813a",
+    "players": 33,
+    "organizerId": 281
   },
   {
     "game": "PTCG",
@@ -1107,13 +1206,13 @@
     "organizerId": 13
   },
   {
-    "game": "DCG",
-    "name": "LIGA PHOENIX 2026 - (PHOENIX REBORN) CABA 16°",
+    "game": "VGC",
+    "name": "ChampionMads Singles Battle Arena #1 - $50 USD",
     "date": "2026-05-02T16:00:00.000Z",
-    "format": null,
-    "id": "69f3a59e4f71d664893e813a",
-    "players": 33,
-    "organizerId": 281
+    "format": "M-A",
+    "id": "69efd51b4f71d664893e5db9",
+    "players": 39,
+    "organizerId": 13
   },
   {
     "game": "VGC",
@@ -1134,6 +1233,15 @@
     "organizerId": 2501
   },
   {
+    "game": "VGC",
+    "name": "LIGA DA COMUNIDADE #4 (R$ 1.000 PRIZE POOL)",
+    "date": "2026-05-02T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd6d2e48d465883f712e47",
+    "players": 177,
+    "organizerId": 919
+  },
+  {
     "game": "POCKET",
     "name": "$100 USD+FA | 巫獅對戰塔盃 LeoWizard BattleTower Cup #7",
     "date": "2026-05-02T13:00:00.000Z",
@@ -1143,13 +1251,13 @@
     "organizerId": 2546
   },
   {
-    "game": "VGC",
-    "name": "LIGA DA COMUNIDADE #4 (R$ 1.000 PRIZE POOL)",
-    "date": "2026-05-02T13:00:00.000Z",
-    "format": "M-A",
-    "id": "69dd6d2e48d465883f712e47",
-    "players": 177,
-    "organizerId": 919
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #15 (30 CODES)",
+    "date": "2026-05-02T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69f58026e23aab068aad8078",
+    "players": 68,
+    "organizerId": 2623
   },
   {
     "game": "POCKET",
@@ -1188,15 +1296,6 @@
     "organizerId": 1031
   },
   {
-    "game": "VGC",
-    "name": "Pokemon Champions Challenge #4",
-    "date": "2026-05-02T00:00:00.000Z",
-    "format": "M-A",
-    "id": "69f2294b4f71d664893e71bf",
-    "players": 62,
-    "organizerId": 2607
-  },
-  {
     "game": "GUNDAM",
     "name": "The Eagle's Nest S5W2.5 MSA Online Locals",
     "date": "2026-05-02T00:00:00.000Z",
@@ -1204,6 +1303,15 @@
     "id": "69c47b3036f5b5c303dbda14",
     "players": 67,
     "organizerId": 452
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Champions Challenge #4",
+    "date": "2026-05-02T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69f2294b4f71d664893e71bf",
+    "players": 62,
+    "organizerId": 2607
   },
   {
     "game": "PTCG",
@@ -1440,13 +1548,13 @@
     "organizerId": 2635
   },
   {
-    "game": "POCKET",
-    "name": "Lagoon Serenity Format (10 USD)",
+    "game": "PTCG",
+    "name": "👑💖 TCGirls👉 🏆 Clash Mixto Hermosillo #1 🔥",
     "date": "2026-04-30T02:00:00.000Z",
-    "format": null,
-    "id": "69f21a794f71d664893e70d0",
-    "players": 86,
-    "organizerId": 2429
+    "format": "STANDARD",
+    "id": "69e56f5948d465883f718747",
+    "players": 45,
+    "organizerId": 2635
   },
   {
     "game": "POCKET",
@@ -1594,21 +1702,21 @@
   },
   {
     "game": "PTCG",
-    "name": "🇧🇷 Hit Cup #4 • TCG Live | Prize - Booster Box",
-    "date": "2026-04-29T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69dc76e048d465883f7122d4",
-    "players": 37,
-    "organizerId": 2442
-  },
-  {
-    "game": "PTCG",
     "name": "Torneo Gratuito Sidedeck Online 28 Abril",
     "date": "2026-04-29T00:00:00.000Z",
     "format": "STANDARD",
     "id": "69f11b90e23aab068aad48d9",
     "players": 74,
     "organizerId": 2306
+  },
+  {
+    "game": "PTCG",
+    "name": "🇧🇷 Hit Cup #4 • TCG Live | Prize - Booster Box",
+    "date": "2026-04-29T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69dc76e048d465883f7122d4",
+    "players": 37,
+    "organizerId": 2442
   },
   {
     "game": "PTCG",
@@ -1699,140 +1807,5 @@
     "id": "69ef98dee23aab068aad380d",
     "players": 110,
     "organizerId": 2152
-  },
-  {
-    "game": "VGC",
-    "name": "Pokepal Smackdown #138 (Champions) (Reg M-A)",
-    "date": "2026-04-27T23:30:00.000Z",
-    "format": "M-A",
-    "id": "69ced3a136f5b5c303dc52ae",
-    "players": 43,
-    "organizerId": 893
-  },
-  {
-    "game": "VGC",
-    "name": "Intimidators Champions Challenge #4 - REG M-A",
-    "date": "2026-04-27T23:00:00.000Z",
-    "format": "M-A",
-    "id": "69eebbcc9d90c111990b8f60",
-    "players": 42,
-    "organizerId": 1582
-  },
-  {
-    "game": "PTCG",
-    "name": "Sunny's Weekly #254 Get in the Zone! Magnezone!",
-    "date": "2026-04-27T22:05:00.000Z",
-    "format": "STANDARD",
-    "id": "69e5409148d465883f718547",
-    "players": 180,
-    "organizerId": 145
-  },
-  {
-    "game": "VGC",
-    "name": "Head Bussa's Hoedown#29 ChampionsReg M-A $25 1st",
-    "date": "2026-04-27T21:01:00.000Z",
-    "format": "M-A",
-    "id": "69eb5d9078b359b789d6abf8",
-    "players": 99,
-    "organizerId": 1337
-  },
-  {
-    "game": "PTCG",
-    "name": "Pumpkaweekly",
-    "date": "2026-04-27T20:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69ef09a50dbc80f3c21e9997",
-    "players": 76,
-    "organizerId": 36
-  },
-  {
-    "game": "POCKET",
-    "name": "🏆 Sagittarian Open #2 | $50 Prize Pool",
-    "date": "2026-04-27T18:30:00.000Z",
-    "format": null,
-    "id": "69d8fc9e48d465883f70e00c",
-    "players": 147,
-    "organizerId": 2589
-  },
-  {
-    "game": "PTCG",
-    "name": "🏆Moujii's Dojo🏆 (Late Registration Available!)",
-    "date": "2026-04-27T18:10:00.000Z",
-    "format": "STANDARD",
-    "id": "69eb8d3e48d465883f71bccc",
-    "players": 237,
-    "organizerId": 35
-  },
-  {
-    "game": "OP",
-    "name": "ChinoizeCup #49 Monday",
-    "date": "2026-04-27T18:00:00.000Z",
-    "format": null,
-    "id": "69e9d0e748d465883f71ac43",
-    "players": 64,
-    "organizerId": 2339
-  },
-  {
-    "game": "PTCG",
-    "name": "Play Pokémon Belgium tour",
-    "date": "2026-04-27T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69ef4efb4f71d664893e55f5",
-    "players": 33,
-    "organizerId": 683
-  },
-  {
-    "game": "VGC",
-    "name": "Boldore's Gate #8 - $5 USD - Champions Weekly 4/27",
-    "date": "2026-04-27T17:00:00.000Z",
-    "format": "M-A",
-    "id": "69ee41249d90c111990b8c2f",
-    "players": 62,
-    "organizerId": 2620
-  },
-  {
-    "game": "POCKET",
-    "name": "Pocket Lagoon No EX (OAK & May Prize)",
-    "date": "2026-04-27T16:30:00.000Z",
-    "format": null,
-    "id": "69eeb9dcf9b24b9bd5b0295e",
-    "players": 45,
-    "organizerId": 2429
-  },
-  {
-    "game": "POCKET",
-    "name": "OnlyFrapps “Pop-Up”  (10$ + FA)",
-    "date": "2026-04-27T14:30:00.000Z",
-    "format": null,
-    "id": "69ef5a644f71d664893e562a",
-    "players": 67,
-    "organizerId": 2451
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Cup #3 (100 CODES)",
-    "date": "2026-04-27T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "69e9be0148d465883f71ac10",
-    "players": 100,
-    "organizerId": 2623
-  },
-  {
-    "game": "VGC",
-    "name": "Sketch Academy Champions Regulation M-A Tournament",
-    "date": "2026-04-27T01:00:00.000Z",
-    "format": "M-A",
-    "id": "69e5dff978b359b789d67c03",
-    "players": 60,
-    "organizerId": 1651
-  },
-  {
-    "game": "PTCG",
-    "name": "Rare Candy Club Showdown #20 (50 CODES)",
-    "date": "2026-04-27T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69e86a5078b359b789d6939c",
-    "players": 123,
-    "organizerId": 2518
   }
 ]
