@@ -1,12 +1,156 @@
 [
   {
+    "game": "POCKET",
+    "name": "Lagoon Serenity Format (Choice FA Prize)",
+    "date": "2026-06-10T02:00:00.000Z",
+    "format": null,
+    "id": "6a27ac3847f3797bf6bafc9c",
+    "players": 80,
+    "organizerId": 2429
+  },
+  {
     "game": "PTCG",
-    "name": "🏛💫 Card Temple Weekly Battles #62",
-    "date": "2026-06-09T02:00:00.000Z",
+    "name": "Torneo Relámpago ⚡ #49 PTCG Live",
+    "date": "2026-06-10T02:00:00.000Z",
     "format": "STANDARD",
-    "id": "6a26d71a56b11a587a94c21b",
-    "players": 139,
-    "organizerId": 2152
+    "id": "6a0b376813f957d6d4b4aca3",
+    "players": 32,
+    "organizerId": 2512
+  },
+  {
+    "game": "VGC",
+    "name": "HeroicTitan’s VGC Battle Arena (Bo3)",
+    "date": "2026-06-10T01:00:00.000Z",
+    "format": "M-A",
+    "id": "6a25ef4e56b11a587a94bb8c",
+    "players": 37,
+    "organizerId": 2397
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Gratuito Sidedeck Online 9 Junio",
+    "date": "2026-06-10T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a2896afe334c3c9befd28c3",
+    "players": 50,
+    "organizerId": 2306
+  },
+  {
+    "game": "POCKET",
+    "name": "The Breakfast Club Standard-$5 + FA Koraidon",
+    "date": "2026-06-09T23:45:00.000Z",
+    "format": null,
+    "id": "6a286e2a2d97f3b0c26126fd",
+    "players": 117,
+    "organizerId": 2461
+  },
+  {
+    "game": "PTCG",
+    "name": "PRE NAIC LAST PRIZE SERIES",
+    "date": "2026-06-09T23:35:00.000Z",
+    "format": "STANDARD",
+    "id": "6a1fa4b756b11a587a947287",
+    "players": 143,
+    "organizerId": 2227
+  },
+  {
+    "game": "PTCG",
+    "name": "Cypher Circuit Series Season Two- Torneo #3",
+    "date": "2026-06-09T23:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a1ddfda56b11a587a945bee",
+    "players": 67,
+    "organizerId": 2696
+  },
+  {
+    "game": "PTCG",
+    "name": "ARTEUS TCG - TUESDAY LEGENDS",
+    "date": "2026-06-09T22:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a27395d56b11a587a94c747",
+    "players": 42,
+    "organizerId": 2692
+  },
+  {
+    "game": "POCKET",
+    "name": "Plasma Weekly #5 | FA Cards",
+    "date": "2026-06-09T19:00:00.000Z",
+    "format": null,
+    "id": "6a27ff8247f3797bf6bafdff",
+    "players": 88,
+    "organizerId": 2234
+  },
+  {
+    "game": "OP",
+    "name": "ChinoizeCup #68 Tuesday",
+    "date": "2026-06-09T18:00:00.000Z",
+    "format": null,
+    "id": "6a21363747f3797bf6bab665",
+    "players": 63,
+    "organizerId": 2339
+  },
+  {
+    "game": "POCKET",
+    "name": "BRICKCITY 𝟯𝘃𝟯₊⊹⁀➴prize: FA CARDS",
+    "date": "2026-06-09T17:35:00.000Z",
+    "format": null,
+    "id": "6a26dac656b11a587a94c23e",
+    "players": 44,
+    "organizerId": 2593
+  },
+  {
+    "game": "PTCG",
+    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
+    "date": "2026-06-09T17:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a25dbc447f3797bf6baea2a",
+    "players": 91,
+    "organizerId": 2603
+  },
+  {
+    "game": "PTCG",
+    "name": "Turtwig Den Revival Series Challenge 36",
+    "date": "2026-06-09T16:05:00.000Z",
+    "format": "STANDARD",
+    "id": "69725451b1294bfab7203643",
+    "players": 84,
+    "organizerId": 196
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon VGC UmbreNews 09.06.2026 #18 - Champion",
+    "date": "2026-06-09T15:30:00.000Z",
+    "format": "M-A",
+    "id": "6a1fd03556b11a587a9472fc",
+    "players": 33,
+    "organizerId": 2471
+  },
+  {
+    "game": "POCKET",
+    "name": "BMS CUP#2",
+    "date": "2026-06-09T12:10:00.000Z",
+    "format": "CUSTOM",
+    "id": "6a26afdf56b11a587a94c0e2",
+    "players": 46,
+    "organizerId": 2166
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #17 [50 CODES]",
+    "date": "2026-06-09T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6a22eb7747f3797bf6bac764",
+    "players": 100,
+    "organizerId": 2623
+  },
+  {
+    "game": "POCKET",
+    "name": "♨️Sauna's POG Tournament #13|FA Cyrus/Mars/B3a",
+    "date": "2026-06-09T07:45:00.000Z",
+    "format": null,
+    "id": "6a25000e47f3797bf6bae2ac",
+    "players": 106,
+    "organizerId": 2535
   },
   {
     "game": "POCKET",
@@ -16,6 +160,15 @@
     "id": "6a2606ac47f3797bf6baec2c",
     "players": 78,
     "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "🏛💫 Card Temple Weekly Battles #62",
+    "date": "2026-06-09T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a26d71a56b11a587a94c21b",
+    "players": 139,
+    "organizerId": 2152
   },
   {
     "game": "VGC",
@@ -63,15 +216,6 @@
     "organizerId": 145
   },
   {
-    "game": "OP",
-    "name": "ChinoizeCup #67 Monday",
-    "date": "2026-06-08T18:00:00.000Z",
-    "format": null,
-    "id": "6a21351656b11a587a9480fc",
-    "players": 64,
-    "organizerId": 2339
-  },
-  {
     "game": "PTCG",
     "name": "Pumpkaweekly",
     "date": "2026-06-08T18:00:00.000Z",
@@ -79,6 +223,15 @@
     "id": "6a256e4747f3797bf6bae558",
     "players": 123,
     "organizerId": 36
+  },
+  {
+    "game": "OP",
+    "name": "ChinoizeCup #67 Monday",
+    "date": "2026-06-08T18:00:00.000Z",
+    "format": null,
+    "id": "6a21351656b11a587a9480fc",
+    "players": 64,
+    "organizerId": 2339
   },
   {
     "game": "PTCG",
@@ -279,15 +432,6 @@
     "organizerId": 13
   },
   {
-    "game": "PTCG",
-    "name": "CHAMPIONSHIP OF DOOM! IX",
-    "date": "2026-06-06T15:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69cada2ad478313a15a37972",
-    "players": 450,
-    "organizerId": 349
-  },
-  {
     "game": "VGC",
     "name": "SpearPillar Champions Tour #6 | Reg M-A $100 Prize",
     "date": "2026-06-06T15:00:00.000Z",
@@ -295,6 +439,15 @@
     "id": "69cd69a336f5b5c303dc45bb",
     "players": 213,
     "organizerId": 822
+  },
+  {
+    "game": "PTCG",
+    "name": "CHAMPIONSHIP OF DOOM! IX",
+    "date": "2026-06-06T15:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69cada2ad478313a15a37972",
+    "players": 450,
+    "organizerId": 349
   },
   {
     "game": "PTCG",
@@ -486,15 +639,6 @@
     "organizerId": 2535
   },
   {
-    "game": "PTCG",
-    "name": "Torneo Relámpago ⚡ #48 PTCG Live",
-    "date": "2026-06-05T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a0b364013f957d6d4b4ac92",
-    "players": 32,
-    "organizerId": 2512
-  },
-  {
     "game": "POCKET",
     "name": "Lagoon Serenity Format (FA Choice Prize)",
     "date": "2026-06-05T02:00:00.000Z",
@@ -502,6 +646,15 @@
     "id": "6a21c63847f3797bf6babba5",
     "players": 52,
     "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Relámpago ⚡ #48 PTCG Live",
+    "date": "2026-06-05T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a0b364013f957d6d4b4ac92",
+    "players": 32,
+    "organizerId": 2512
   },
   {
     "game": "POCKET",
@@ -1368,13 +1521,13 @@
     "organizerId": 2612
   },
   {
-    "game": "PTCG",
-    "name": "💥​Plantel Battle #24 CHAOS 💥​100 CODES ✔️​ TOP 8",
+    "game": "POCKET",
+    "name": "The Dankest Cup #2 [$100 USD Prize] | New Set!",
     "date": "2026-05-28T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a15f7da8c163b8097997eb4",
-    "players": 107,
-    "organizerId": 1727
+    "format": null,
+    "id": "6a0e3e6413f957d6d4b4c28d",
+    "players": 266,
+    "organizerId": 2591
   },
   {
     "game": "VGC",
@@ -1386,13 +1539,13 @@
     "organizerId": 1077
   },
   {
-    "game": "POCKET",
-    "name": "The Dankest Cup #2 [$100 USD Prize] | New Set!",
+    "game": "PTCG",
+    "name": "💥​Plantel Battle #24 CHAOS 💥​100 CODES ✔️​ TOP 8",
     "date": "2026-05-28T23:00:00.000Z",
-    "format": null,
-    "id": "6a0e3e6413f957d6d4b4c28d",
-    "players": 266,
-    "organizerId": 2591
+    "format": "STANDARD",
+    "id": "6a15f7da8c163b8097997eb4",
+    "players": 107,
+    "organizerId": 1727
   },
   {
     "game": "PTCG",
@@ -1564,131 +1717,5 @@
     "id": "6a15cf0d0f6c1f08998617d7",
     "players": 94,
     "organizerId": 2306
-  },
-  {
-    "game": "PTCG",
-    "name": "Chaos Rising LAST PRIZE SERIES Season 3",
-    "date": "2026-05-26T23:35:00.000Z",
-    "format": "STANDARD",
-    "id": "6a09ede013f957d6d4b4a556",
-    "players": 216,
-    "organizerId": 2227
-  },
-  {
-    "game": "VGC",
-    "name": "The Drywalls Series #6 - Champions!",
-    "date": "2026-05-26T22:30:00.000Z",
-    "format": "M-A",
-    "id": "6a131c910f6c1f0899860158",
-    "players": 73,
-    "organizerId": 1437
-  },
-  {
-    "game": "POCKET",
-    "name": "Lagoon Serenity Format (Lillie & Lisia FA)",
-    "date": "2026-05-26T22:00:00.000Z",
-    "format": null,
-    "id": "6a152b580f6c1f0899861509",
-    "players": 41,
-    "organizerId": 2429
-  },
-  {
-    "game": "POCKET",
-    "name": "The Dark League daily Tourney #1 $5",
-    "date": "2026-05-26T19:18:00.000Z",
-    "format": null,
-    "id": "6a101650f404bb4c7c1cbcad",
-    "players": 65,
-    "organizerId": 2045
-  },
-  {
-    "game": "OP",
-    "name": "ChinoizeCup #62 Tuesday",
-    "date": "2026-05-26T18:00:00.000Z",
-    "format": null,
-    "id": "6a0da06213f957d6d4b4bc66",
-    "players": 60,
-    "organizerId": 2339
-  },
-  {
-    "game": "PTCG",
-    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
-    "date": "2026-05-26T17:45:00.000Z",
-    "format": "STANDARD",
-    "id": "6a15ca7b8c163b8097997ceb",
-    "players": 58,
-    "organizerId": 2603
-  },
-  {
-    "game": "PTCG",
-    "name": "Turtwig Den Revival Series Challenge 35",
-    "date": "2026-05-26T16:05:00.000Z",
-    "format": "STANDARD",
-    "id": "697253489c739a2ff7bf5585",
-    "players": 101,
-    "organizerId": 196
-  },
-  {
-    "game": "VGC",
-    "name": "[❄️lanakila.vg] First Ascent",
-    "date": "2026-05-26T16:00:00.000Z",
-    "format": "M-A",
-    "id": "6a05a50edfbdf089cbbd9f86",
-    "players": 32,
-    "organizerId": 1626
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #8 [50 CODES]",
-    "date": "2026-05-26T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6a0ae9ecdfbdf089cbbdc912",
-    "players": 95,
-    "organizerId": 2623
-  },
-  {
-    "game": "PTCG",
-    "name": "CHALLENGE OF DOOM! TRY'S REALLY HARD!",
-    "date": "2026-05-26T03:35:00.000Z",
-    "format": "STANDARD",
-    "id": "69ffcd8fdfbdf089cbbd68d6",
-    "players": 128,
-    "organizerId": 349
-  },
-  {
-    "game": "PTCG",
-    "name": "🏛💫 Card Temple Weekly Battles #60",
-    "date": "2026-05-26T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a147c168c163b809799713a",
-    "players": 62,
-    "organizerId": 2152
-  },
-  {
-    "game": "POCKET",
-    "name": "Lagoon Serenity Format (FA Choice Prize)",
-    "date": "2026-05-26T02:00:00.000Z",
-    "format": null,
-    "id": "6a1270c08c163b8097996258",
-    "players": 61,
-    "organizerId": 2429
-  },
-  {
-    "game": "PTCG",
-    "name": "⚔️ MONDAYFUNDAY SHOWDOWN ⚔️ May 25",
-    "date": "2026-05-26T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a146b578c163b8097996f9d",
-    "players": 38,
-    "organizerId": 2596
-  },
-  {
-    "game": "PTCG",
-    "name": "Izanami Amistoso",
-    "date": "2026-05-26T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a14b3340f6c1f0899860fac",
-    "players": 40,
-    "organizerId": 1953
   }
 ]
