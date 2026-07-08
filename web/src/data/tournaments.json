@@ -1,12 +1,147 @@
 [
   {
     "game": "PTCG",
+    "name": "Pudding Weekly #3 | Munkidori Moggers",
+    "date": "2026-07-08T01:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a448f9583fd320299bd5699",
+    "players": 74,
+    "organizerId": 2720
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Sidedeck Online Gratis Martes 7 Julio",
+    "date": "2026-07-08T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a4d754165724db9ded3faa9",
+    "players": 33,
+    "organizerId": 2306
+  },
+  {
+    "game": "PTCG",
+    "name": "LAST PRIZE SERIES #7 - CHAOS RISING",
+    "date": "2026-07-07T23:35:00.000Z",
+    "format": "STANDARD",
+    "id": "6a46b80e83fd320299bd68e9",
+    "players": 151,
+    "organizerId": 2227
+  },
+  {
+    "game": "POCKET",
+    "name": "The Breakfast Club x Knowtice Afternoon Delight-$5",
+    "date": "2026-07-07T23:15:00.000Z",
+    "format": null,
+    "id": "6a4d80a7063cb29d318e63a2",
+    "players": 80,
+    "organizerId": 2461
+  },
+  {
+    "game": "PTCG",
+    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
+    "date": "2026-07-07T20:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a4c3dc765724db9ded3ec3d",
+    "players": 100,
+    "organizerId": 2603
+  },
+  {
+    "game": "OP",
+    "name": "ChinoizeCup #80 Tuesday",
+    "date": "2026-07-07T18:00:00.000Z",
+    "format": null,
+    "id": "6a462d78c87cd9ff0a3151c0",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
+    "name": "👑 CrownOfSpain 👑 (10€ paypal)",
+    "date": "2026-07-07T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a2be310e334c3c9befd4622",
+    "players": 157,
+    "organizerId": 2698
+  },
+  {
+    "game": "VGC",
+    "name": "TARTAN TAKEDOWN #31! - [CHAMPIONS REG M-B]",
+    "date": "2026-07-07T17:00:00.000Z",
+    "format": "M-B",
+    "id": "6a442e38c87cd9ff0a313df0",
+    "players": 58,
+    "organizerId": 2398
+  },
+  {
+    "game": "POCKET",
+    "name": "Plasma Daily #7 | FA Card",
+    "date": "2026-07-07T17:00:00.000Z",
+    "format": null,
+    "id": "6a4b19c3063cb29d318e4715",
+    "players": 89,
+    "organizerId": 2234
+  },
+  {
+    "game": "VGC",
+    "name": "VGC UmbreNews 07.07.2026 #22 - Champion",
+    "date": "2026-07-07T15:30:00.000Z",
+    "format": "M-B",
+    "id": "6a46dd3d83fd320299bd6b5c",
+    "players": 43,
+    "organizerId": 2471
+  },
+  {
+    "game": "VGC",
+    "name": "SNT Reg M-B Tour #2",
+    "date": "2026-07-07T14:00:00.000Z",
+    "format": "M-B",
+    "id": "6a450f8883fd320299bd5908",
+    "players": 71,
+    "organizerId": 1844
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #13 (SEASON 3) [50 CODES]",
+    "date": "2026-07-07T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6a489730063cb29d318e2b21",
+    "players": 90,
+    "organizerId": 2623
+  },
+  {
+    "game": "POCKET",
+    "name": "♨️Sauna's POG Tournament #18|Top 4 Prizing!",
+    "date": "2026-07-07T08:05:00.000Z",
+    "format": null,
+    "id": "6a4ad63265724db9ded3d9bc",
+    "players": 85,
+    "organizerId": 2535
+  },
+  {
+    "game": "PTCG",
     "name": "CHALLENGE OF DOOM! BURGERS OR HOTDOGS?",
     "date": "2026-07-07T03:35:00.000Z",
     "format": "STANDARD",
     "id": "6a284d862d97f3b0c26124ea",
     "players": 128,
     "organizerId": 349
+  },
+  {
+    "game": "POCKET",
+    "name": "The Breakfast Club Late Night-$5+ FA",
+    "date": "2026-07-07T03:30:00.000Z",
+    "format": null,
+    "id": "6a4c37ea063cb29d318e54de",
+    "players": 81,
+    "organizerId": 2461
+  },
+  {
+    "game": "POCKET",
+    "name": "Lagoon Serenity Format (Cyrus FA)",
+    "date": "2026-07-07T02:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6a483122063cb29d318e2544",
+    "players": 52,
+    "organizerId": 2429
   },
   {
     "game": "VGC",
@@ -36,6 +171,15 @@
     "organizerId": 1437
   },
   {
+    "game": "PTCG",
+    "name": "Sunny's Weekly #264 Down the Slowpoke Well",
+    "date": "2026-07-06T22:05:00.000Z",
+    "format": "STANDARD",
+    "id": "6a431ad383fd320299bd46b4",
+    "players": 145,
+    "organizerId": 145
+  },
+  {
     "game": "POCKET",
     "name": "BRICKCITY MONDAY₊⊹⁀➴prize: $50, FA CARDS",
     "date": "2026-07-06T22:05:00.000Z",
@@ -45,13 +189,13 @@
     "organizerId": 2593
   },
   {
-    "game": "PTCG",
-    "name": "Sunny's Weekly #264 Down the Slowpoke Well",
-    "date": "2026-07-06T22:05:00.000Z",
-    "format": "STANDARD",
-    "id": "6a431ad383fd320299bd46b4",
-    "players": 145,
-    "organizerId": 145
+    "game": "POCKET",
+    "name": "🏆 Sagittarian Open #5 | $50 Prize Pool 🔥",
+    "date": "2026-07-06T18:30:00.000Z",
+    "format": null,
+    "id": "6a44fdc1c87cd9ff0a3145ed",
+    "players": 223,
+    "organizerId": 2589
   },
   {
     "game": "PTCG",
@@ -79,6 +223,15 @@
     "id": "6a44081f83fd320299bd5014",
     "players": 184,
     "organizerId": 35
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #12 (SEASON 3) [50 CODES]",
+    "date": "2026-07-06T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6a47df1b063cb29d318e1f53",
+    "players": 84,
+    "organizerId": 2623
   },
   {
     "game": "POCKET",
@@ -135,15 +288,6 @@
     "organizerId": 1254
   },
   {
-    "game": "OP",
-    "name": "Extra Grand Battle for Stores 2026",
-    "date": "2026-07-05T16:00:00.000Z",
-    "format": null,
-    "id": "6a3c66bfc87cd9ff0a30ec46",
-    "players": 32,
-    "organizerId": 1843
-  },
-  {
     "game": "POCKET",
     "name": "PMPT - HOLIDAY SPECIAL!!! | $200 USD",
     "date": "2026-07-05T16:00:00.000Z",
@@ -151,6 +295,15 @@
     "id": "6a4290e583fd320299bd3f55",
     "players": 378,
     "organizerId": 13
+  },
+  {
+    "game": "OP",
+    "name": "Extra Grand Battle for Stores 2026",
+    "date": "2026-07-05T16:00:00.000Z",
+    "format": null,
+    "id": "6a3c66bfc87cd9ff0a30ec46",
+    "players": 32,
+    "organizerId": 1843
   },
   {
     "game": "VGC",
@@ -199,21 +352,21 @@
   },
   {
     "game": "VGC",
-    "name": "Khun Champions Cup #2",
-    "date": "2026-07-05T04:30:00.000Z",
-    "format": "M-B",
-    "id": "6a3ceab783fd320299bcfbff",
-    "players": 266,
-    "organizerId": 2671
-  },
-  {
-    "game": "VGC",
     "name": "Mudkip's Marsh Pit #2",
     "date": "2026-07-05T04:30:00.000Z",
     "format": "M-B",
     "id": "6a3ed82d83fd320299bd1000",
     "players": 54,
     "organizerId": 2706
+  },
+  {
+    "game": "VGC",
+    "name": "Khun Champions Cup #2",
+    "date": "2026-07-05T04:30:00.000Z",
+    "format": "M-B",
+    "id": "6a3ceab783fd320299bcfbff",
+    "players": 266,
+    "organizerId": 2671
   },
   {
     "game": "POCKET",
@@ -351,15 +504,6 @@
     "organizerId": 2461
   },
   {
-    "game": "PTCG",
-    "name": "Top Deck Trainer Trials #2",
-    "date": "2026-07-04T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a3fd95bc87cd9ff0a310eed",
-    "players": 38,
-    "organizerId": 2728
-  },
-  {
     "game": "GUNDAM",
     "name": "The Eagle's Nest S5LCQ MSA Online Locals",
     "date": "2026-07-04T00:00:00.000Z",
@@ -367,6 +511,15 @@
     "id": "69d3331c0e548b5c2fbe45ad",
     "players": 34,
     "organizerId": 452
+  },
+  {
+    "game": "PTCG",
+    "name": "Top Deck Trainer Trials #2",
+    "date": "2026-07-04T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a3fd95bc87cd9ff0a310eed",
+    "players": 38,
+    "organizerId": 2728
   },
   {
     "game": "VGC",
@@ -423,15 +576,6 @@
     "organizerId": 956
   },
   {
-    "game": "VGC",
-    "name": "Rework Esport Champions Talent Cup 2 | 50€ CP",
-    "date": "2026-07-03T18:00:00.000Z",
-    "format": "M-B",
-    "id": "6a39af2883fd320299bce1f4",
-    "players": 89,
-    "organizerId": 1930
-  },
-  {
     "game": "PTCG",
     "name": "⚡ Surge's TCG Vault Winner Takes All TCG Live #14",
     "date": "2026-07-03T18:00:00.000Z",
@@ -439,6 +583,15 @@
     "id": "6a0b678bdfbdf089cbbdcdc0",
     "players": 67,
     "organizerId": 2603
+  },
+  {
+    "game": "VGC",
+    "name": "Rework Esport Champions Talent Cup 2 | 50€ CP",
+    "date": "2026-07-03T18:00:00.000Z",
+    "format": "M-B",
+    "id": "6a39af2883fd320299bce1f4",
+    "players": 89,
+    "organizerId": 1930
   },
   {
     "game": "POCKET",
@@ -478,21 +631,21 @@
   },
   {
     "game": "VGC",
-    "name": "Tournois des ARBRES - Pokemon Champions Reg M-B",
-    "date": "2026-07-03T12:00:00.000Z",
-    "format": "M-B",
-    "id": "6a430f4083fd320299bd461d",
-    "players": 47,
-    "organizerId": 695
-  },
-  {
-    "game": "VGC",
     "name": "Yosh Tournament #2 ( Rp 3.000.000+ )",
     "date": "2026-07-03T12:00:00.000Z",
     "format": "CUSTOM",
     "id": "6a41b45dc87cd9ff0a3125d8",
     "players": 306,
     "organizerId": 1933
+  },
+  {
+    "game": "VGC",
+    "name": "Tournois des ARBRES - Pokemon Champions Reg M-B",
+    "date": "2026-07-03T12:00:00.000Z",
+    "format": "M-B",
+    "id": "6a430f4083fd320299bd461d",
+    "players": 47,
+    "organizerId": 695
   },
   {
     "game": "PTCG",
@@ -540,15 +693,6 @@
     "organizerId": 2512
   },
   {
-    "game": "PTCG",
-    "name": "Rare Candy Club Underground #9 TOP 50 META BAN",
-    "date": "2026-07-03T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a443827c87cd9ff0a313e32",
-    "players": 37,
-    "organizerId": 2518
-  },
-  {
     "game": "VGC",
     "name": "𝗡𝗲𝗺𝗲 𝗪𝗲𝗲𝗸𝗹𝘆 𝗠-𝗕 𝗧𝗼𝘂𝗿 🏆 #𝟲𝟯",
     "date": "2026-07-03T00:00:00.000Z",
@@ -556,6 +700,15 @@
     "id": "6a4310bb83fd320299bd463e",
     "players": 36,
     "organizerId": 766
+  },
+  {
+    "game": "PTCG",
+    "name": "Rare Candy Club Underground #9 TOP 50 META BAN",
+    "date": "2026-07-03T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a443827c87cd9ff0a313e32",
+    "players": 37,
+    "organizerId": 2518
   },
   {
     "game": "POCKET",
@@ -567,15 +720,6 @@
     "organizerId": 2461
   },
   {
-    "game": "PTCG",
-    "name": "💥​Plantel Battle #27 CHAOS 💥​100 CODES ✔️​ TOP 8",
-    "date": "2026-07-02T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a45bed1c87cd9ff0a314f10",
-    "players": 123,
-    "organizerId": 1727
-  },
-  {
     "game": "VGC",
     "name": "Talon's FIGHT CLUB #91 POKEMON CHAMPIONS",
     "date": "2026-07-02T23:00:00.000Z",
@@ -583,6 +727,15 @@
     "id": "6a32e85d2d97f3b0c26189c9",
     "players": 83,
     "organizerId": 1077
+  },
+  {
+    "game": "PTCG",
+    "name": "💥​Plantel Battle #27 CHAOS 💥​100 CODES ✔️​ TOP 8",
+    "date": "2026-07-02T23:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a45bed1c87cd9ff0a314f10",
+    "players": 123,
+    "organizerId": 1727
   },
   {
     "game": "PTCG",
@@ -729,6 +882,15 @@
     "organizerId": 2339
   },
   {
+    "game": "OP",
+    "name": "ChinoizeCup #78 Wednesday",
+    "date": "2026-07-01T18:00:00.000Z",
+    "format": null,
+    "id": "6a3ce60283fd320299bcfbf4",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
     "game": "VGC",
     "name": "Champions Collective #12",
     "date": "2026-07-01T17:30:00.000Z",
@@ -738,15 +900,6 @@
     "organizerId": 2636
   },
   {
-    "game": "POCKET",
-    "name": "a random r0zey tournament ;p | FA WALLACE 💧",
-    "date": "2026-07-01T17:00:00.000Z",
-    "format": null,
-    "id": "6a440a1dc87cd9ff0a313c37",
-    "players": 81,
-    "organizerId": 2661
-  },
-  {
     "game": "VGC",
     "name": "Alpensee Tour (Reg M-B) #64",
     "date": "2026-07-01T17:00:00.000Z",
@@ -754,6 +907,15 @@
     "id": "6a392defc87cd9ff0a30d0ac",
     "players": 72,
     "organizerId": 2323
+  },
+  {
+    "game": "POCKET",
+    "name": "a random r0zey tournament ;p | FA WALLACE 💧",
+    "date": "2026-07-01T17:00:00.000Z",
+    "format": null,
+    "id": "6a440a1dc87cd9ff0a313c37",
+    "players": 81,
+    "organizerId": 2661
   },
   {
     "game": "PTCG",
@@ -766,21 +928,21 @@
   },
   {
     "game": "VGC",
-    "name": "Sky Pillar VGC Public Tournament",
-    "date": "2026-07-01T13:00:00.000Z",
-    "format": "M-B",
-    "id": "6a42473883fd320299bd3cc8",
-    "players": 32,
-    "organizerId": 1079
-  },
-  {
-    "game": "VGC",
     "name": "Newbie Practice Match",
     "date": "2026-07-01T13:00:00.000Z",
     "format": "M-B",
     "id": "6a44a40383fd320299bd570d",
     "players": 41,
     "organizerId": 2688
+  },
+  {
+    "game": "VGC",
+    "name": "Sky Pillar VGC Public Tournament",
+    "date": "2026-07-01T13:00:00.000Z",
+    "format": "M-B",
+    "id": "6a42473883fd320299bd3cc8",
+    "players": 32,
+    "organizerId": 1079
   },
   {
     "game": "PTCG",
@@ -864,15 +1026,6 @@
     "organizerId": 2339
   },
   {
-    "game": "VGC",
-    "name": "TARTAN TAKEDOWN #30! - [CHAMPIONS REG M-B]",
-    "date": "2026-06-30T17:00:00.000Z",
-    "format": "M-B",
-    "id": "6a41634e83fd320299bd3356",
-    "players": 56,
-    "organizerId": 2398
-  },
-  {
     "game": "PTCG",
     "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
     "date": "2026-06-30T17:00:00.000Z",
@@ -880,6 +1033,15 @@
     "id": "6a425626c87cd9ff0a3129d8",
     "players": 95,
     "organizerId": 2603
+  },
+  {
+    "game": "VGC",
+    "name": "TARTAN TAKEDOWN #30! - [CHAMPIONS REG M-B]",
+    "date": "2026-06-30T17:00:00.000Z",
+    "format": "M-B",
+    "id": "6a41634e83fd320299bd3356",
+    "players": 56,
+    "organizerId": 2398
   },
   {
     "game": "POCKET",
@@ -1062,15 +1224,6 @@
     "organizerId": 2461
   },
   {
-    "game": "VGC",
-    "name": "Top Deck VGC Trials",
-    "date": "2026-06-29T00:00:00.000Z",
-    "format": "M-B",
-    "id": "6a3e915083fd320299bd0aa6",
-    "players": 34,
-    "organizerId": 2728
-  },
-  {
     "game": "PTCG",
     "name": "RCC 1000 MEMBERS | $100 USD PRIZE | NO ENTRY FEE",
     "date": "2026-06-29T00:00:00.000Z",
@@ -1078,6 +1231,15 @@
     "id": "6a03e4e413f957d6d4b4720f",
     "players": 382,
     "organizerId": 2518
+  },
+  {
+    "game": "VGC",
+    "name": "Top Deck VGC Trials",
+    "date": "2026-06-29T00:00:00.000Z",
+    "format": "M-B",
+    "id": "6a3e915083fd320299bd0aa6",
+    "players": 34,
+    "organizerId": 2728
   },
   {
     "game": "VGC",
@@ -1161,13 +1323,13 @@
     "organizerId": 2461
   },
   {
-    "game": "VGC",
-    "name": "The Wide League Saturday Night Rumble #87 REG M-B",
+    "game": "POCKET",
+    "name": "Lagoon Serenity Format (Copycat FA)",
     "date": "2026-06-28T02:00:00.000Z",
-    "format": "M-B",
-    "id": "6a3dbda083fd320299bd0416",
-    "players": 61,
-    "organizerId": 637
+    "format": "CUSTOM",
+    "id": "6a3f32ce83fd320299bd14bd",
+    "players": 32,
+    "organizerId": 2429
   },
   {
     "game": "PTCG",
@@ -1179,13 +1341,13 @@
     "organizerId": 2512
   },
   {
-    "game": "POCKET",
-    "name": "Lagoon Serenity Format (Copycat FA)",
+    "game": "VGC",
+    "name": "The Wide League Saturday Night Rumble #87 REG M-B",
     "date": "2026-06-28T02:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a3f32ce83fd320299bd14bd",
-    "players": 32,
-    "organizerId": 2429
+    "format": "M-B",
+    "id": "6a3dbda083fd320299bd0416",
+    "players": 61,
+    "organizerId": 637
   },
   {
     "game": "POCKET",
@@ -1233,13 +1395,13 @@
     "organizerId": 2613
   },
   {
-    "game": "PTCG",
-    "name": "Saturday Night Showdown",
-    "date": "2026-06-27T17:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a3f9da9c87cd9ff0a310c03",
-    "players": 76,
-    "organizerId": 2613
+    "game": "POCKET",
+    "name": "PMPT #37 - DESOLATE DRIVE!!! | $200 USD",
+    "date": "2026-06-27T16:00:00.000Z",
+    "format": null,
+    "id": "6a397086c87cd9ff0a30d2c1",
+    "players": 308,
+    "organizerId": 13
   },
   {
     "game": "VGC",
@@ -1249,15 +1411,6 @@
     "id": "6a3ce3c9c87cd9ff0a30ef12",
     "players": 32,
     "organizerId": 2719
-  },
-  {
-    "game": "POCKET",
-    "name": "PMPT #37 - DESOLATE DRIVE!!! | $200 USD",
-    "date": "2026-06-27T16:00:00.000Z",
-    "format": null,
-    "id": "6a397086c87cd9ff0a30d2c1",
-    "players": 308,
-    "organizerId": 13
   },
   {
     "game": "VGC",
@@ -1386,15 +1539,6 @@
     "organizerId": 2603
   },
   {
-    "game": "POCKET",
-    "name": "Umbreon99's Friday Clash #15 ($10 USD)",
-    "date": "2026-06-26T17:30:00.000Z",
-    "format": null,
-    "id": "6a29599f2d97f3b0c2612fd1",
-    "players": 112,
-    "organizerId": 2461
-  },
-  {
     "game": "VGC",
     "name": "Champions Collective #11",
     "date": "2026-06-26T17:30:00.000Z",
@@ -1402,6 +1546,15 @@
     "id": "6a398611c87cd9ff0a30d3ae",
     "players": 38,
     "organizerId": 2636
+  },
+  {
+    "game": "POCKET",
+    "name": "Umbreon99's Friday Clash #15 ($10 USD)",
+    "date": "2026-06-26T17:30:00.000Z",
+    "format": null,
+    "id": "6a29599f2d97f3b0c2612fd1",
+    "players": 112,
+    "organizerId": 2461
   },
   {
     "game": "VGC",
@@ -1512,15 +1665,6 @@
     "organizerId": 1582
   },
   {
-    "game": "VGC",
-    "name": "Talon's FIGHT CLUB #90 POKEMON CHAMPIONS",
-    "date": "2026-06-25T23:00:00.000Z",
-    "format": "M-B",
-    "id": "6a14cca88c163b8097997618",
-    "players": 88,
-    "organizerId": 1077
-  },
-  {
     "game": "PTCG",
     "name": "💥​Plantel Battle #26 CHAOS 💥​100 CODES ✔️​ TOP 8",
     "date": "2026-06-25T23:00:00.000Z",
@@ -1528,6 +1672,15 @@
     "id": "6a3b4f15c87cd9ff0a30e565",
     "players": 76,
     "organizerId": 1727
+  },
+  {
+    "game": "VGC",
+    "name": "Talon's FIGHT CLUB #90 POKEMON CHAMPIONS",
+    "date": "2026-06-25T23:00:00.000Z",
+    "format": "M-B",
+    "id": "6a14cca88c163b8097997618",
+    "players": 88,
+    "organizerId": 1077
   },
   {
     "game": "VGC",
@@ -1735,113 +1888,5 @@
     "id": "6a3b0fb2c87cd9ff0a30e15c",
     "players": 43,
     "organizerId": 2306
-  },
-  {
-    "game": "PTCG",
-    "name": "LastPrize Series (100 Codes Prize Pool)",
-    "date": "2026-06-23T23:35:00.000Z",
-    "format": "STANDARD",
-    "id": "6a348858e334c3c9befd9b30",
-    "players": 155,
-    "organizerId": 2227
-  },
-  {
-    "game": "POCKET",
-    "name": "KnowticeTkO's X Storm's \"Mr. Cool Tournament\" $10",
-    "date": "2026-06-23T23:30:00.000Z",
-    "format": null,
-    "id": "6a3adbe2c87cd9ff0a30dfe1",
-    "players": 56,
-    "organizerId": 2461
-  },
-  {
-    "game": "VGC",
-    "name": "Amoonguss Bus Tour Champions Practice Reg M-B #1",
-    "date": "2026-06-23T23:00:00.000Z",
-    "format": "M-B",
-    "id": "6a387661af50e1230840809c",
-    "players": 83,
-    "organizerId": 653
-  },
-  {
-    "game": "OP",
-    "name": "ChinoizeCup #74 Tuesday",
-    "date": "2026-06-23T18:00:00.000Z",
-    "format": null,
-    "id": "6a32613ce334c3c9befd85aa",
-    "players": 63,
-    "organizerId": 2339
-  },
-  {
-    "game": "VGC",
-    "name": "TARTAN TAKEDOWN #29 - [CHAMPIONS REG M-B]",
-    "date": "2026-06-23T17:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a31aa6fe334c3c9befd80f9",
-    "players": 64,
-    "organizerId": 2398
-  },
-  {
-    "game": "PTCG",
-    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
-    "date": "2026-06-23T17:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a3869d7af50e12308407fff",
-    "players": 107,
-    "organizerId": 2603
-  },
-  {
-    "game": "VGC",
-    "name": "Pokemon VGC UmbreNews 23.06.2026 #20 - Champion",
-    "date": "2026-06-23T15:30:00.000Z",
-    "format": "M-B",
-    "id": "6a32738be334c3c9befd85c5",
-    "players": 32,
-    "organizerId": 2471
-  },
-  {
-    "game": "VGC",
-    "name": "MMHM x Stellar Novas Tour #2",
-    "date": "2026-06-23T14:00:00.000Z",
-    "format": "M-B",
-    "id": "6a15e1c10f6c1f0899861874",
-    "players": 79,
-    "organizerId": 1844
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #2 (SEASON 3) [50 CODES]",
-    "date": "2026-06-23T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6a36158daf50e12308405e02",
-    "players": 100,
-    "organizerId": 2623
-  },
-  {
-    "game": "PTCG",
-    "name": "CHALLENGE OF DOOM! I THINK I'M NOT SO TIRED NOW!",
-    "date": "2026-06-23T03:35:00.000Z",
-    "format": "STANDARD",
-    "id": "6a284d382d97f3b0c26124e8",
-    "players": 128,
-    "organizerId": 349
-  },
-  {
-    "game": "POCKET",
-    "name": "BREAKFAST CLUB: DIETDRKELP’S KELP CLASSIC #2 - $5",
-    "date": "2026-06-23T03:00:00.000Z",
-    "format": null,
-    "id": "6a39b45783fd320299bce25c",
-    "players": 58,
-    "organizerId": 2461
-  },
-  {
-    "game": "PTCG",
-    "name": "🏛💫 Card Temple Weekly Battles #64",
-    "date": "2026-06-23T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a399e9883fd320299bce14d",
-    "players": 72,
-    "organizerId": 2152
   }
 ]
