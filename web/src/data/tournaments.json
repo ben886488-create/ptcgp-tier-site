@@ -1,5 +1,77 @@
 [
   {
+    "game": "PTCG",
+    "name": "Deep Sea Draw - Sei's Community Tourney (8/2026)",
+    "date": "2026-08-23T21:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a7e07552b308b6067b52ee5",
+    "players": 64,
+    "organizerId": 2265
+  },
+  {
+    "game": "VGC",
+    "name": "Weekend Qualifier for RookideeVGC Grand Tourney",
+    "date": "2026-08-23T16:00:00.000Z",
+    "format": "M-B",
+    "id": "6a8249955a30714095572987",
+    "players": 66,
+    "organizerId": 2513
+  },
+  {
+    "game": "VGC",
+    "name": "🏰 Chateau Knockout 💥",
+    "date": "2026-08-23T12:00:00.000Z",
+    "format": "M-B",
+    "id": "6a8045b178baaa6d1c21feb0",
+    "players": 71,
+    "organizerId": 2724
+  },
+  {
+    "game": "PTCG",
+    "name": "Tournoi amical LEAGUE canto N62° SPECIAL",
+    "date": "2026-08-23T12:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a79ca462b308b6067b5006c",
+    "players": 79,
+    "organizerId": 1049
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #21 (SEASON 4) [50 CODES]",
+    "date": "2026-08-23T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6a851bbf5a3071409557425a",
+    "players": 169,
+    "organizerId": 2623
+  },
+  {
+    "game": "VGC",
+    "name": "Alpensee Worlds Celebration",
+    "date": "2026-08-23T09:00:00.000Z",
+    "format": "M-B",
+    "id": "6a843fe85a30714095573a37",
+    "players": 83,
+    "organizerId": 2323
+  },
+  {
+    "game": "VGC",
+    "name": "Champions 🇨🇷 tour #3",
+    "date": "2026-08-23T01:00:00.000Z",
+    "format": "M-B",
+    "id": "6a85a0ec5a30714095574480",
+    "players": 42,
+    "organizerId": 1387
+  },
+  {
+    "game": "PTCG",
+    "name": "Vault Of Games #6 🏆|OFF-SEASON |WEEKLY",
+    "date": "2026-08-23T01:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a8132d35a30714095571ed0",
+    "players": 216,
+    "organizerId": 2226
+  },
+  {
     "game": "POCKET",
     "name": "TBC x Xastur’s: Ruler of Demise ★ $10+Full-Art Oak",
     "date": "2026-08-22T23:30:00.000Z",
@@ -16,6 +88,15 @@
     "id": "6a89a88d8302ae761e5f96cd",
     "players": 36,
     "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "⛩️$100 Chadweezy95 VGC Champ Tournament Ep 6!⛩️",
+    "date": "2026-08-22T20:30:00.000Z",
+    "format": "M-B",
+    "id": "6a7cbdb52b308b6067b52308",
+    "players": 143,
+    "organizerId": 2687
   },
   {
     "game": "PTCG",
@@ -36,6 +117,24 @@
     "organizerId": 1165
   },
   {
+    "game": "POCKET",
+    "name": "PMPT #43 - SECRET OF THE SKIES!!! | $100 USD",
+    "date": "2026-08-22T16:00:00.000Z",
+    "format": null,
+    "id": "6a834c955a3071409557316c",
+    "players": 292,
+    "organizerId": 13
+  },
+  {
+    "game": "VGC",
+    "name": "INGAGE FRONTIER SERIES #3 | $25 PRIZE | Reg M-B",
+    "date": "2026-08-22T16:00:00.000Z",
+    "format": "M-B",
+    "id": "6a748234cdc0391d7fa5e2cf",
+    "players": 60,
+    "organizerId": 2719
+  },
+  {
     "game": "VGC",
     "name": "ValkrixVGC Pokemon Champions League #01",
     "date": "2026-08-22T14:00:00.000Z",
@@ -45,6 +144,15 @@
     "organizerId": 2778
   },
   {
+    "game": "VGC",
+    "name": "Maddo's Cup #11 | 100€ for the Winner | Reg M-B",
+    "date": "2026-08-22T12:00:00.000Z",
+    "format": "M-B",
+    "id": "6a774e742b308b6067b4e153",
+    "players": 253,
+    "organizerId": 2056
+  },
+  {
     "game": "PTCG",
     "name": "SEASAC League Cup #4 (SEASON 4) [150 CODES]",
     "date": "2026-08-22T11:30:00.000Z",
@@ -52,6 +160,15 @@
     "id": "6a8729fc5a30714095575339",
     "players": 134,
     "organizerId": 2623
+  },
+  {
+    "game": "VGC",
+    "name": "Free entry! $250 Global VGC Welcome Tour! P2",
+    "date": "2026-08-22T08:00:00.000Z",
+    "format": "M-B",
+    "id": "6a65778852c24ac2da64c2dc",
+    "players": 392,
+    "organizerId": 2011
   },
   {
     "game": "POCKET",
@@ -72,15 +189,6 @@
     "organizerId": 349
   },
   {
-    "game": "PTCG",
-    "name": "BZGC Online🔥 ~ Last Before Worlds",
-    "date": "2026-08-22T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a88d1c58302ae761e5f8970",
-    "players": 45,
-    "organizerId": 2278
-  },
-  {
     "game": "POCKET",
     "name": "Pop Up Series 6 || 3 FA OAKS - WINNER TAKES ALL!!",
     "date": "2026-08-22T00:00:00.000Z",
@@ -88,6 +196,15 @@
     "id": "6a887e4b78baaa6d1c225335",
     "players": 52,
     "organizerId": 2522
+  },
+  {
+    "game": "PTCG",
+    "name": "BZGC Online🔥 ~ Last Before Worlds",
+    "date": "2026-08-22T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a88d1c58302ae761e5f8970",
+    "players": 45,
+    "organizerId": 2278
   },
   {
     "game": "VGC",
@@ -108,15 +225,6 @@
     "organizerId": 2705
   },
   {
-    "game": "POCKET",
-    "name": "TCG Pocket Community Series #2 Ruler Of Skies $100",
-    "date": "2026-08-21T19:00:00.000Z",
-    "format": null,
-    "id": "6a74db092b308b6067b4be69",
-    "players": 171,
-    "organizerId": 2451
-  },
-  {
     "game": "PTCG",
     "name": "ASRcristiano # 182 - 60 codes prize pool!",
     "date": "2026-08-21T19:00:00.000Z",
@@ -124,6 +232,15 @@
     "id": "6a84abd678baaa6d1c22307b",
     "players": 143,
     "organizerId": 1778
+  },
+  {
+    "game": "POCKET",
+    "name": "TCG Pocket Community Series #2 Ruler Of Skies $100",
+    "date": "2026-08-21T19:00:00.000Z",
+    "format": null,
+    "id": "6a74db092b308b6067b4be69",
+    "players": 171,
+    "organizerId": 2451
   },
   {
     "game": "PTCG",
@@ -397,21 +514,21 @@
   },
   {
     "game": "VGC",
-    "name": "Alpensee Tour (Reg M-B) #71",
-    "date": "2026-08-19T17:15:00.000Z",
-    "format": "M-B",
-    "id": "6a7f2eb95a307140955700f0",
-    "players": 62,
-    "organizerId": 2323
-  },
-  {
-    "game": "VGC",
     "name": "IMPERIUM CHAMPiONS TOURNAMENT #4",
     "date": "2026-08-19T17:15:00.000Z",
     "format": "M-B",
     "id": "6a7e20932b308b6067b530ed",
     "players": 88,
     "organizerId": 2299
+  },
+  {
+    "game": "VGC",
+    "name": "Alpensee Tour (Reg M-B) #71",
+    "date": "2026-08-19T17:15:00.000Z",
+    "format": "M-B",
+    "id": "6a7f2eb95a307140955700f0",
+    "players": 62,
+    "organizerId": 2323
   },
   {
     "game": "PTCG",
@@ -612,6 +729,15 @@
     "organizerId": 36
   },
   {
+    "game": "VGC",
+    "name": "Amyverse VGC Arena #6 ❤️ Pokémon Champions",
+    "date": "2026-08-17T17:00:00.000Z",
+    "format": "M-B",
+    "id": "6a7a44becdc0391d7fa63462",
+    "players": 73,
+    "organizerId": 2679
+  },
+  {
     "game": "PTCG",
     "name": "Monday Afternoon Showdown #4",
     "date": "2026-08-17T13:00:00.000Z",
@@ -747,15 +873,6 @@
     "organizerId": 2045
   },
   {
-    "game": "VGC",
-    "name": "The Wide League Saturday Night Rumble #89 REG M-B",
-    "date": "2026-08-16T02:00:00.000Z",
-    "format": "M-B",
-    "id": "6a7d3fbbcdc0391d7fa653ac",
-    "players": 70,
-    "organizerId": 637
-  },
-  {
     "game": "POCKET",
     "name": "Lagoon Serenity Format Restart (FA Choice Prize)",
     "date": "2026-08-16T02:00:00.000Z",
@@ -763,6 +880,15 @@
     "id": "6a7f45085a307140955701bb",
     "players": 41,
     "organizerId": 2429
+  },
+  {
+    "game": "VGC",
+    "name": "The Wide League Saturday Night Rumble #89 REG M-B",
+    "date": "2026-08-16T02:00:00.000Z",
+    "format": "M-B",
+    "id": "6a7d3fbbcdc0391d7fa653ac",
+    "players": 70,
+    "organizerId": 637
   },
   {
     "game": "PTCG",
@@ -819,13 +945,13 @@
     "organizerId": 349
   },
   {
-    "game": "VGC",
-    "name": "VGCA Battle Hall #27",
+    "game": "PTCG",
+    "name": "WORLDS OF DOOM! 2026! DAY ONE!",
     "date": "2026-08-15T15:00:00.000Z",
-    "format": "M-B",
-    "id": "6a75fe62cdc0391d7fa5f59f",
-    "players": 80,
-    "organizerId": 1527
+    "format": "STANDARD",
+    "id": "6a284de7e334c3c9befd25e9",
+    "players": 909,
+    "organizerId": 349
   },
   {
     "game": "VGC",
@@ -874,21 +1000,21 @@
   },
   {
     "game": "PTCG",
-    "name": "🇧🇷 Hit Cup #14 | TCG Live",
-    "date": "2026-08-15T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a6acd7252c24ac2da64fa3d",
-    "players": 81,
-    "organizerId": 2612
-  },
-  {
-    "game": "PTCG",
     "name": "Rare Candy Club Showdown #37 (50 CODES)",
     "date": "2026-08-15T00:00:00.000Z",
     "format": "STANDARD",
     "id": "6a7e14e22b308b6067b53026",
     "players": 211,
     "organizerId": 2518
+  },
+  {
+    "game": "PTCG",
+    "name": "🇧🇷 Hit Cup #14 | TCG Live",
+    "date": "2026-08-15T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a6acd7252c24ac2da64fa3d",
+    "players": 81,
+    "organizerId": 2612
   },
   {
     "game": "PTCG",
@@ -900,15 +1026,6 @@
     "organizerId": 2603
   },
   {
-    "game": "VGC",
-    "name": "Champions Collective #19",
-    "date": "2026-08-14T17:30:00.000Z",
-    "format": "M-B",
-    "id": "6a398929c87cd9ff0a30d402",
-    "players": 39,
-    "organizerId": 2636
-  },
-  {
     "game": "POCKET",
     "name": "Umbreon99's Aura Sphere #1 ($10 USD) + FA",
     "date": "2026-08-14T17:30:00.000Z",
@@ -916,6 +1033,15 @@
     "id": "6a78fa40cdc0391d7fa620f2",
     "players": 109,
     "organizerId": 2748
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Collective #19",
+    "date": "2026-08-14T17:30:00.000Z",
+    "format": "M-B",
+    "id": "6a398929c87cd9ff0a30d402",
+    "players": 39,
+    "organizerId": 2636
   },
   {
     "game": "VGC",
@@ -1018,12 +1144,12 @@
   },
   {
     "game": "PTCG",
-    "name": "💥​Plantel Battle #31 💥​100 CODES ✔️​ TOP 8",
+    "name": "🇧🇷 Hit Challenge #18 | TCG Live",
     "date": "2026-08-13T23:00:00.000Z",
     "format": "STANDARD",
-    "id": "6a7a97fa2b308b6067b50d7f",
-    "players": 127,
-    "organizerId": 1727
+    "id": "6a6aca8d937230b102d48cbd",
+    "players": 42,
+    "organizerId": 2612
   },
   {
     "game": "VGC",
@@ -1036,12 +1162,12 @@
   },
   {
     "game": "PTCG",
-    "name": "🇧🇷 Hit Challenge #18 | TCG Live",
+    "name": "💥​Plantel Battle #31 💥​100 CODES ✔️​ TOP 8",
     "date": "2026-08-13T23:00:00.000Z",
     "format": "STANDARD",
-    "id": "6a6aca8d937230b102d48cbd",
-    "players": 42,
-    "organizerId": 2612
+    "id": "6a7a97fa2b308b6067b50d7f",
+    "players": 127,
+    "organizerId": 1727
   },
   {
     "game": "PTCG",
@@ -1198,12 +1324,12 @@
   },
   {
     "game": "VGC",
-    "name": "Alpensee x Smogon VGC Tour (Reg M-B) #70",
+    "name": "IMPERIUM CHAMPIONS TOURNAMENT #3",
     "date": "2026-08-12T17:00:00.000Z",
     "format": "M-B",
-    "id": "6a47ca1965724db9ded3b322",
-    "players": 103,
-    "organizerId": 2323
+    "id": "6a73feb52b308b6067b4b6bb",
+    "players": 73,
+    "organizerId": 2299
   },
   {
     "game": "PTCG",
@@ -1216,12 +1342,12 @@
   },
   {
     "game": "VGC",
-    "name": "IMPERIUM CHAMPIONS TOURNAMENT #3",
+    "name": "Alpensee x Smogon VGC Tour (Reg M-B) #70",
     "date": "2026-08-12T17:00:00.000Z",
     "format": "M-B",
-    "id": "6a73feb52b308b6067b4b6bb",
-    "players": 73,
-    "organizerId": 2299
+    "id": "6a47ca1965724db9ded3b322",
+    "players": 103,
+    "organizerId": 2323
   },
   {
     "game": "VGC",
@@ -1287,15 +1413,6 @@
     "organizerId": 2227
   },
   {
-    "game": "POCKET",
-    "name": "OnlyFrapps “Pop-Up” (FA Prof)",
-    "date": "2026-08-11T20:30:00.000Z",
-    "format": null,
-    "id": "6a7b5cf5cdc0391d7fa6406b",
-    "players": 83,
-    "organizerId": 2451
-  },
-  {
     "game": "VGC",
     "name": "⛩️🔥$25 Pokémon VGC Champions Tournament Ep 4!🔥⛩️",
     "date": "2026-08-11T20:30:00.000Z",
@@ -1305,13 +1422,13 @@
     "organizerId": 2687
   },
   {
-    "game": "OP",
-    "name": "ChinoizeCup #95 Tuesday",
-    "date": "2026-08-11T18:00:00.000Z",
+    "game": "POCKET",
+    "name": "OnlyFrapps “Pop-Up” (FA Prof)",
+    "date": "2026-08-11T20:30:00.000Z",
     "format": null,
-    "id": "6a72f07a2b308b6067b4a76f",
-    "players": 58,
-    "organizerId": 2339
+    "id": "6a7b5cf5cdc0391d7fa6406b",
+    "players": 83,
+    "organizerId": 2451
   },
   {
     "game": "PTCG",
@@ -1323,13 +1440,13 @@
     "organizerId": 2698
   },
   {
-    "game": "PTCG",
-    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
-    "date": "2026-08-11T17:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a7a19cf2b308b6067b5047b",
-    "players": 107,
-    "organizerId": 2603
+    "game": "OP",
+    "name": "ChinoizeCup #95 Tuesday",
+    "date": "2026-08-11T18:00:00.000Z",
+    "format": null,
+    "id": "6a72f07a2b308b6067b4a76f",
+    "players": 58,
+    "organizerId": 2339
   },
   {
     "game": "POCKET",
@@ -1339,6 +1456,15 @@
     "id": "6a7a3c802b308b6067b506a0",
     "players": 125,
     "organizerId": 2234
+  },
+  {
+    "game": "PTCG",
+    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
+    "date": "2026-08-11T17:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6a7a19cf2b308b6067b5047b",
+    "players": 107,
+    "organizerId": 2603
   },
   {
     "game": "PTCG",
@@ -1440,13 +1566,13 @@
     "organizerId": 2579
   },
   {
-    "game": "VGC",
-    "name": "Intimidators Champions Challenge #34 REG M-B",
+    "game": "PTCG",
+    "name": "Nightshades Premier Circuit Challenge #21 50 Codes",
     "date": "2026-08-10T23:00:00.000Z",
-    "format": "M-B",
-    "id": "6a79c559cdc0391d7fa62a51",
-    "players": 45,
-    "organizerId": 1582
+    "format": "STANDARD",
+    "id": "69d51aa4800d329be2e74a5e",
+    "players": 65,
+    "organizerId": 2579
   },
   {
     "game": "VGC",
@@ -1591,113 +1717,5 @@
     "id": "6a75224bcdc0391d7fa5edef",
     "players": 497,
     "organizerId": 2518
-  },
-  {
-    "game": "POCKET",
-    "name": "Pop Up Series 3 || 2 FA OAKS + DX SHINIES",
-    "date": "2026-08-09T22:55:00.000Z",
-    "format": null,
-    "id": "6a78e4c22b308b6067b4f638",
-    "players": 85,
-    "organizerId": 2522
-  },
-  {
-    "game": "POCKET",
-    "name": "Dark League Tournament REBRAND SPECIAL ($10 + RR)",
-    "date": "2026-08-09T19:00:00.000Z",
-    "format": null,
-    "id": "6a7546642b308b6067b4c4c8",
-    "players": 149,
-    "organizerId": 2045
-  },
-  {
-    "game": "PTCG",
-    "name": "Monster Collectibles After Hours #16",
-    "date": "2026-08-09T17:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a771169cdc0391d7fa606e0",
-    "players": 210,
-    "organizerId": 2610
-  },
-  {
-    "game": "PTCG",
-    "name": "2026 Content Creator Showcase",
-    "date": "2026-08-09T17:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a63ce8d937230b102d4360d",
-    "players": 32,
-    "organizerId": 2395
-  },
-  {
-    "game": "PTCG",
-    "name": "KSM's Great Ball Event #3 - National Day Special",
-    "date": "2026-08-09T14:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a743bb1cdc0391d7fa5e0e7",
-    "players": 61,
-    "organizerId": 2595
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #11 (SEASON 4) [50 CODES]",
-    "date": "2026-08-09T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6a75d5eacdc0391d7fa5f3a7",
-    "players": 132,
-    "organizerId": 2623
-  },
-  {
-    "game": "VGC",
-    "name": "🧅Cebulowy Krążek #4 (ostatni qualifier❗)",
-    "date": "2026-08-09T10:15:00.000Z",
-    "format": "M-B",
-    "id": "6a60fd6752c24ac2da648f66",
-    "players": 34,
-    "organizerId": 765
-  },
-  {
-    "game": "PTCG",
-    "name": "OceanicTournamentSeries2026 19/20",
-    "date": "2026-08-09T08:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a6f37a1cdc0391d7fa5a1f7",
-    "players": 49,
-    "organizerId": 1611
-  },
-  {
-    "game": "VGC",
-    "name": "Khun Champions Cup #3",
-    "date": "2026-08-09T05:00:00.000Z",
-    "format": "M-B",
-    "id": "6a5edca452c24ac2da647e75",
-    "players": 255,
-    "organizerId": 2671
-  },
-  {
-    "game": "POCKET",
-    "name": "😈Evade&Slak BOBO SHOWDOWN2🦥 Pokemon Plushy Prize",
-    "date": "2026-08-09T03:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a7483792b308b6067b4b9f5",
-    "players": 108,
-    "organizerId": 2602
-  },
-  {
-    "game": "PTCG",
-    "name": "Ready, Deck, Go! Tournament Circuit #4",
-    "date": "2026-08-09T00:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6a63cd2552c24ac2da64adf4",
-    "players": 46,
-    "organizerId": 1777
-  },
-  {
-    "game": "VGC",
-    "name": "Extreme Speed #9",
-    "date": "2026-08-09T00:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a7394212b308b6067b4b0df",
-    "players": 32,
-    "organizerId": 848
   }
 ]
