@@ -1,5 +1,86 @@
 [
   {
+    "game": "PTCG",
+    "name": "Vault Of Games #3🏆|SEASON 1|WEEKLY",
+    "date": "2026-09-20T01:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aa616b6f1243e65f97ffc36",
+    "players": 161,
+    "organizerId": 2226
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Sidedeck Online Gratis Sábado 19 Septiembre",
+    "date": "2026-09-19T23:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aaefea9f127b1b52c27d790",
+    "players": 35,
+    "organizerId": 2306
+  },
+  {
+    "game": "PTCG",
+    "name": "PokeMagee Weekly - 30th Celebration",
+    "date": "2026-09-19T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aad6f9ce905c1db687444f5",
+    "players": 105,
+    "organizerId": 2659
+  },
+  {
+    "game": "VGC",
+    "name": "Stallcelth's Kick-off Tournament ($17 PRIZE POOL)",
+    "date": "2026-09-19T17:00:00.000Z",
+    "format": "M-C",
+    "id": "6aad974af127b1b52c27c3b1",
+    "players": 55,
+    "organizerId": 830
+  },
+  {
+    "game": "VGC",
+    "name": "⛩️Chadweezy95 VGC Champions Tournament Ep 15!⛩️",
+    "date": "2026-09-19T15:00:00.000Z",
+    "format": "M-C",
+    "id": "6aada26be905c1db68744842",
+    "players": 37,
+    "organizerId": 2687
+  },
+  {
+    "game": "VGC",
+    "name": "Coupe Critique Champions #4 - 100€ prize",
+    "date": "2026-09-19T12:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6aa7f40ef1243e65f9800feb",
+    "players": 128,
+    "organizerId": 2621
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Cup #2 (SEASON 5) [150 CODES]",
+    "date": "2026-09-19T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6aae2d64f127b1b52c27cb85",
+    "players": 83,
+    "organizerId": 2623
+  },
+  {
+    "game": "VGC",
+    "name": "제4회 너클시티 챌린저스 [Hammerlocke Challengers]",
+    "date": "2026-09-19T05:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6aa3dcba38886b36383bbdce",
+    "players": 35,
+    "organizerId": 1518
+  },
+  {
+    "game": "PTCG",
+    "name": "TOURNAMENT OF DOOM! LEGOS!",
+    "date": "2026-09-19T02:35:00.000Z",
+    "format": "STANDARD",
+    "id": "6a8721c75a307140955752eb",
+    "players": 386,
+    "organizerId": 349
+  },
+  {
     "game": "POCKET",
     "name": "Snail's Unova Unleashed | $60 + FA PROF PRIZE POOL",
     "date": "2026-09-19T01:30:00.000Z",
@@ -82,12 +163,30 @@
   },
   {
     "game": "VGC",
+    "name": "BK Cup #3 | 30€ Prizepool",
+    "date": "2026-09-18T15:45:00.000Z",
+    "format": "CUSTOM",
+    "id": "6aa8ea4af1243e65f9801ec7",
+    "players": 106,
+    "organizerId": 2783
+  },
+  {
+    "game": "VGC",
     "name": "⛩️Chadweezy95 VGC Champions Tournament Ep 13!⛩️",
     "date": "2026-09-18T15:00:00.000Z",
     "format": "M-C",
     "id": "6aa584be38886b36383bd9f0",
     "players": 48,
     "organizerId": 2687
+  },
+  {
+    "game": "POCKET",
+    "name": "🥊 20$ BEC'S KING OF THE HILL - ANY FA PRIZE!",
+    "date": "2026-09-18T13:00:00.000Z",
+    "format": null,
+    "id": "6aaac3d9f1243e65f9802bad",
+    "players": 95,
+    "organizerId": 2011
   },
   {
     "game": "PTCG",
@@ -108,15 +207,6 @@
     "organizerId": 1659
   },
   {
-    "game": "PTCG",
-    "name": "⚡️ Vault Of Games | 30TH LEGAL Midnight Madness #6",
-    "date": "2026-09-18T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6aac4b05e905c1db687439e8",
-    "players": 43,
-    "organizerId": 2226
-  },
-  {
     "game": "POCKET",
     "name": "Lagoon Serenity Format Restart (Any FA)",
     "date": "2026-09-18T02:00:00.000Z",
@@ -124,6 +214,15 @@
     "id": "6aa8386df1243e65f980137c",
     "players": 32,
     "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "⚡️ Vault Of Games | 30TH LEGAL Midnight Madness #6",
+    "date": "2026-09-18T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aac4b05e905c1db687439e8",
+    "players": 43,
+    "organizerId": 2226
   },
   {
     "game": "PTCG",
@@ -145,21 +244,21 @@
   },
   {
     "game": "VGC",
-    "name": "Intimidators Champions Challenge #44 REG M-C",
-    "date": "2026-09-17T23:00:00.000Z",
-    "format": "M-C",
-    "id": "6aaad28438886b36383c1a91",
-    "players": 60,
-    "organizerId": 1582
-  },
-  {
-    "game": "VGC",
     "name": "Talon's FIGHT CLUB #102 POKEMON CHAMPIONS REG M-C",
     "date": "2026-09-17T23:00:00.000Z",
     "format": "CUSTOM",
     "id": "6a6a31bc52c24ac2da64f2b4",
     "players": 91,
     "organizerId": 1077
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #44 REG M-C",
+    "date": "2026-09-17T23:00:00.000Z",
+    "format": "M-C",
+    "id": "6aaad28438886b36383c1a91",
+    "players": 60,
+    "organizerId": 1582
   },
   {
     "game": "VGC",
@@ -315,15 +414,6 @@
     "organizerId": 1778
   },
   {
-    "game": "OP",
-    "name": "[EGB] ChinoizeCup #111 Wednesday",
-    "date": "2026-09-16T18:00:00.000Z",
-    "format": "EXTRA",
-    "id": "6aa266d3a4272c53be64cba2",
-    "players": 63,
-    "organizerId": 2339
-  },
-  {
     "game": "PTCG",
     "name": "Amyverse PTCG Live Weekly #13 💛 Cash Prize!",
     "date": "2026-09-16T18:00:00.000Z",
@@ -331,6 +421,15 @@
     "id": "6aa2200ca4272c53be64ca11",
     "players": 135,
     "organizerId": 2679
+  },
+  {
+    "game": "OP",
+    "name": "[EGB] ChinoizeCup #111 Wednesday",
+    "date": "2026-09-16T18:00:00.000Z",
+    "format": "EXTRA",
+    "id": "6aa266d3a4272c53be64cba2",
+    "players": 63,
+    "organizerId": 2339
   },
   {
     "game": "VGC",
@@ -477,15 +576,6 @@
     "organizerId": 1138
   },
   {
-    "game": "PTCG",
-    "name": "🏛💫 Card Temple Weekly Battles #76",
-    "date": "2026-09-15T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6aa85daaf1243e65f98016bb",
-    "players": 80,
-    "organizerId": 2152
-  },
-  {
     "game": "POCKET",
     "name": "Lagoon Serenity Format (Any FA)",
     "date": "2026-09-15T02:00:00.000Z",
@@ -493,6 +583,15 @@
     "id": "6aa2d0abab080c8c9580023a",
     "players": 46,
     "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "🏛💫 Card Temple Weekly Battles #76",
+    "date": "2026-09-15T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aa85daaf1243e65f98016bb",
+    "players": 80,
+    "organizerId": 2152
   },
   {
     "game": "PTCG",
@@ -531,15 +630,6 @@
     "organizerId": 1582
   },
   {
-    "game": "PTCG",
-    "name": "🇧🇷 Hit Challenge #27 | TCG Live",
-    "date": "2026-09-14T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6aa5a30138886b36383bdef8",
-    "players": 48,
-    "organizerId": 2612
-  },
-  {
     "game": "POCKET",
     "name": "The PokeBounty Showdown $1000 Prize Pool (#2NA)",
     "date": "2026-09-14T23:00:00.000Z",
@@ -547,6 +637,15 @@
     "id": "6aa0471eab080c8c957fe27d",
     "players": 142,
     "organizerId": 2320
+  },
+  {
+    "game": "PTCG",
+    "name": "🇧🇷 Hit Challenge #27 | TCG Live",
+    "date": "2026-09-14T23:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aa5a30138886b36383bdef8",
+    "players": 48,
+    "organizerId": 2612
   },
   {
     "game": "PTCG",
@@ -585,6 +684,15 @@
     "organizerId": 2461
   },
   {
+    "game": "PTCG",
+    "name": "Pumpkaweekly",
+    "date": "2026-09-14T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aa6db0938886b36383beef2",
+    "players": 255,
+    "organizerId": 36
+  },
+  {
     "game": "VGC",
     "name": "Amyverse VGC Champions Arena #10 ❤️ Cash Prize!",
     "date": "2026-09-14T18:00:00.000Z",
@@ -601,15 +709,6 @@
     "id": "6aa26394a4272c53be64cb9a",
     "players": 64,
     "organizerId": 2339
-  },
-  {
-    "game": "PTCG",
-    "name": "Pumpkaweekly",
-    "date": "2026-09-14T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6aa6db0938886b36383beef2",
-    "players": 255,
-    "organizerId": 36
   },
   {
     "game": "VGC",
@@ -883,21 +982,21 @@
   },
   {
     "game": "VGC",
-    "name": "Global VGC League $50 M-C Celebration!",
-    "date": "2026-09-12T20:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a9e7a67a4272c53be6499b7",
-    "players": 77,
-    "organizerId": 2011
-  },
-  {
-    "game": "VGC",
     "name": "Thavorian Trials 8 (M-C)",
     "date": "2026-09-12T20:00:00.000Z",
     "format": "CUSTOM",
     "id": "6aa1621da4272c53be64ba98",
     "players": 35,
     "organizerId": 2614
+  },
+  {
+    "game": "VGC",
+    "name": "Global VGC League $50 M-C Celebration!",
+    "date": "2026-09-12T20:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6a9e7a67a4272c53be6499b7",
+    "players": 77,
+    "organizerId": 2011
   },
   {
     "game": "PTCG",
@@ -918,13 +1017,13 @@
     "organizerId": 2812
   },
   {
-    "game": "POCKET",
-    "name": "PMPT #46 - TEAM ROCKETS ANNIHILATION!!  | $100 USD",
+    "game": "VGC",
+    "name": "INGAGE FRONTIER SERIES #4 | $25 PRIZE | Reg M-C",
     "date": "2026-09-12T16:00:00.000Z",
-    "format": null,
-    "id": "6a9ed44ca4272c53be649bf6",
-    "players": 355,
-    "organizerId": 13
+    "format": "CUSTOM",
+    "id": "6a9615bcabb94822375050ed",
+    "players": 102,
+    "organizerId": 2719
   },
   {
     "game": "VGC",
@@ -936,13 +1035,13 @@
     "organizerId": 2706
   },
   {
-    "game": "VGC",
-    "name": "INGAGE FRONTIER SERIES #4 | $25 PRIZE | Reg M-C",
+    "game": "POCKET",
+    "name": "PMPT #46 - TEAM ROCKETS ANNIHILATION!!  | $100 USD",
     "date": "2026-09-12T16:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a9615bcabb94822375050ed",
-    "players": 102,
-    "organizerId": 2719
+    "format": null,
+    "id": "6a9ed44ca4272c53be649bf6",
+    "players": 355,
+    "organizerId": 13
   },
   {
     "game": "PTCG",
@@ -952,15 +1051,6 @@
     "id": "6aa404e0f1243e65f97fd087",
     "players": 41,
     "organizerId": 1216
-  },
-  {
-    "game": "VGC",
-    "name": "Dragonspiral Tower Saturday Rumble #1",
-    "date": "2026-09-12T13:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6aa28946ab080c8c957fff63",
-    "players": 32,
-    "organizerId": 1353
   },
   {
     "game": "POCKET",
@@ -979,6 +1069,15 @@
     "id": "6a8aefa281741245b151cb61",
     "players": 220,
     "organizerId": 2778
+  },
+  {
+    "game": "VGC",
+    "name": "Dragonspiral Tower Saturday Rumble #1",
+    "date": "2026-09-12T13:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6aa28946ab080c8c957fff63",
+    "players": 32,
+    "organizerId": 1353
   },
   {
     "game": "PTCG",
@@ -1249,6 +1348,15 @@
     "id": "6a9f6e4dab080c8c957fdba8",
     "players": 156,
     "organizerId": 1727
+  },
+  {
+    "game": "VGC",
+    "name": "Talon's FIGHT CLUB #101 POKEMON CHAMPIONS REG M-C",
+    "date": "2026-09-10T23:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6a6a3192937230b102d48538",
+    "players": 98,
+    "organizerId": 1077
   },
   {
     "game": "VGC",
@@ -1737,15 +1845,6 @@
     "organizerId": 236
   },
   {
-    "game": "OP",
-    "name": "[OP17] ChinoizeCup #106 Monday",
-    "date": "2026-09-07T18:00:00.000Z",
-    "format": null,
-    "id": "6a980df4ab080c8c957f7c63",
-    "players": 64,
-    "organizerId": 2339
-  },
-  {
     "game": "PTCG",
     "name": "Pumpkaweekly",
     "date": "2026-09-07T18:00:00.000Z",
@@ -1753,6 +1852,15 @@
     "id": "6a9db100ab080c8c957fc12b",
     "players": 342,
     "organizerId": 36
+  },
+  {
+    "game": "OP",
+    "name": "[OP17] ChinoizeCup #106 Monday",
+    "date": "2026-09-07T18:00:00.000Z",
+    "format": null,
+    "id": "6a980df4ab080c8c957f7c63",
+    "players": 64,
+    "organizerId": 2339
   },
   {
     "game": "POCKET",
@@ -1881,15 +1989,6 @@
     "organizerId": 2513
   },
   {
-    "game": "POCKET",
-    "name": "🍋​PAPARAJOTE SERIES #2/12📱​🎴​| Premio 5€​💸",
-    "date": "2026-09-06T15:00:00.000Z",
-    "format": null,
-    "id": "6a9829eca4272c53be644d77",
-    "players": 53,
-    "organizerId": 2756
-  },
-  {
     "game": "VGC",
     "name": "VGC Trainer School; champions M/B #4",
     "date": "2026-09-06T15:00:00.000Z",
@@ -1897,6 +1996,15 @@
     "id": "6a7f305e78baaa6d1c21f0f8",
     "players": 81,
     "organizerId": 672
+  },
+  {
+    "game": "POCKET",
+    "name": "🍋​PAPARAJOTE SERIES #2/12📱​🎴​| Premio 5€​💸",
+    "date": "2026-09-06T15:00:00.000Z",
+    "format": null,
+    "id": "6a9829eca4272c53be644d77",
+    "players": 53,
+    "organizerId": 2756
   },
   {
     "game": "POCKET",
@@ -1951,158 +2059,5 @@
     "id": "6a93a43a629039f77d8a55b5",
     "players": 214,
     "organizerId": 2226
-  },
-  {
-    "game": "VGC",
-    "name": "PWC - Battle in the Colosseum #25",
-    "date": "2026-09-05T23:30:00.000Z",
-    "format": "M-B",
-    "id": "6a8b399b81741245b151cf8f",
-    "players": 38,
-    "organizerId": 1627
-  },
-  {
-    "game": "VGC",
-    "name": "PokeInstinct VGC #2 ($20 USD for the Winner)",
-    "date": "2026-09-05T22:00:00.000Z",
-    "format": "M-B",
-    "id": "6a83984878baaa6d1c2228f7",
-    "players": 88,
-    "organizerId": 1829
-  },
-  {
-    "game": "PTCG",
-    "name": "OTS Pokemon TCG Live Arena #1",
-    "date": "2026-09-05T22:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a94b40e629039f77d8a6097",
-    "players": 62,
-    "organizerId": 30
-  },
-  {
-    "game": "POCKET",
-    "name": "The Dark League | CELEBRATORY FANFARE 685$ Value",
-    "date": "2026-09-05T20:05:00.000Z",
-    "format": null,
-    "id": "6a789b5ccdc0391d7fa61ba9",
-    "players": 120,
-    "organizerId": 2045
-  },
-  {
-    "game": "VGC",
-    "name": "One Type To Rule Them All",
-    "date": "2026-09-05T20:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a8504325a3071409557411f",
-    "players": 44,
-    "organizerId": 2614
-  },
-  {
-    "game": "POCKET",
-    "name": "Tournament Vegegras cash prize 100usd",
-    "date": "2026-09-05T19:05:00.000Z",
-    "format": null,
-    "id": "6a78c5912b308b6067b4f421",
-    "players": 116,
-    "organizerId": 2702
-  },
-  {
-    "game": "POCKET",
-    "name": "PMPT #45 - TEAM ROCKETS ASPIRATION!!! | $100 USD",
-    "date": "2026-09-05T16:00:00.000Z",
-    "format": null,
-    "id": "6a95b87b629039f77d8a6954",
-    "players": 393,
-    "organizerId": 13
-  },
-  {
-    "game": "VGC",
-    "name": "Ratorneo #7 Champions 2026 | Reg MB",
-    "date": "2026-09-05T15:30:00.000Z",
-    "format": "M-B",
-    "id": "6a9996a2a4272c53be645c75",
-    "players": 58,
-    "organizerId": 2475
-  },
-  {
-    "game": "PTCG",
-    "name": "Post-Worlds Tourney",
-    "date": "2026-09-05T14:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a9ac9f5a4272c53be646a1a",
-    "players": 48,
-    "organizerId": 1216
-  },
-  {
-    "game": "POCKET",
-    "name": "$60 USD+FA | 巫獅對戰塔盃 LeoWizard BattleTower Cup #10",
-    "date": "2026-09-05T13:00:00.000Z",
-    "format": null,
-    "id": "6a98d44ca4272c53be645681",
-    "players": 130,
-    "organizerId": 2546
-  },
-  {
-    "game": "VGC",
-    "name": "FORT TOURNAMENTS DEBUT $20 USD FOR 1ST",
-    "date": "2026-09-05T12:00:00.000Z",
-    "format": "M-B",
-    "id": "6a93cd33629039f77d8a563b",
-    "players": 130,
-    "organizerId": 2811
-  },
-  {
-    "game": "VGC",
-    "name": "Warwick Online VGC Tournament",
-    "date": "2026-09-05T11:00:00.000Z",
-    "format": "M-B",
-    "id": "6a8f63a07a62de813013fe3e",
-    "players": 130,
-    "organizerId": 2808
-  },
-  {
-    "game": "PTCG",
-    "name": "Perth pokemon week 3",
-    "date": "2026-09-05T10:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a92c953629039f77d8a4bf7",
-    "players": 61,
-    "organizerId": 2779
-  },
-  {
-    "game": "POCKET",
-    "name": "😈EvadeXO's BOBO Pop-up #10😈 OAK/$5",
-    "date": "2026-09-05T06:30:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a9b890bab080c8c957fa787",
-    "players": 51,
-    "organizerId": 2602
-  },
-  {
-    "game": "VGC",
-    "name": "˗ˋˏ❤︎ˎˊ˗ Pomelo Late Night Tour",
-    "date": "2026-09-05T03:00:00.000Z",
-    "format": "M-B",
-    "id": "6a9a5a81ab080c8c957f9651",
-    "players": 40,
-    "organizerId": 1138
-  },
-  {
-    "game": "POCKET",
-    "name": "Block Dragon ~ The Bakuton League $25 PRIZE POOL",
-    "date": "2026-09-05T02:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6a99fe37a4272c53be64626d",
-    "players": 103,
-    "organizerId": 2598
-  },
-  {
-    "game": "PTCG",
-    "name": "Rare Candy Club Showdown #42 (50 CODES)",
-    "date": "2026-09-05T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a9b05d8a4272c53be646dbe",
-    "players": 131,
-    "organizerId": 2518
   }
 ]
