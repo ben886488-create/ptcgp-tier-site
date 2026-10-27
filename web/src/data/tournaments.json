@@ -1,6 +1,132 @@
 [
   {
     "game": "PTCG",
+    "name": "🪎Vault Of Games | 🌙 NOT SO Midnight Madness #21",
+    "date": "2026-10-27T02:15:00.000Z",
+    "format": "STANDARD",
+    "id": "6adfdc7c80a8f79408d1f19a",
+    "players": 41,
+    "organizerId": 2226
+  },
+  {
+    "game": "PTCG",
+    "name": "🏛💫 Card Temple Weekly Battles #81",
+    "date": "2026-10-27T02:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6adf63db22fd412b92a4d373",
+    "players": 72,
+    "organizerId": 2152
+  },
+  {
+    "game": "PTCG",
+    "name": "🆓 Domino Arena Free | Temporada 3 | Semana 7 [CL]",
+    "date": "2026-10-27T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ac29c00245696afb35163ef",
+    "players": 47,
+    "organizerId": 2791
+  },
+  {
+    "game": "PTCG",
+    "name": "Nightshades Monday Cup 3 (50 Codes)",
+    "date": "2026-10-27T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aad83d1e905c1db68744612",
+    "players": 54,
+    "organizerId": 2579
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #52 REG M-C",
+    "date": "2026-10-26T23:00:00.000Z",
+    "format": "M-C",
+    "id": "6adf3a9180a8f79408d1e7e8",
+    "players": 55,
+    "organizerId": 2823
+  },
+  {
+    "game": "PTCG",
+    "name": "Sunny's Weekly #279 This is Halloween! (In Sparta)",
+    "date": "2026-10-26T22:05:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad67c92115c12b73a5a7dbe",
+    "players": 145,
+    "organizerId": 145
+  },
+  {
+    "game": "VGC",
+    "name": "Spooky Cup - $500 PRIZE POOL",
+    "date": "2026-10-26T21:00:00.000Z",
+    "format": "M-C",
+    "id": "6adf94b780a8f79408d1eb2f",
+    "players": 230,
+    "organizerId": 662
+  },
+  {
+    "game": "VGC",
+    "name": "RookideeVGC Qualifier| Prize Shiny Vivillon",
+    "date": "2026-10-26T21:00:00.000Z",
+    "format": "M-C",
+    "id": "6ac16cc2245696afb35158fd",
+    "players": 34,
+    "organizerId": 2513
+  },
+  {
+    "game": "OP",
+    "name": "[EB05] ChinoizeCup #127 MONDAY",
+    "date": "2026-10-26T19:00:00.000Z",
+    "format": null,
+    "id": "6ad8884b8a8383117e3f0953",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
+    "name": "Pumpkaweekly",
+    "date": "2026-10-26T19:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ade738c97e21d82e5c6f13b",
+    "players": 165,
+    "organizerId": 36
+  },
+  {
+    "game": "POCKET",
+    "name": "Dark League Tournament 10$ to the Winner",
+    "date": "2026-10-26T18:30:00.000Z",
+    "format": null,
+    "id": "6aded0c691617679e84a1153",
+    "players": 78,
+    "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "Amyverse VGC Champions Arena #16 ❤️ Cash Prize!",
+    "date": "2026-10-26T18:00:00.000Z",
+    "format": "M-C",
+    "id": "6ad75a2d8a8383117e3eff78",
+    "players": 109,
+    "organizerId": 2679
+  },
+  {
+    "game": "PTCG",
+    "name": "🏆Moujii's Dojo🏆 (Late Registration Available!)",
+    "date": "2026-10-26T16:10:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad783bd8a8383117e3f00c5",
+    "players": 173,
+    "organizerId": 35
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #13 (SEASON 6) [50 CODES]",
+    "date": "2026-10-26T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6adc429b91617679e849fa06",
+    "players": 85,
+    "organizerId": 2623
+  },
+  {
+    "game": "PTCG",
     "name": "Vault Of Games | 🌙 NOT SO Midnight Madness #20",
     "date": "2026-10-26T02:15:00.000Z",
     "format": "STANDARD",
@@ -45,15 +171,6 @@
     "organizerId": 2045
   },
   {
-    "game": "PTCG",
-    "name": "Casual Testing #7 – don't take it too seriously",
-    "date": "2026-10-25T21:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6adb371e97e21d82e5c6d136",
-    "players": 48,
-    "organizerId": 1286
-  },
-  {
     "game": "VGC",
     "name": "Chaos League Sunday Slam #118",
     "date": "2026-10-25T21:00:00.000Z",
@@ -61,6 +178,15 @@
     "id": "6add173f91617679e84a023a",
     "players": 36,
     "organizerId": 1254
+  },
+  {
+    "game": "PTCG",
+    "name": "Casual Testing #7 – don't take it too seriously",
+    "date": "2026-10-25T21:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6adb371e97e21d82e5c6d136",
+    "players": 48,
+    "organizerId": 1286
   },
   {
     "game": "PTCG",
@@ -79,6 +205,24 @@
     "id": "6ac7702585920e4d2536693d",
     "players": 42,
     "organizerId": 2706
+  },
+  {
+    "game": "VGC",
+    "name": "Wolfey Patreon Tournament - Spooky Cup!",
+    "date": "2026-10-25T15:00:00.000Z",
+    "format": "M-C",
+    "id": "6acf6032115c12b73a5a39fe",
+    "players": 49,
+    "organizerId": 662
+  },
+  {
+    "game": "VGC",
+    "name": "ValkrixVGC Pokemon Champions League #07",
+    "date": "2026-10-25T14:00:00.000Z",
+    "format": "M-C",
+    "id": "6ab54228f127b1b52c2811ed",
+    "players": 115,
+    "organizerId": 2778
   },
   {
     "game": "PTCG",
@@ -315,6 +459,15 @@
     "organizerId": 2518
   },
   {
+    "game": "PTCG",
+    "name": "Rare Candy Club Blitz #6",
+    "date": "2026-10-23T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad962538a8383117e3f1211",
+    "players": 54,
+    "organizerId": 2518
+  },
+  {
     "game": "VGC",
     "name": "Talon's FIGHT CLUB #107 POKEMON CHAMPIONS REG M-C",
     "date": "2026-10-22T23:00:00.000Z",
@@ -343,21 +496,21 @@
   },
   {
     "game": "PTCG",
-    "name": "ASRcristiano # 198 - 60 codes - Road to Gdansk!",
-    "date": "2026-10-22T19:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad8a808115c12b73a5a8e4f",
-    "players": 88,
-    "organizerId": 1778
-  },
-  {
-    "game": "PTCG",
     "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
     "date": "2026-10-22T19:00:00.000Z",
     "format": "STANDARD",
     "id": "6ad246458a8383117e3ed09b",
     "players": 32,
     "organizerId": 2603
+  },
+  {
+    "game": "PTCG",
+    "name": "ASRcristiano # 198 - 60 codes - Road to Gdansk!",
+    "date": "2026-10-22T19:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad8a808115c12b73a5a8e4f",
+    "players": 88,
+    "organizerId": 1778
   },
   {
     "game": "OP",
@@ -477,6 +630,15 @@
     "organizerId": 1778
   },
   {
+    "game": "OP",
+    "name": "[EGB + EB05] ChinoizeCup #126 WEDNESDAY",
+    "date": "2026-10-21T18:00:00.000Z",
+    "format": "EXTRA",
+    "id": "6ad092d98a8383117e3ec310",
+    "players": 69,
+    "organizerId": 2339
+  },
+  {
     "game": "PTCG",
     "name": "Amyverse PTCG Live Weekly #18 💛 Cash Prize!",
     "date": "2026-10-21T18:00:00.000Z",
@@ -486,13 +648,13 @@
     "organizerId": 2679
   },
   {
-    "game": "OP",
-    "name": "[EGB + EB05] ChinoizeCup #126 WEDNESDAY",
+    "game": "PTCG",
+    "name": "Amyverse PTCG Live Weekly #18 💛 Cash Prize!",
     "date": "2026-10-21T18:00:00.000Z",
-    "format": "EXTRA",
-    "id": "6ad092d98a8383117e3ec310",
-    "players": 69,
-    "organizerId": 2339
+    "format": "STANDARD",
+    "id": "6ad02719115c12b73a5a446f",
+    "players": 168,
+    "organizerId": 2679
   },
   {
     "game": "VGC",
@@ -559,21 +721,21 @@
   },
   {
     "game": "VGC",
-    "name": "HeroicTitan’s VGC Battle Arena",
-    "date": "2026-10-21T00:00:00.000Z",
-    "format": "M-C",
-    "id": "6ad6d1218a8383117e3efd9a",
-    "players": 37,
-    "organizerId": 2397
-  },
-  {
-    "game": "VGC",
     "name": "Gym Leader GAUNTLET (Monotype Tour)",
     "date": "2026-10-21T00:00:00.000Z",
     "format": "M-C",
     "id": "6acfd4e08a8383117e3ebd51",
     "players": 46,
     "organizerId": 2805
+  },
+  {
+    "game": "VGC",
+    "name": "HeroicTitan’s VGC Battle Arena",
+    "date": "2026-10-21T00:00:00.000Z",
+    "format": "M-C",
+    "id": "6ad6d1218a8383117e3efd9a",
+    "players": 37,
+    "organizerId": 2397
   },
   {
     "game": "POCKET",
@@ -612,13 +774,13 @@
     "organizerId": 2831
   },
   {
-    "game": "PTCG",
-    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
+    "game": "OP",
+    "name": "[EB05] ChinoizeCup #125 TUESDAY",
     "date": "2026-10-20T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad24689115c12b73a5a53f3",
-    "players": 136,
-    "organizerId": 2603
+    "format": null,
+    "id": "6ad092328a8383117e3ec30c",
+    "players": 120,
+    "organizerId": 2339
   },
   {
     "game": "PTCG",
@@ -630,13 +792,13 @@
     "organizerId": 2698
   },
   {
-    "game": "OP",
-    "name": "[EB05] ChinoizeCup #125 TUESDAY",
+    "game": "PTCG",
+    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
     "date": "2026-10-20T18:00:00.000Z",
-    "format": null,
-    "id": "6ad092328a8383117e3ec30c",
-    "players": 120,
-    "organizerId": 2339
+    "format": "STANDARD",
+    "id": "6ad24689115c12b73a5a53f3",
+    "players": 136,
+    "organizerId": 2603
   },
   {
     "game": "VGC",
@@ -747,15 +909,6 @@
     "organizerId": 2045
   },
   {
-    "game": "PTCG",
-    "name": "Pumpkaweekly",
-    "date": "2026-10-19T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad4e8fe8a8383117e3eeae5",
-    "players": 128,
-    "organizerId": 36
-  },
-  {
     "game": "OP",
     "name": "[EB05] ChinoizeCup #124 MONDAY",
     "date": "2026-10-19T18:00:00.000Z",
@@ -763,6 +916,15 @@
     "id": "6ad09157115c12b73a5a4654",
     "players": 128,
     "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
+    "name": "Pumpkaweekly",
+    "date": "2026-10-19T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad4e8fe8a8383117e3eeae5",
+    "players": 128,
+    "organizerId": 36
   },
   {
     "game": "VGC",
@@ -973,21 +1135,21 @@
   },
   {
     "game": "VGC",
-    "name": "MetaVGC Arena #1 - Reg MC - Prizes: R$ 50 + Shiny",
-    "date": "2026-10-17T16:00:00.000Z",
-    "format": "M-C",
-    "id": "6ad0f6c68a8383117e3ec545",
-    "players": 70,
-    "organizerId": 2812
-  },
-  {
-    "game": "VGC",
     "name": "⛩️$20 VGC Champions Tournament Ep 34!⛩️",
     "date": "2026-10-17T16:00:00.000Z",
     "format": "M-C",
     "id": "6acee85f115c12b73a5a38b3",
     "players": 105,
     "organizerId": 2687
+  },
+  {
+    "game": "VGC",
+    "name": "MetaVGC Arena #1 - Reg MC - Prizes: R$ 50 + Shiny",
+    "date": "2026-10-17T16:00:00.000Z",
+    "format": "M-C",
+    "id": "6ad0f6c68a8383117e3ec545",
+    "players": 70,
+    "organizerId": 2812
   },
   {
     "game": "VGC",
@@ -1008,15 +1170,6 @@
     "organizerId": 2072
   },
   {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #6 (SEASON 6) [50 CODES]",
-    "date": "2026-10-17T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad32f70115c12b73a5a5e8e",
-    "players": 60,
-    "organizerId": 2623
-  },
-  {
     "game": "VGC",
     "name": "Champions League VGC October (Prize: Shiny Gengar)",
     "date": "2026-10-17T11:30:00.000Z",
@@ -1024,6 +1177,15 @@
     "id": "6a7c50af2b308b6067b51ef4",
     "players": 81,
     "organizerId": 2724
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #6 (SEASON 6) [50 CODES]",
+    "date": "2026-10-17T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad32f70115c12b73a5a5e8e",
+    "players": 60,
+    "organizerId": 2623
   },
   {
     "game": "PTCG",
@@ -1269,15 +1431,6 @@
     "organizerId": 2703
   },
   {
-    "game": "PTCG",
-    "name": "Amyverse PTCG Live Weekly #17 💛 Cash Prize!",
-    "date": "2026-10-14T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ac6f35c85920e4d253667d5",
-    "players": 138,
-    "organizerId": 2679
-  },
-  {
     "game": "OP",
     "name": "[EGB] ChinoizeCup #123 Wednesday",
     "date": "2026-10-14T18:00:00.000Z",
@@ -1285,6 +1438,15 @@
     "id": "6ac7892d245696afb3518d6b",
     "players": 59,
     "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
+    "name": "Amyverse PTCG Live Weekly #17 💛 Cash Prize!",
+    "date": "2026-10-14T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ac6f35c85920e4d253667d5",
+    "players": 138,
+    "organizerId": 2679
   },
   {
     "game": "VGC",
@@ -1501,122 +1663,5 @@
     "id": "6aad8311e905c1db687445ea",
     "players": 46,
     "organizerId": 2579
-  },
-  {
-    "game": "VGC",
-    "name": "Intimidators Champions Challenge #50 REG M-C",
-    "date": "2026-10-12T23:00:00.000Z",
-    "format": "M-C",
-    "id": "6accfc7d115c12b73a5a2049",
-    "players": 60,
-    "organizerId": 2823
-  },
-  {
-    "game": "PTCG",
-    "name": "Sunny's Weekly #277 Judge Appreciation Week!",
-    "date": "2026-10-12T22:05:00.000Z",
-    "format": "STANDARD",
-    "id": "6ac3f54d85920e4d25364ab2",
-    "players": 188,
-    "organizerId": 145
-  },
-  {
-    "game": "VGC",
-    "name": "RookideeVGC Qualifier| Prize Shiny Corviknight",
-    "date": "2026-10-12T22:00:00.000Z",
-    "format": "M-C",
-    "id": "6ac16a52245696afb35158d7",
-    "players": 44,
-    "organizerId": 2513
-  },
-  {
-    "game": "PTCG",
-    "name": "Pumpkaweekly",
-    "date": "2026-10-12T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6acc1426115c12b73a5a1ab8",
-    "players": 136,
-    "organizerId": 36
-  },
-  {
-    "game": "OP",
-    "name": "[OP17.5] ChinoizeCup #121 Monday",
-    "date": "2026-10-12T18:00:00.000Z",
-    "format": null,
-    "id": "6ac7870a85920e4d253669db",
-    "players": 64,
-    "organizerId": 2339
-  },
-  {
-    "game": "VGC",
-    "name": "Amyverse VGC Champions Arena #14 ❤️ Cash Prize!",
-    "date": "2026-10-12T18:00:00.000Z",
-    "format": "M-C",
-    "id": "6ac4406e85920e4d25364fd1",
-    "players": 130,
-    "organizerId": 2679
-  },
-  {
-    "game": "PTCG",
-    "name": "🏆Moujii's Dojo🏆 (Late Registration Available!)",
-    "date": "2026-10-12T16:10:00.000Z",
-    "format": "STANDARD",
-    "id": "6ac694a385920e4d25366173",
-    "players": 232,
-    "organizerId": 35
-  },
-  {
-    "game": "POCKET",
-    "name": "🐧 PGX TOURNAMENT #3【 💰$25 USD + FA DELUXE ⭐⭐】",
-    "date": "2026-10-12T16:00:00.000Z",
-    "format": null,
-    "id": "6ac4228f245696afb3517190",
-    "players": 188,
-    "organizerId": 2783
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #2 (SEASON 6) [50 CODES]",
-    "date": "2026-10-12T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6accabf3115c12b73a5a1e83",
-    "players": 91,
-    "organizerId": 2623
-  },
-  {
-    "game": "PTCG",
-    "name": "Vault Of Games | 🌙 NOT SO Midnight Madness #15",
-    "date": "2026-10-12T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6acc0c288a8383117e3e9d18",
-    "players": 72,
-    "organizerId": 2226
-  },
-  {
-    "game": "POCKET",
-    "name": "Lagoon Blast From The Past (A1 Thru A3b) (Any FA)",
-    "date": "2026-10-12T02:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6aca5bac115c12b73a5a09b9",
-    "players": 40,
-    "organizerId": 2429
-  },
-  {
-    "game": "VGC",
-    "name": "Sketch Academy Sunday Regulation M-C Tournament",
-    "date": "2026-10-12T01:00:00.000Z",
-    "format": "M-C",
-    "id": "6aba172d783097f8dcb725fc",
-    "players": 61,
-    "organizerId": 1651
-  },
-  {
-    "game": "PTCG",
-    "name": "Rare Candy Club Showdown #48 (30TH LEGAL)",
-    "date": "2026-10-12T00:15:00.000Z",
-    "format": "STANDARD",
-    "id": "6ac8526f85920e4d253674ab",
-    "players": 195,
-    "organizerId": 2518
   }
 ]
