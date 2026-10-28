@@ -1,6 +1,96 @@
 [
   {
     "game": "PTCG",
+    "name": "🪎Vault Of Games | 🌙 NOT SO Midnight Madness #22",
+    "date": "2026-10-28T02:15:00.000Z",
+    "format": "STANDARD",
+    "id": "6ae10a7a22fd412b92a4e408",
+    "players": 69,
+    "organizerId": 2226
+  },
+  {
+    "game": "PTCG",
+    "name": "Pudding Weekly #19 | SATURWEEN!",
+    "date": "2026-10-28T01:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad84066115c12b73a5a8d98",
+    "players": 78,
+    "organizerId": 2720
+  },
+  {
+    "game": "PTCG",
+    "name": "Last Prize Series S4 #6",
+    "date": "2026-10-27T23:35:00.000Z",
+    "format": "STANDARD",
+    "id": "6ae0b27d80a8f79408d1f7e9",
+    "players": 126,
+    "organizerId": 2227
+  },
+  {
+    "game": "VGC",
+    "name": "Tuesday Throwdowns #2 ($50 for the Winner!)",
+    "date": "2026-10-27T23:30:00.000Z",
+    "format": "M-C",
+    "id": "6ad8e3398a8383117e3f0b5b",
+    "players": 119,
+    "organizerId": 2251
+  },
+  {
+    "game": "OP",
+    "name": "[EB05] ChinoizeCup #128 TUESDAY",
+    "date": "2026-10-27T19:00:00.000Z",
+    "format": null,
+    "id": "6ad889ac115c12b73a5a8de9",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
+    "game": "VGC",
+    "name": "TARTAN'S ROAD TO GDANSK #43 - [REG M-C]",
+    "date": "2026-10-27T18:00:00.000Z",
+    "format": "M-C",
+    "id": "6ad54b56115c12b73a5a74c6",
+    "players": 48,
+    "organizerId": 2398
+  },
+  {
+    "game": "PTCG",
+    "name": "Amyverse Bulk Box Battles #5 🧡 Cash Prize!",
+    "date": "2026-10-27T17:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ada81e991617679e849e7d0",
+    "players": 43,
+    "organizerId": 2679
+  },
+  {
+    "game": "VGC",
+    "name": "VGC UmbreNews 27.10.2026 #37 - Champion",
+    "date": "2026-10-27T16:30:00.000Z",
+    "format": "M-C",
+    "id": "6ada09eb115c12b73a5a9904",
+    "players": 73,
+    "organizerId": 2471
+  },
+  {
+    "game": "POCKET",
+    "name": "DR KELP’S CHUM BUCKET POP UP - $5",
+    "date": "2026-10-27T16:05:00.000Z",
+    "format": null,
+    "id": "6ae0a96880a8f79408d1f7b0",
+    "players": 44,
+    "organizerId": 2461
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #13 (SEASON 6) [50 CODES]",
+    "date": "2026-10-27T11:30:00.000Z",
+    "format": "STANDARD",
+    "id": "6adf925880a8f79408d1eb22",
+    "players": 108,
+    "organizerId": 2623
+  },
+  {
+    "game": "PTCG",
     "name": "🪎Vault Of Games | 🌙 NOT SO Midnight Madness #21",
     "date": "2026-10-27T02:15:00.000Z",
     "format": "STANDARD",
@@ -19,21 +109,21 @@
   },
   {
     "game": "PTCG",
-    "name": "🆓 Domino Arena Free | Temporada 3 | Semana 7 [CL]",
-    "date": "2026-10-27T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ac29c00245696afb35163ef",
-    "players": 47,
-    "organizerId": 2791
-  },
-  {
-    "game": "PTCG",
     "name": "Nightshades Monday Cup 3 (50 Codes)",
     "date": "2026-10-27T00:00:00.000Z",
     "format": "STANDARD",
     "id": "6aad83d1e905c1db68744612",
     "players": 54,
     "organizerId": 2579
+  },
+  {
+    "game": "PTCG",
+    "name": "🆓 Domino Arena Free | Temporada 3 | Semana 7 [CL]",
+    "date": "2026-10-27T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ac29c00245696afb35163ef",
+    "players": 47,
+    "organizerId": 2791
   },
   {
     "game": "VGC",
@@ -72,15 +162,6 @@
     "organizerId": 2513
   },
   {
-    "game": "OP",
-    "name": "[EB05] ChinoizeCup #127 MONDAY",
-    "date": "2026-10-26T19:00:00.000Z",
-    "format": null,
-    "id": "6ad8884b8a8383117e3f0953",
-    "players": 64,
-    "organizerId": 2339
-  },
-  {
     "game": "PTCG",
     "name": "Pumpkaweekly",
     "date": "2026-10-26T19:00:00.000Z",
@@ -88,6 +169,15 @@
     "id": "6ade738c97e21d82e5c6f13b",
     "players": 165,
     "organizerId": 36
+  },
+  {
+    "game": "OP",
+    "name": "[EB05] ChinoizeCup #127 MONDAY",
+    "date": "2026-10-26T19:00:00.000Z",
+    "format": null,
+    "id": "6ad8884b8a8383117e3f0953",
+    "players": 64,
+    "organizerId": 2339
   },
   {
     "game": "POCKET",
@@ -288,15 +378,6 @@
     "organizerId": 2315
   },
   {
-    "game": "VGC",
-    "name": "RookideeVGC Qualifier| Prize Shiny Whimsicott",
-    "date": "2026-10-24T16:00:00.000Z",
-    "format": "M-C",
-    "id": "6ad94c04115c12b73a5a957b",
-    "players": 38,
-    "organizerId": 2513
-  },
-  {
     "game": "POCKET",
     "name": "PMPT THROWBACK SERIES!!! - FINALE | $100 USD",
     "date": "2026-10-24T16:00:00.000Z",
@@ -304,6 +385,15 @@
     "id": "6ad62bc7115c12b73a5a7994",
     "players": 216,
     "organizerId": 13
+  },
+  {
+    "game": "VGC",
+    "name": "RookideeVGC Qualifier| Prize Shiny Whimsicott",
+    "date": "2026-10-24T16:00:00.000Z",
+    "format": "M-C",
+    "id": "6ad94c04115c12b73a5a957b",
+    "players": 38,
+    "organizerId": 2513
   },
   {
     "game": "VGC",
@@ -423,6 +513,15 @@
     "organizerId": 2583
   },
   {
+    "game": "VGC",
+    "name": "Rising Stars - Finale ₹10,000 cash prize",
+    "date": "2026-10-23T15:30:00.000Z",
+    "format": "M-C",
+    "id": "6aaa8da8f1243e65f98029f7",
+    "players": 137,
+    "organizerId": 2416
+  },
+  {
     "game": "POCKET",
     "name": "Yosh Tournament #24 B Series Only ( Rp 1.000.000 )",
     "date": "2026-10-23T12:00:00.000Z",
@@ -448,15 +547,6 @@
     "id": "6ac0875985920e4d2536288c",
     "players": 79,
     "organizerId": 1659
-  },
-  {
-    "game": "PTCG",
-    "name": "Rare Candy Club Blitz #6",
-    "date": "2026-10-23T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad962538a8383117e3f1211",
-    "players": 54,
-    "organizerId": 2518
   },
   {
     "game": "PTCG",
@@ -496,21 +586,21 @@
   },
   {
     "game": "PTCG",
-    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
-    "date": "2026-10-22T19:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad246458a8383117e3ed09b",
-    "players": 32,
-    "organizerId": 2603
-  },
-  {
-    "game": "PTCG",
     "name": "ASRcristiano # 198 - 60 codes - Road to Gdansk!",
     "date": "2026-10-22T19:00:00.000Z",
     "format": "STANDARD",
     "id": "6ad8a808115c12b73a5a8e4f",
     "players": 88,
     "organizerId": 1778
+  },
+  {
+    "game": "PTCG",
+    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
+    "date": "2026-10-22T19:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad246458a8383117e3ed09b",
+    "players": 32,
+    "organizerId": 2603
   },
   {
     "game": "OP",
@@ -630,6 +720,15 @@
     "organizerId": 1778
   },
   {
+    "game": "PTCG",
+    "name": "Amyverse PTCG Live Weekly #18 💛 Cash Prize!",
+    "date": "2026-10-21T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad02719115c12b73a5a446f",
+    "players": 168,
+    "organizerId": 2679
+  },
+  {
     "game": "OP",
     "name": "[EGB + EB05] ChinoizeCup #126 WEDNESDAY",
     "date": "2026-10-21T18:00:00.000Z",
@@ -637,24 +736,6 @@
     "id": "6ad092d98a8383117e3ec310",
     "players": 69,
     "organizerId": 2339
-  },
-  {
-    "game": "PTCG",
-    "name": "Amyverse PTCG Live Weekly #18 💛 Cash Prize!",
-    "date": "2026-10-21T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad02719115c12b73a5a446f",
-    "players": 168,
-    "organizerId": 2679
-  },
-  {
-    "game": "PTCG",
-    "name": "Amyverse PTCG Live Weekly #18 💛 Cash Prize!",
-    "date": "2026-10-21T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad02719115c12b73a5a446f",
-    "players": 168,
-    "organizerId": 2679
   },
   {
     "game": "VGC",
@@ -784,21 +865,21 @@
   },
   {
     "game": "PTCG",
-    "name": "👑CrownOfSpain 👑 #12 (10€ paypal)",
-    "date": "2026-10-20T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ad749ed115c12b73a5a83c0",
-    "players": 106,
-    "organizerId": 2698
-  },
-  {
-    "game": "PTCG",
     "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
     "date": "2026-10-20T18:00:00.000Z",
     "format": "STANDARD",
     "id": "6ad24689115c12b73a5a53f3",
     "players": 136,
     "organizerId": 2603
+  },
+  {
+    "game": "PTCG",
+    "name": "👑CrownOfSpain 👑 #12 (10€ paypal)",
+    "date": "2026-10-20T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ad749ed115c12b73a5a83c0",
+    "players": 106,
+    "organizerId": 2698
   },
   {
     "game": "VGC",
@@ -909,13 +990,13 @@
     "organizerId": 2045
   },
   {
-    "game": "OP",
-    "name": "[EB05] ChinoizeCup #124 MONDAY",
+    "game": "VGC",
+    "name": "Amyverse VGC Champions Arena #15 ❤️ Cash Prize!",
     "date": "2026-10-19T18:00:00.000Z",
-    "format": null,
-    "id": "6ad09157115c12b73a5a4654",
-    "players": 128,
-    "organizerId": 2339
+    "format": "M-C",
+    "id": "6acd93fd8a8383117e3eac3f",
+    "players": 77,
+    "organizerId": 2679
   },
   {
     "game": "PTCG",
@@ -927,13 +1008,13 @@
     "organizerId": 36
   },
   {
-    "game": "VGC",
-    "name": "Amyverse VGC Champions Arena #15 ❤️ Cash Prize!",
+    "game": "OP",
+    "name": "[EB05] ChinoizeCup #124 MONDAY",
     "date": "2026-10-19T18:00:00.000Z",
-    "format": "M-C",
-    "id": "6acd93fd8a8383117e3eac3f",
-    "players": 77,
-    "organizerId": 2679
+    "format": null,
+    "id": "6ad09157115c12b73a5a4654",
+    "players": 128,
+    "organizerId": 2339
   },
   {
     "game": "PTCG",
@@ -1125,15 +1206,6 @@
     "organizerId": 1286
   },
   {
-    "game": "POCKET",
-    "name": "PMPT THROWBACK SERIES!!! - A3b | $100 USD",
-    "date": "2026-10-17T16:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6acd01b98a8383117e3ea36f",
-    "players": 256,
-    "organizerId": 13
-  },
-  {
     "game": "VGC",
     "name": "⛩️$20 VGC Champions Tournament Ep 34!⛩️",
     "date": "2026-10-17T16:00:00.000Z",
@@ -1150,6 +1222,15 @@
     "id": "6ad0f6c68a8383117e3ec545",
     "players": 70,
     "organizerId": 2812
+  },
+  {
+    "game": "POCKET",
+    "name": "PMPT THROWBACK SERIES!!! - A3b | $100 USD",
+    "date": "2026-10-17T16:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6acd01b98a8383117e3ea36f",
+    "players": 256,
+    "organizerId": 13
   },
   {
     "game": "VGC",
@@ -1170,15 +1251,6 @@
     "organizerId": 2072
   },
   {
-    "game": "VGC",
-    "name": "Champions League VGC October (Prize: Shiny Gengar)",
-    "date": "2026-10-17T11:30:00.000Z",
-    "format": "M-C",
-    "id": "6a7c50af2b308b6067b51ef4",
-    "players": 81,
-    "organizerId": 2724
-  },
-  {
     "game": "PTCG",
     "name": "SEASAC League Challenge #6 (SEASON 6) [50 CODES]",
     "date": "2026-10-17T11:30:00.000Z",
@@ -1186,6 +1258,15 @@
     "id": "6ad32f70115c12b73a5a5e8e",
     "players": 60,
     "organizerId": 2623
+  },
+  {
+    "game": "VGC",
+    "name": "Champions League VGC October (Prize: Shiny Gengar)",
+    "date": "2026-10-17T11:30:00.000Z",
+    "format": "M-C",
+    "id": "6a7c50af2b308b6067b51ef4",
+    "players": 81,
+    "organizerId": 2724
   },
   {
     "game": "PTCG",
@@ -1521,15 +1602,6 @@
     "organizerId": 2461
   },
   {
-    "game": "PTCG",
-    "name": "🇧🇷 Hit Cup #20 | TCG Live",
-    "date": "2026-10-14T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6aa5a6f2f1243e65f97ff28f",
-    "players": 71,
-    "organizerId": 2612
-  },
-  {
     "game": "VGC",
     "name": "HeroicTitan’s VGC Battle Arena",
     "date": "2026-10-14T00:00:00.000Z",
@@ -1540,128 +1612,11 @@
   },
   {
     "game": "PTCG",
-    "name": "Last Prize Series S4 #4",
-    "date": "2026-10-13T23:35:00.000Z",
+    "name": "🇧🇷 Hit Cup #20 | TCG Live",
+    "date": "2026-10-14T00:00:00.000Z",
     "format": "STANDARD",
-    "id": "6acd76e1115c12b73a5a29f9",
-    "players": 153,
-    "organizerId": 2227
-  },
-  {
-    "game": "PTCG",
-    "name": "Torneo Sidedeck Online Gratis Martes 13 Octubre",
-    "date": "2026-10-13T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6acea0e3115c12b73a5a3582",
-    "players": 37,
-    "organizerId": 2306
-  },
-  {
-    "game": "PTCG",
-    "name": "Eternatus Card House League Challenge",
-    "date": "2026-10-13T22:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6ace1b57115c12b73a5a2e2b",
-    "players": 36,
-    "organizerId": 1270
-  },
-  {
-    "game": "PTCG",
-    "name": "⚡ Surge's TCG Vault Winner Takes All - 50 Codes",
-    "date": "2026-10-13T20:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ace0167115c12b73a5a2d8c",
-    "players": 94,
-    "organizerId": 2603
-  },
-  {
-    "game": "OP",
-    "name": "[OP17.5] ChinoizeCup #122 Tuesday",
-    "date": "2026-10-13T18:00:00.000Z",
-    "format": null,
-    "id": "6ac7880385920e4d25366a20",
-    "players": 64,
-    "organizerId": 2339
-  },
-  {
-    "game": "PTCG",
-    "name": "👑CrownOfSpain 👑 #11 (10€ paypal)",
-    "date": "2026-10-13T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ac51e2b245696afb351798d",
-    "players": 175,
-    "organizerId": 2698
-  },
-  {
-    "game": "POCKET",
-    "name": "Block Dragon ~ Perfect Order Format: $5 + FA Card",
-    "date": "2026-10-13T17:05:00.000Z",
-    "format": null,
-    "id": "6acde535115c12b73a5a2d57",
-    "players": 103,
-    "organizerId": 2598
-  },
-  {
-    "game": "VGC",
-    "name": "TARTAN'S ROAD TO NICE #42! - [CHAMPIONS REG M-C!]",
-    "date": "2026-10-13T17:00:00.000Z",
-    "format": "M-C",
-    "id": "6ac559b885920e4d25365899",
-    "players": 82,
-    "organizerId": 2398
-  },
-  {
-    "game": "VGC",
-    "name": "VGC UmbreNews 13.10.2026 #35 - Champion",
-    "date": "2026-10-13T15:30:00.000Z",
-    "format": "M-C",
-    "id": "6ac55ac385920e4d2536589f",
-    "players": 92,
-    "organizerId": 2471
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #3 (SEASON 6) [50 CODES]",
-    "date": "2026-10-13T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6accac1b8a8383117e3ea164",
-    "players": 124,
-    "organizerId": 2623
-  },
-  {
-    "game": "PTCG",
-    "name": "CHALLENGE OF DOOM! I will.....",
-    "date": "2026-10-13T03:35:00.000Z",
-    "format": "STANDARD",
-    "id": "6aa5d01c38886b36383be23c",
-    "players": 169,
-    "organizerId": 349
-  },
-  {
-    "game": "PTCG",
-    "name": "Vault Of Games | 🌙 NOT SO Midnight Madness #16",
-    "date": "2026-10-13T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6acc59f68a8383117e3ea0c2",
-    "players": 66,
-    "organizerId": 2226
-  },
-  {
-    "game": "POCKET",
-    "name": "Lagoon Serenity Format (FA Choice Prize)",
-    "date": "2026-10-13T02:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6aca6c5d115c12b73a5a0b2c",
-    "players": 48,
-    "organizerId": 2429
-  },
-  {
-    "game": "PTCG",
-    "name": "Nightshades Monday Cup 1 (25 Codes)",
-    "date": "2026-10-13T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6aad8311e905c1db687445ea",
-    "players": 46,
-    "organizerId": 2579
+    "id": "6aa5a6f2f1243e65f97ff28f",
+    "players": 71,
+    "organizerId": 2612
   }
 ]
