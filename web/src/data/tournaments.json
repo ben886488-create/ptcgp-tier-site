@@ -1,5 +1,104 @@
 [
   {
+    "game": "PTCG",
+    "name": "Nightshades Monday Cup 6 (75 Codes)",
+    "date": "2026-11-17T01:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6aad8426e905c1db68744640",
+    "players": 109,
+    "organizerId": 2579
+  },
+  {
+    "game": "PTCG",
+    "name": "🆓 Domino Arena Free | Temporada 3 | Semana 10 CL",
+    "date": "2026-11-17T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6afa4984b2fccaf0272d3966",
+    "players": 33,
+    "organizerId": 2791
+  },
+  {
+    "game": "PTCG",
+    "name": "Sunny's Weekly #282 LAIC at Fogo de Chao!",
+    "date": "2026-11-16T23:05:00.000Z",
+    "format": "STANDARD",
+    "id": "6af22baee99f3235a75e51d9",
+    "players": 197,
+    "organizerId": 145
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #55 REG M-C",
+    "date": "2026-11-16T23:00:00.000Z",
+    "format": "M-C",
+    "id": "6afb3ba6b2fccaf0272d40a9",
+    "players": 55,
+    "organizerId": 2823
+  },
+  {
+    "game": "VGC",
+    "name": "RookideeVGC Qualifier| Prize Shiny Venasaur",
+    "date": "2026-11-16T22:00:00.000Z",
+    "format": "M-C",
+    "id": "6ac16d5485920e4d25363410",
+    "players": 35,
+    "organizerId": 2513
+  },
+  {
+    "game": "POCKET",
+    "name": "TBC DAILY #10-PRIZE FA",
+    "date": "2026-11-16T20:45:00.000Z",
+    "format": null,
+    "id": "6afb3978ee43ef789147636a",
+    "players": 88,
+    "organizerId": 2461
+  },
+  {
+    "game": "PTCG",
+    "name": "Pumpkaweekly",
+    "date": "2026-11-16T19:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6afa3414b2fccaf0272d385b",
+    "players": 227,
+    "organizerId": 36
+  },
+  {
+    "game": "VGC",
+    "name": "Amyverse VGC Champions Arena #19 ❤️ Cash Prize!",
+    "date": "2026-11-16T19:00:00.000Z",
+    "format": "M-C",
+    "id": "6af28d46e99f3235a75e5895",
+    "players": 81,
+    "organizerId": 2679
+  },
+  {
+    "game": "OP",
+    "name": "[OP18] ChinoizeCup #136 MONDAY",
+    "date": "2026-11-16T19:00:00.000Z",
+    "format": null,
+    "id": "6af5879bdcbca32da6c4f034",
+    "players": 121,
+    "organizerId": 2339
+  },
+  {
+    "game": "POCKET",
+    "name": "xPabsy Cup #14 - $20",
+    "date": "2026-11-16T16:00:00.000Z",
+    "format": null,
+    "id": "6af97dbaee43ef7891475378",
+    "players": 179,
+    "organizerId": 2404
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #31 (SEASON 6) [50 CODES]",
+    "date": "2026-11-16T11:30:00.000Z",
+    "format": "CUSTOM",
+    "id": "6af90e66b2fccaf0272d2bdc",
+    "players": 116,
+    "organizerId": 2623
+  },
+  {
     "game": "POCKET",
     "name": "TBC x TDL x OTS Pop Up | FAs",
     "date": "2026-11-16T03:15:00.000Z",
@@ -25,6 +124,15 @@
     "id": "6af5f663dcbca32da6c4f636",
     "players": 202,
     "organizerId": 2518
+  },
+  {
+    "game": "PTCG",
+    "name": "Redacted Standard Popup (50 Codes)",
+    "date": "2026-11-15T23:05:00.000Z",
+    "format": "STANDARD",
+    "id": "6af9ebfdb2fccaf0272d3509",
+    "players": 136,
+    "organizerId": 222
   },
   {
     "game": "PTCG",
@@ -61,6 +169,15 @@
     "id": "6af16537e99f3235a75e4975",
     "players": 40,
     "organizerId": 2778
+  },
+  {
+    "game": "PTCG",
+    "name": "Tournoi amical LEAGUE canto N65°",
+    "date": "2026-11-15T13:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6af1b428c931f53978d9718f",
+    "players": 43,
+    "organizerId": 1049
   },
   {
     "game": "PTCG",
@@ -144,15 +261,6 @@
     "organizerId": 2461
   },
   {
-    "game": "POCKET",
-    "name": "PMPT #51 - DUAL FUSION ONLY!!! | $100 USD",
-    "date": "2026-11-14T17:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6af1f933c931f53978d97345",
-    "players": 303,
-    "organizerId": 13
-  },
-  {
     "game": "VGC",
     "name": "PokeInstinct VGCLiveTour #5 $30 USD for the winner",
     "date": "2026-11-14T17:00:00.000Z",
@@ -169,6 +277,15 @@
     "id": "6af743b9ee43ef7891473645",
     "players": 121,
     "organizerId": 2687
+  },
+  {
+    "game": "POCKET",
+    "name": "PMPT #51 - DUAL FUSION ONLY!!! | $100 USD",
+    "date": "2026-11-14T17:00:00.000Z",
+    "format": "CUSTOM",
+    "id": "6af1f933c931f53978d97345",
+    "players": 303,
+    "organizerId": 13
   },
   {
     "game": "POCKET",
@@ -270,15 +387,6 @@
     "organizerId": 30
   },
   {
-    "game": "VGC",
-    "name": "⛩️Chadweezy95 $25 VGC Champions Tourny Ep 36!⛩️",
-    "date": "2026-11-13T20:00:00.000Z",
-    "format": "M-C",
-    "id": "6af69a9600d53a11f5b92ac4",
-    "players": 37,
-    "organizerId": 2687
-  },
-  {
     "game": "PTCG",
     "name": "ASRcristiano # 205 - 60 codes - Road to Stuttgart!",
     "date": "2026-11-13T20:00:00.000Z",
@@ -297,15 +405,6 @@
     "organizerId": 2687
   },
   {
-    "game": "POCKET",
-    "name": "Umbreon99's Aura Sphere #13: $5 USD + Top 2 FA",
-    "date": "2026-11-13T19:00:00.000Z",
-    "format": null,
-    "id": "6adfaf4022fd412b92a4d7e5",
-    "players": 242,
-    "organizerId": 2748
-  },
-  {
     "game": "PTCG",
     "name": "⚡ Surge's TCG Vault Winner Takes All Live BO3 #29",
     "date": "2026-11-13T19:00:00.000Z",
@@ -313,6 +412,15 @@
     "id": "6af26654c931f53978d97c9b",
     "players": 101,
     "organizerId": 2603
+  },
+  {
+    "game": "POCKET",
+    "name": "Umbreon99's Aura Sphere #13: $5 USD + Top 2 FA",
+    "date": "2026-11-13T19:00:00.000Z",
+    "format": null,
+    "id": "6adfaf4022fd412b92a4d7e5",
+    "players": 242,
+    "organizerId": 2748
   },
   {
     "game": "PTCG",
@@ -351,15 +459,6 @@
     "organizerId": 1933
   },
   {
-    "game": "POCKET",
-    "name": "Underground pocket pop up 5$",
-    "date": "2026-11-13T11:30:00.000Z",
-    "format": null,
-    "id": "6af6909d00d53a11f5b92aa7",
-    "players": 103,
-    "organizerId": 30
-  },
-  {
     "game": "PTCG",
     "name": "SEASAC League Challenge #28 (SEASON 6) [50 CODES]",
     "date": "2026-11-13T11:30:00.000Z",
@@ -367,6 +466,15 @@
     "id": "6af6695fdcbca32da6c4ff7c",
     "players": 72,
     "organizerId": 2623
+  },
+  {
+    "game": "POCKET",
+    "name": "Underground pocket pop up 5$",
+    "date": "2026-11-13T11:30:00.000Z",
+    "format": null,
+    "id": "6af6909d00d53a11f5b92aa7",
+    "players": 103,
+    "organizerId": 30
   },
   {
     "game": "VGC",
@@ -592,15 +700,6 @@
     "id": "6aec5c10e94eae0f94747bc3",
     "players": 37,
     "organizerId": 2339
-  },
-  {
-    "game": "PTCG",
-    "name": "Amyverse PTCG Live Weekly #21 💛 Cash Prize!",
-    "date": "2026-11-11T19:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6aec9e16e94eae0f94747d8f",
-    "players": 178,
-    "organizerId": 2679
   },
   {
     "game": "VGC",
@@ -873,15 +972,6 @@
     "organizerId": 145
   },
   {
-    "game": "VGC",
-    "name": "Intimidators Champions Challenge #54 REG M-C",
-    "date": "2026-11-09T23:00:00.000Z",
-    "format": "M-C",
-    "id": "6af1ae4fc931f53978d97150",
-    "players": 53,
-    "organizerId": 2823
-  },
-  {
     "game": "PTCG",
     "name": "🇧🇷 Hit Challenge #56 | TCG Live",
     "date": "2026-11-09T23:00:00.000Z",
@@ -892,21 +982,21 @@
   },
   {
     "game": "VGC",
+    "name": "Intimidators Champions Challenge #54 REG M-C",
+    "date": "2026-11-09T23:00:00.000Z",
+    "format": "M-C",
+    "id": "6af1ae4fc931f53978d97150",
+    "players": 53,
+    "organizerId": 2823
+  },
+  {
+    "game": "VGC",
     "name": "RookideeVGC Qualifier| Prize Shiny Raichu",
     "date": "2026-11-09T22:00:00.000Z",
     "format": "M-C",
     "id": "6ac16d2a245696afb35158ff",
     "players": 38,
     "organizerId": 2513
-  },
-  {
-    "game": "VGC",
-    "name": "Amyverse VGC Champions Arena #18 ❤️ Cash Prize!",
-    "date": "2026-11-09T19:00:00.000Z",
-    "format": "M-C",
-    "id": "6ae8e279e94eae0f94745a97",
-    "players": 66,
-    "organizerId": 2679
   },
   {
     "game": "OP",
@@ -925,6 +1015,15 @@
     "id": "6af06b63c931f53978d9656c",
     "players": 135,
     "organizerId": 36
+  },
+  {
+    "game": "VGC",
+    "name": "Amyverse VGC Champions Arena #18 ❤️ Cash Prize!",
+    "date": "2026-11-09T19:00:00.000Z",
+    "format": "M-C",
+    "id": "6ae8e279e94eae0f94745a97",
+    "players": 66,
+    "organizerId": 2679
   },
   {
     "game": "PTCG",
@@ -970,6 +1069,15 @@
     "id": "6af15fd9c931f53978d9704d",
     "players": 69,
     "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "Synergy Saga - S3 (₹750 cash prize)",
+    "date": "2026-11-09T06:30:00.000Z",
+    "format": "M-C",
+    "id": "6ae8a4f20d00101b48bf4975",
+    "players": 48,
+    "organizerId": 2416
   },
   {
     "game": "POCKET",
@@ -1629,15 +1737,6 @@
     "organizerId": 2461
   },
   {
-    "game": "PTCG",
-    "name": "Amyverse Bulk Box Battles #6 🧡 Cash Prize!",
-    "date": "2026-11-03T18:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae1701822fd412b92a4e805",
-    "players": 47,
-    "organizerId": 2679
-  },
-  {
     "game": "VGC",
     "name": "Beaniest Battle of the Beans #2 M-C Shiny Prizing",
     "date": "2026-11-03T18:00:00.000Z",
@@ -1645,6 +1744,15 @@
     "id": "6ae0e17280a8f79408d1f92e",
     "players": 41,
     "organizerId": 808
+  },
+  {
+    "game": "PTCG",
+    "name": "Amyverse Bulk Box Battles #6 🧡 Cash Prize!",
+    "date": "2026-11-03T18:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6ae1701822fd412b92a4e805",
+    "players": 47,
+    "organizerId": 2679
   },
   {
     "game": "VGC",
@@ -1708,131 +1816,5 @@
     "id": "6ad826eb115c12b73a5a8ccb",
     "players": 39,
     "organizerId": 2791
-  },
-  {
-    "game": "PTCG",
-    "name": "Sunny's Weekly #280 Smoke on the Water!",
-    "date": "2026-11-02T23:05:00.000Z",
-    "format": "STANDARD",
-    "id": "6adeb9a797e21d82e5c6f4a6",
-    "players": 189,
-    "organizerId": 145
-  },
-  {
-    "game": "VGC",
-    "name": "Intimidators Champions Challenge #53 REG M-C",
-    "date": "2026-11-02T23:00:00.000Z",
-    "format": "M-C",
-    "id": "6ae89ebd0d00101b48bf4955",
-    "players": 43,
-    "organizerId": 2823
-  },
-  {
-    "game": "VGC",
-    "name": "RookideeVGC Qualifier| Prize Shiny Dragonite",
-    "date": "2026-11-02T22:00:00.000Z",
-    "format": "M-C",
-    "id": "6ac16ce785920e4d2536340f",
-    "players": 47,
-    "organizerId": 2513
-  },
-  {
-    "game": "POCKET",
-    "name": "Dark League Tournament | $50 Prize Pool",
-    "date": "2026-11-02T20:00:00.000Z",
-    "format": null,
-    "id": "6ae7f6340d00101b48bf453d",
-    "players": 304,
-    "organizerId": 2045
-  },
-  {
-    "game": "VGC",
-    "name": "Amyverse VGC Champions Arena #17 ❤️ Cash Prize!",
-    "date": "2026-11-02T19:00:00.000Z",
-    "format": "M-C",
-    "id": "6adff5e180a8f79408d1f34d",
-    "players": 82,
-    "organizerId": 2679
-  },
-  {
-    "game": "PTCG",
-    "name": "Pumpkaweekly - delta reign prizing",
-    "date": "2026-11-02T19:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae81f560d00101b48bf4756",
-    "players": 102,
-    "organizerId": 36
-  },
-  {
-    "game": "OP",
-    "name": "[EB05] ChinoizeCup #130 MONDAY",
-    "date": "2026-11-02T19:00:00.000Z",
-    "format": null,
-    "id": "6ae310ff22fd412b92a4f355",
-    "players": 63,
-    "organizerId": 2339
-  },
-  {
-    "game": "PTCG",
-    "name": "🏆Moujii's Dojo🏆 (Late Registration Available!)",
-    "date": "2026-11-02T17:10:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae083c680a8f79408d1f6af",
-    "players": 221,
-    "organizerId": 35
-  },
-  {
-    "game": "POCKET",
-    "name": "DR KELP’S CHUM BUCKET POP UP",
-    "date": "2026-11-02T15:20:00.000Z",
-    "format": null,
-    "id": "6ae877fb0d00101b48bf489d",
-    "players": 83,
-    "organizerId": 2461
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #19 (SEASON 6) [50 CODES]",
-    "date": "2026-11-02T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae86dea0d00101b48bf484e",
-    "players": 45,
-    "organizerId": 2623
-  },
-  {
-    "game": "POCKET",
-    "name": "🏰FORT TOURNAMENTS DOUBLE DECKS🏰 $20 + FA CARDS",
-    "date": "2026-11-02T08:30:00.000Z",
-    "format": null,
-    "id": "6ae727bd0d00101b48bf3da0",
-    "players": 104,
-    "organizerId": 2811
-  },
-  {
-    "game": "POCKET",
-    "name": "Lagoon Season 11 Invitational (FA Prizes)",
-    "date": "2026-11-02T03:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6ad8ed558a8383117e3f0baa",
-    "players": 34,
-    "organizerId": 2429
-  },
-  {
-    "game": "VGC",
-    "name": "Sketch Academy Sunday Regulation M-C Tournament",
-    "date": "2026-11-02T02:00:00.000Z",
-    "format": "M-C",
-    "id": "6adef5e191617679e84a118f",
-    "players": 43,
-    "organizerId": 1651
-  },
-  {
-    "game": "PTCG",
-    "name": "Rare Candy Club Showdown #50 (50 CODES)",
-    "date": "2026-11-02T01:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae34b0022fd412b92a4f4b7",
-    "players": 244,
-    "organizerId": 2518
   }
 ]
