@@ -1,5 +1,41 @@
 [
   {
+    "game": "VGC",
+    "name": "⛩️Chadweezy95 VGC Champions Tournament Ep 39!⛩️",
+    "date": "2026-11-21T20:30:00.000Z",
+    "format": "M-C",
+    "id": "6b00f567e0b5cca158bba21b",
+    "players": 39,
+    "organizerId": 2687
+  },
+  {
+    "game": "PTCG",
+    "name": "NOVEMBER CHEF CELEBRATIONS COOKOFF",
+    "date": "2026-11-21T19:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6adf7d1822fd412b92a4d43f",
+    "players": 117,
+    "organizerId": 2315
+  },
+  {
+    "game": "PTCG",
+    "name": "SEASAC League Challenge #36 (SEASON 6) [50 CODES]",
+    "date": "2026-11-21T11:30:00.000Z",
+    "format": "CUSTOM",
+    "id": "6b01009cada8eea1c94cf2a0",
+    "players": 57,
+    "organizerId": 2623
+  },
+  {
+    "game": "PTCG",
+    "name": "TOURNAMENT OF DOOM! Stuff.",
+    "date": "2026-11-21T03:35:00.000Z",
+    "format": "STANDARD",
+    "id": "6ae97a1ce94eae0f94746407",
+    "players": 355,
+    "organizerId": 349
+  },
+  {
     "game": "POCKET",
     "name": "Project OTS x The Dark League Tournament | FAs",
     "date": "2026-11-20T23:40:00.000Z",
@@ -79,6 +115,15 @@
     "id": "6afec2a62b9e244e6cee5484",
     "players": 122,
     "organizerId": 2011
+  },
+  {
+    "game": "POCKET",
+    "name": "Yosh Dual Deck Tournament #28 ( Rp 2.000.000+ )",
+    "date": "2026-11-20T12:10:00.000Z",
+    "format": "CUSTOM",
+    "id": "6afade41b2fccaf0272d3d77",
+    "players": 116,
+    "organizerId": 1933
   },
   {
     "game": "VGC",
@@ -351,6 +396,15 @@
     "organizerId": 2251
   },
   {
+    "game": "PTCG",
+    "name": "Last Prize Series S4 #9",
+    "date": "2026-11-18T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "6afa575dee43ef7891475d9b",
+    "players": 98,
+    "organizerId": 2227
+  },
+  {
     "game": "POCKET",
     "name": "Umbreon x Storm Returns-$5+FA SC AND MORE",
     "date": "2026-11-17T23:45:00.000Z",
@@ -504,6 +558,15 @@
     "organizerId": 2461
   },
   {
+    "game": "OP",
+    "name": "[OP18] ChinoizeCup #136 MONDAY",
+    "date": "2026-11-16T19:00:00.000Z",
+    "format": null,
+    "id": "6af5879bdcbca32da6c4f034",
+    "players": 121,
+    "organizerId": 2339
+  },
+  {
     "game": "VGC",
     "name": "Amyverse VGC Champions Arena #19 ❤️ Cash Prize!",
     "date": "2026-11-16T19:00:00.000Z",
@@ -520,15 +583,6 @@
     "id": "6afa3414b2fccaf0272d385b",
     "players": 227,
     "organizerId": 36
-  },
-  {
-    "game": "OP",
-    "name": "[OP18] ChinoizeCup #136 MONDAY",
-    "date": "2026-11-16T19:00:00.000Z",
-    "format": null,
-    "id": "6af5879bdcbca32da6c4f034",
-    "players": 121,
-    "organizerId": 2339
   },
   {
     "game": "POCKET",
@@ -826,15 +880,6 @@
     "id": "6aef3ca2c931f53978d95882",
     "players": 101,
     "organizerId": 1107
-  },
-  {
-    "game": "POCKET",
-    "name": "OTS Pokemon TCG Pocket Arena Pop Up | Standard",
-    "date": "2026-11-13T21:00:00.000Z",
-    "format": null,
-    "id": "6af70355b2fccaf0272d0d65",
-    "players": 41,
-    "organizerId": 30
   },
   {
     "game": "POCKET",
@@ -1414,15 +1459,6 @@
   },
   {
     "game": "PTCG",
-    "name": "E4MC Modern Mondays (Delta Reign Legal)",
-    "date": "2026-11-10T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae7fa53ae67092a4074106b",
-    "players": 37,
-    "organizerId": 2819
-  },
-  {
-    "game": "PTCG",
     "name": "🆓 Domino Arena Free | Temporada 3 | Semana 9 [CL]",
     "date": "2026-11-10T00:00:00.000Z",
     "format": "STANDARD",
@@ -1432,12 +1468,12 @@
   },
   {
     "game": "PTCG",
-    "name": "Sunny's Weekly #281 My Friend Rayquaza :D",
-    "date": "2026-11-09T23:05:00.000Z",
+    "name": "E4MC Modern Mondays (Delta Reign Legal)",
+    "date": "2026-11-10T00:00:00.000Z",
     "format": "STANDARD",
-    "id": "6ae901a50c463890f3049d40",
-    "players": 226,
-    "organizerId": 145
+    "id": "6ae7fa53ae67092a4074106b",
+    "players": 37,
+    "organizerId": 2819
   },
   {
     "game": "POCKET",
@@ -1447,6 +1483,15 @@
     "id": "6af20b85c931f53978d974c7",
     "players": 96,
     "organizerId": 2461
+  },
+  {
+    "game": "PTCG",
+    "name": "Sunny's Weekly #281 My Friend Rayquaza :D",
+    "date": "2026-11-09T23:05:00.000Z",
+    "format": "STANDARD",
+    "id": "6ae901a50c463890f3049d40",
+    "players": 226,
+    "organizerId": 145
   },
   {
     "game": "PTCG",
@@ -1485,15 +1530,6 @@
     "organizerId": 2339
   },
   {
-    "game": "VGC",
-    "name": "Amyverse VGC Champions Arena #18 ❤️ Cash Prize!",
-    "date": "2026-11-09T19:00:00.000Z",
-    "format": "M-C",
-    "id": "6ae8e279e94eae0f94745a97",
-    "players": 66,
-    "organizerId": 2679
-  },
-  {
     "game": "PTCG",
     "name": "Pumpkaweekly",
     "date": "2026-11-09T19:00:00.000Z",
@@ -1501,6 +1537,15 @@
     "id": "6af06b63c931f53978d9656c",
     "players": 135,
     "organizerId": 36
+  },
+  {
+    "game": "VGC",
+    "name": "Amyverse VGC Champions Arena #18 ❤️ Cash Prize!",
+    "date": "2026-11-09T19:00:00.000Z",
+    "format": "M-C",
+    "id": "6ae8e279e94eae0f94745a97",
+    "players": 66,
+    "organizerId": 2679
   },
   {
     "game": "PTCG",
@@ -1708,113 +1753,5 @@
     "id": "6aef9092e99f3235a75e3918",
     "players": 33,
     "organizerId": 2518
-  },
-  {
-    "game": "PTCG",
-    "name": "OTS Pokemon TCG Live Arena #3",
-    "date": "2026-11-07T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae9d7610c463890f304a4e0",
-    "players": 60,
-    "organizerId": 30
-  },
-  {
-    "game": "VGC",
-    "name": "EXTRA LIFE - CHILDRENS HOSPITAL CHARITY TOURNAMENT",
-    "date": "2026-11-07T22:00:00.000Z",
-    "format": "M-C",
-    "id": "6aeabf35e94eae0f94746e72",
-    "players": 59,
-    "organizerId": 2830
-  },
-  {
-    "game": "POCKET",
-    "name": "PMPT #50 - DUAL DECK FORMAT!!! | $100 USD",
-    "date": "2026-11-07T17:00:00.000Z",
-    "format": null,
-    "id": "6ae7fbcb0d00101b48bf45b5",
-    "players": 476,
-    "organizerId": 13
-  },
-  {
-    "game": "VGC",
-    "name": "Intimidators Challenge - Road to LAIC (+280 R$)",
-    "date": "2026-11-07T16:00:00.000Z",
-    "format": "M-C",
-    "id": "6ae50a3bae67092a4073f4ee",
-    "players": 47,
-    "organizerId": 2823
-  },
-  {
-    "game": "PTCG",
-    "name": "CHAMPIONSHIP OF DOOM! TEN!",
-    "date": "2026-11-07T16:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6a8723725a30714095575300",
-    "players": 494,
-    "organizerId": 349
-  },
-  {
-    "game": "VGC",
-    "name": "Raichu Rivalry | Champions Open",
-    "date": "2026-11-07T14:00:00.000Z",
-    "format": "M-C",
-    "id": "6ae72cb90d00101b48bf3dbc",
-    "players": 47,
-    "organizerId": 2798
-  },
-  {
-    "game": "VGC",
-    "name": "⚔️Torre Lotta Cup #3⚔️ 🏆50€ Amazon Gift Cards🏆",
-    "date": "2026-11-07T13:00:00.000Z",
-    "format": "M-C",
-    "id": "6aea24ef0c463890f304a725",
-    "players": 68,
-    "organizerId": 2815
-  },
-  {
-    "game": "PTCG",
-    "name": "SEASAC League Challenge #23 (SEASON 6) [50 CODES]",
-    "date": "2026-11-07T11:30:00.000Z",
-    "format": "STANDARD",
-    "id": "6aeeb402e99f3235a75e2b58",
-    "players": 52,
-    "organizerId": 2623
-  },
-  {
-    "game": "VGC",
-    "name": "5 $ to 1st｜Pokexiaotian's Weekly Pokemon Battle#1",
-    "date": "2026-11-07T11:00:00.000Z",
-    "format": "M-C",
-    "id": "6aed18c4e94eae0f94748584",
-    "players": 33,
-    "organizerId": 1758
-  },
-  {
-    "game": "POCKET",
-    "name": "is anyone even awake pop up #2",
-    "date": "2026-11-07T08:55:00.000Z",
-    "format": null,
-    "id": "6aeecf0ac931f53978d95555",
-    "players": 34,
-    "organizerId": 2661
-  },
-  {
-    "game": "POCKET",
-    "name": "Lagoon Mega Wars Pop Up Late Night (5 USD)",
-    "date": "2026-11-07T04:00:00.000Z",
-    "format": "CUSTOM",
-    "id": "6aee8194e99f3235a75e2a16",
-    "players": 72,
-    "organizerId": 2429
-  },
-  {
-    "game": "PTCG",
-    "name": "Elite Four Fridays (Delta Reign)",
-    "date": "2026-11-07T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "6ae7fe3a0d00101b48bf460a",
-    "players": 69,
-    "organizerId": 2819
   }
 ]
